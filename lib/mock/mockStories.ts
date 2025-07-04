@@ -1,6 +1,6 @@
 // ✅ File: lib/mock/mockStories.ts – Danh sách truyện cho Truyendam (chuẩn hóa + views động)
 
-import { generateFakeViews } from "@/lib/utils/generateFakeViews";
+import { generateFakeViews } from "../utils/generateFakeViews";
 
 export const mockStories = [
   {
@@ -63,4 +63,26 @@ export const mockStories = [
     status: "ongoing",
     updatedAt: "2025-07-03",
   },
+  //không thể quên
+  {
+  slug: "khong-the-quen",
+  title: "Không thể quên...",
+  description:
+    "Truyện sex dài tập kể về những đêm lén lút, vụng trộm trong xóm trọ sinh viên giữa người đàn bà cô đơn và cậu trai hàng xóm... Những cuộc làm tình khó quên khiến cô không thể dứt khỏi ký ức về anh.",
+  tags: [
+    "truyện dài",
+    "truyện sex hay",
+    "truyện sex dài tập",
+    "chị em",
+    "vắng chồng",
+    "lén lút",
+    "truyện Việt",
+    "vụng trộm",
+  ],
+  coverImage: "/images/khong-the-quen/khong-the-quen.jpg",
+  totalChapters: 13,
+  views: generateFakeViews(9000, 15000),
+  status: "ongoing",
+  updatedAt: "2025-07-04",
+}
 ];
