@@ -3,12 +3,11 @@
 import Head from "next/head";
 import { useRouter } from "next/router";
 import Link from "next/link";
-import { useEffect, useState } from "react";
 import { mockStories } from "@/lib/mock/mockStories";
 import mockChapters from "@/lib/mock/mockChapters";
 import BottomSuggestBlock from "@/components/BottomSuggestBlock";
 import ContinueReading from "@/components/ContinueReading";
-import Script from "next/script"; // ✅ Thêm Breadcrumb SEO
+import Script from "next/script"; // ✅ Breadcrumb SEO
 
 export default function ChapterTocPage() {
   const router = useRouter();
@@ -16,7 +15,13 @@ export default function ChapterTocPage() {
 
   const story = mockStories.find((s) => s.slug === slug);
   const chapterObj = mockChapters[slug as string] || {};
-  const chapters = Object.values(chapterObj);
+
+  // ✅ FIXED: ép kiểu để TypeScript không báo lỗi unknown
+  const chapters = Object.values(chapterObj).sort((a, b) => a.id - b.id) as {
+    id: number;
+    title: string;
+    hasMarkdown?: boolean;
+  }[];
 
   if (!story) {
     return (
@@ -27,7 +32,8 @@ export default function ChapterTocPage() {
   }
 
   const keywords =
-    story.tags?.join(", ") + ", truyện sex, truyện người lớn, danh sách chương, truyện 18+, truyện xxx" ||
+    story.tags?.join(", ") +
+      ", truyện sex, truyện người lớn, danh sách chương, truyện 18+, truyện xxx" ||
     "truyện sex, truyện người lớn, danh sách chương, truyện 18+, truyện xxx";
 
   return (
@@ -55,7 +61,7 @@ export default function ChapterTocPage() {
         <meta property="og:type" content="article" />
       </Head>
 
-      {/* ✅ Breadcrumb SEO JSON-LD */}
+      {/* ✅ Breadcrumb JSON-LD SEO */}
       <Script
         type="application/ld+json"
         id="breadcrumb-jsonld"
@@ -64,33 +70,33 @@ export default function ChapterTocPage() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "BreadcrumbList",
-            "itemListElement": [
+            itemListElement: [
               {
                 "@type": "ListItem",
-                "position": 1,
-                "name": "Trang chủ",
-                "item": "https://truyendam.net"
+                position: 1,
+                name: "Trang chủ",
+                item: "https://truyendam.net",
               },
               {
                 "@type": "ListItem",
-                "position": 2,
-                "name": "Truyện",
-                "item": "https://truyendam.net/truyen"
+                position: 2,
+                name: "Truyện",
+                item: "https://truyendam.net/truyen",
               },
               {
                 "@type": "ListItem",
-                "position": 3,
-                "name": story.title,
-                "item": `https://truyendam.net/truyen/${story.slug}`
+                position: 3,
+                name: story.title,
+                item: `https://truyendam.net/truyen/${story.slug}`,
               },
               {
                 "@type": "ListItem",
-                "position": 4,
-                "name": "Danh sách chương",
-                "item": `https://truyendam.net/truyen/${story.slug}/toc`
-              }
-            ]
-          })
+                position: 4,
+                name: "Danh sách chương",
+                item: `https://truyendam.net/truyen/${story.slug}/toc`,
+              },
+            ],
+          }),
         }}
       />
 
@@ -102,7 +108,7 @@ export default function ChapterTocPage() {
           </Link>
         </div>
 
-        {/* 📖 Ảnh + tiêu đề + mô tả */}
+        {/* 📖 Tiêu đề + ảnh + mô tả */}
         <div className="max-w-3xl mx-auto flex flex-col sm:flex-row items-center sm:items-start gap-4 mb-6 px-2">
           <div className="w-28 h-40 sm:w-32 sm:h-44 relative rounded-md shadow overflow-hidden">
             <img
@@ -119,9 +125,7 @@ export default function ChapterTocPage() {
               {chapters.length} chương · Chọn để đọc ngay bên dưới
             </p>
             {story.description && (
-              <p className="text-sm text-zinc-300 max-w-md">
-                {story.description}
-              </p>
+              <p className="text-sm text-zinc-300 max-w-md">{story.description}</p>
             )}
           </div>
         </div>
@@ -147,7 +151,7 @@ export default function ChapterTocPage() {
           </div>
         </div>
 
-        {/* 📌 Block gợi ý truyện */}
+        {/* 📌 Gợi ý truyện */}
         <div className="max-w-3xl mx-auto mt-12 px-2">
           <BottomSuggestBlock theme="dark" />
         </div>
