@@ -37,17 +37,18 @@ function StoryDetailPage() {
     const keywords = ((_a = story.tags) === null || _a === void 0 ? void 0 : _a.join(", ")) || "truyện sex, truyện người lớn, truyện 18+";
     return (<>
       <head_1.default>
-        <title>{story.title} – Truyện sex cực phê, full cảnh nóng | Truyendam.net</title>
-        <meta name="description" content={`Đọc truyện "${story.title}" cực nóng, cực thấm – thuộc thể loại ${story.tags.join(", ")}. Nội dung gợi cảm, cập nhật miễn phí mỗi ngày.`}/>
-        <meta name="keywords" content={`truyện sex, truyện người lớn, truyện 18+, ${story.tags.join(", ")}, ${story.title}`}/>
-        <meta property="og:title" content={`${story.title} – Truyện sex cực phê`}/>
-        <meta property="og:description" content={`${story.title} – truyện người lớn hấp dẫn, đầy cảnh nóng. Click để đọc miễn phí tại Truyendam.net.`}/>
-        <meta property="og:image" content={story.coverImage}/>
-        <meta property="og:type" content="article"/>
-        <meta property="og:url" content={`https://truyendam.net/truyen/${story.slug}`}/>
-        <meta name="twitter:card" content="summary_large_image"/>
-        <link rel="canonical" href="https://truyendam.net/"/>
-      </head_1.default>
+  <title>{story.title} – Truyện sex cực phê, full cảnh nóng | Truyendam.net</title>
+  <meta name="description" content={`Đọc truyện "${story.title}" cực nóng, cực thấm – thuộc thể loại ${story.tags.join(", ")}. Nội dung gợi cảm, cập nhật miễn phí mỗi ngày.`}/>
+  <meta name="keywords" content={`truyện sex, truyện người lớn, truyện 18+, ${story.tags.join(", ")}, ${story.title}`}/>
+  <meta property="og:title" content={`${story.title} – Truyện sex cực phê`}/>
+  <meta property="og:description" content={`${story.title} – truyện người lớn hấp dẫn, đầy cảnh nóng. Click để đọc miễn phí tại Truyendam.net.`}/>
+  <meta property="og:image" content={story.coverImage}/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:url" content={`https://truyendam.net/truyen/${story.slug}`}/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  {slug && (<link rel="canonical" href={`https://truyendam.net/truyen/${slug}`}/>)}
+    </head_1.default>
+
 
       <div className="min-h-screen bg-black text-white px-4 py-6">
         <div className="text-sm text-zinc-400 mb-2 text-center">

@@ -18,7 +18,7 @@ function AllStoriesPage() {
   <meta property="og:title" content="Truyện Người Lớn Hay Nhất – Đọc Truyện 18+ Miễn Phí"/>
   <meta property="og:description" content="Khám phá kho truyện người lớn 18+ gợi cảm, hấp dẫn và hoàn toàn miễn phí. Truyện sex mới nhất, cập nhật mỗi ngày – chỉ có tại Truyendam.net!"/>
   <meta name="twitter:card" content="summary_large_image"/>
-    <link rel="canonical" href="https://truyendam.net/"/>
+  <link rel="canonical" href="https://truyendam.net/truyen"/>
     </head_1.default>
 
 

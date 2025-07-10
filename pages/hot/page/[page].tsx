@@ -15,19 +15,20 @@ export default function HotStoriesPage({ stories, page, totalPages }: { stories:
   return (
     <>
       <Head>
-        <title>{`🔥 Truyện HOT – Page ${page} | Truyendam.net`}</title>
-        <meta
-          name="description"
-          content={`Tổng hợp truyện sex HOT nhất hôm nay. Trang ${page}. Nội dung gợi cảm, hấp dẫn, cập nhật liên tục.`}
-        />
-        <meta name="keywords" content="truyện sex hot, truyện người lớn hot, truyện 18+ hot" />
-        <meta property="og:title" content={`🔥 Truyện HOT – Page ${page}`} />
-        <meta property="og:description" content={`Tổng hợp truyện sex HOT hôm nay. Trang ${page}. Truy cập ngay Truyendam.net!`} />
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content={`https://truyendam.net/hot/page/${page}`} />
-        <meta name="twitter:card" content="summary_large_image" />
-<link rel="canonical" href="https://truyendam.net/" />
-      </Head>
+  <title>{`🔥 Truyện HOT – Page ${page} | Truyendam.net`}</title>
+  <meta
+    name="description"
+    content={`Tổng hợp truyện sex HOT nhất hôm nay. Trang ${page}. Nội dung gợi cảm, hấp dẫn, cập nhật liên tục.`}
+  />
+  <meta name="keywords" content="truyện sex hot, truyện người lớn hot, truyện 18+ hot" />
+  <meta property="og:title" content={`🔥 Truyện HOT – Page ${page}`} />
+  <meta property="og:description" content={`Tổng hợp truyện sex HOT hôm nay. Trang ${page}. Truy cập ngay Truyendam.net!`} />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={`https://truyendam.net/hot/page/${page}`} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="canonical" href={`https://truyendam.net/hot/page/${page}`} />
+</Head>
+
 
       <div className="min-h-screen bg-black text-white px-4 py-6 max-w-6xl mx-auto">
         <h1 className="text-2xl md:text-3xl font-bold text-red-400 mb-6">

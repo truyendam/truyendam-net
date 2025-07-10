@@ -25,16 +25,17 @@ function LatestPage({ stories, page, totalPages }) {
     const basePath = "/latest/page";
     return (<>
       <head_1.default>
-        <title>{`Truyện mới cập nhật – Page ${page} | Truyendam.net`}</title>
-        <meta name="description" content={`Tổng hợp truyện mới cập nhật – những truyện người lớn hấp dẫn, cập nhật thường xuyên. Trang ${page}.`}/>
-        <meta name="keywords" content={`truyện sex mới, truyện người lớn mới, truyện cập nhật`}/>
-        <meta property="og:title" content={`Truyện mới cập nhật – Page ${page}`}/>
-        <meta property="og:description" content={`Truyện mới nhất – trang ${page} – đọc ngay!`}/>
-        <meta property="og:type" content="website"/>
-        <meta property="og:url" content={`https://truyendam.net/latest/page/${page}`}/>
-        <meta name="twitter:card" content="summary_large_image"/>
-    <link rel="canonical" href="https://truyendam.net/"/>
-      </head_1.default>
+  <title>{`Truyện mới cập nhật – Page ${page} | Truyendam.net`}</title>
+  <meta name="description" content={`Tổng hợp truyện mới cập nhật – những truyện người lớn hấp dẫn, cập nhật thường xuyên. Trang ${page}.`}/>
+  <meta name="keywords" content={`truyện sex mới, truyện người lớn mới, truyện cập nhật`}/>
+  <meta property="og:title" content={`Truyện mới cập nhật – Page ${page}`}/>
+  <meta property="og:description" content={`Truyện mới nhất – trang ${page} – đọc ngay!`}/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content={`https://truyendam.net/latest/page/${page}`}/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <link rel="canonical" href={`https://truyendam.net/latest/page/${page}`}/>
+    </head_1.default>
+
 
       <div className="min-h-screen bg-black text-white px-4 py-6 max-w-6xl mx-auto">
         <h1 className="text-2xl md:text-3xl font-bold text-blue-400 mb-6">🆕 Truyện mới cập nhật</h1>

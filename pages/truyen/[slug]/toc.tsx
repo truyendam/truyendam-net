@@ -60,7 +60,7 @@ export default function ChapterTocPage() {
         />
         <meta property="og:type" content="article" />
         <meta name="twitter:card" content="summary_large_image" />
-        <link rel="canonical" href="https://truyendam.net/" />
+         <link rel="canonical" href={`https://truyendam.net/truyen/${slug}/toc`} />
       </Head>
 
       {/* ✅ Breadcrumb JSON-LD SEO */}

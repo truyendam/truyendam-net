@@ -4,24 +4,22 @@ export default function ContactPage() {
   return (
     <div className="min-h-screen bg-black text-white px-4 py-8">
 <Head>
-  <title>Liên Hệ Truyendam.net – Góp Ý, Gỡ Truyện, Hợp Tác</title>
+  <title>Truyendam.net – Web Truyện Người Lớn Gợi Cảm & Sạch Sẽ</title>
   <meta
     name="description"
-    content="Liên hệ với Truyendam.net để gỡ truyện vi phạm, góp ý nội dung hoặc đề xuất hợp tác. Web truyện người lớn sạch, cập nhật mỗi ngày."
+    content="Tìm hiểu về Truyendam.net – Nơi chia sẻ truyện sex 18+ sạch, hấp dẫn, tôn vinh nghệ thuật dục tính. Cam kết không loạn luân, không vị thành niên. Đọc miễn phí, cập nhật hàng ngày."
   />
   <meta
     name="keywords"
-    content="liên hệ truyện sex, gỡ truyện người lớn, góp ý truyện 18+, hợp tác web sex, liên hệ truyendam"
+    content="truyện sex Việt, truyện người lớn, truyện 18+, web truyện người lớn, giới thiệu Truyendam, web sex sạch"
   />
-  <meta property="og:title" content="Liên Hệ – Gỡ Truyện, Góp Ý, Hợp Tác với Truyendam.net" />
-  <meta property="og:description" content="Bạn có thể gửi góp ý hoặc yêu cầu liên quan đến nội dung truyện người lớn trên Truyendam.net." />
+  <meta property="og:title" content="Giới thiệu Truyendam.net – Truyện Sex Việt Gợi Cảm & Trách Nhiệm" />
+  <meta property="og:description" content="Tại đây bạn sẽ hiểu rõ định hướng nội dung của Truyendam.net – nơi tôn trọng người đọc trưởng thành." />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://truyendam.net/lien-he" />
+  <meta property="og:url" content="https://truyendam.net/gioi-thieu" />
   <meta name="twitter:card" content="summary_large_image" />
-<link rel="canonical" href="https://truyendam.net/" />
+  <link rel="canonical" href="https://truyendam.net/gioi-thieu" />
 </Head>
-
-
       <div className="max-w-3xl mx-auto space-y-6">
         <h1 className="text-3xl font-bold text-pink-400">Liên Hệ</h1>
         <p>

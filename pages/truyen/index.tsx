@@ -23,7 +23,7 @@ export default function AllStoriesPage() {
     content="Khám phá kho truyện người lớn 18+ gợi cảm, hấp dẫn và hoàn toàn miễn phí. Truyện sex mới nhất, cập nhật mỗi ngày – chỉ có tại Truyendam.net!"
   />
   <meta name="twitter:card" content="summary_large_image" />
-<link rel="canonical" href="https://truyendam.net/" />
+  <link rel="canonical" href="https://truyendam.net/truyen" />
 </Head>
 
 

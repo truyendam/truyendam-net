@@ -39,7 +39,7 @@ function ChapterTocPage() {
         <meta property="og:url" content={`https://truyendam.net/truyen/${story.slug}/toc`}/>
         <meta property="og:type" content="article"/>
         <meta name="twitter:card" content="summary_large_image"/>
-        <link rel="canonical" href="https://truyendam.net/"/>
+         <link rel="canonical" href={`https://truyendam.net/truyen/${slug}/toc`}/>
       </head_1.default>
 
       {/* ✅ Breadcrumb JSON-LD SEO */}

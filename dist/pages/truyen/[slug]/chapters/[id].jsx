@@ -87,17 +87,18 @@ function ChapterPage({ slug, chapterId, storyTitle, totalChapters, content, stat
     };
     return (<>
       <head_1.default>
-        <title>{`Chương ${chapterId} - ${storyTitle} | Truyện 18+ hay tại Truyendam.net`}</title>
-        <meta name="description" content={`Chương ${chapterId} của truyện ${storyTitle}. Truyện người lớn, truyện sex cực nóng, cập nhật mỗi ngày tại Truyendam.net.`}/>
-        <meta name="keywords" content="truyện sex, truyện người lớn, truyện 18+, truyện xxx, truyện nóng, truyện hay, đọc truyện sex,vụng trộm, vắng chồng,ngoại tình"/>
-        <meta property="og:title" content={`Chương ${chapterId} - ${storyTitle}`}/>
-        <meta property="og:description" content={`Đọc chương ${chapterId} của truyện ${storyTitle} - nội dung hấp dẫn, đầy kích thích tại Truyendam.net.`}/>
-        <meta property="og:image" content={`https://truyendam.net/og-cover/${slug}.jpg`}/>
-        <meta property="og:url" content={`https://truyendam.net/truyen/${slug}/chapters/${chapterId}`}/>
-        <meta property="og:type" content="article"/>
-        <meta name="twitter:card" content="summary_large_image"/>
-        <link rel="canonical" href="https://truyendam.net/"/>
-      </head_1.default>
+  <title>{`Chương ${chapterId} - ${storyTitle} | Truyện 18+ hay tại Truyendam.net`}</title>
+  <meta name="description" content={`Chương ${chapterId} của truyện ${storyTitle}. Truyện người lớn, truyện sex cực nóng, cập nhật mỗi ngày tại Truyendam.net.`}/>
+  <meta name="keywords" content="truyện sex, truyện người lớn, truyện 18+, truyện xxx, truyện nóng, truyện hay, đọc truyện sex,vụng trộm, vắng chồng,ngoại tình"/>
+  <meta property="og:title" content={`Chương ${chapterId} - ${storyTitle}`}/>
+  <meta property="og:description" content={`Đọc chương ${chapterId} của truyện ${storyTitle} - nội dung hấp dẫn, đầy kích thích tại Truyendam.net.`}/>
+  <meta property="og:image" content={`https://truyendam.net/og-cover/${slug}.jpg`}/>
+  <meta property="og:url" content={`https://truyendam.net/truyen/${slug}/chapters/${chapterId}`}/>
+  <meta property="og:type" content="article"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <link rel="canonical" href={`https://truyendam.net/truyen/${slug}/chapters/${chapterId}`}/>
+    </head_1.default>
+
 
       <div className={`${theme === "dark" ? "bg-black text-white" : "bg-white text-[#222]"} min-h-screen px-4 py-6`}>
         <div className="max-w-3xl mx-auto space-y-6 px-2">

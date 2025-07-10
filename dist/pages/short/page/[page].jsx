@@ -24,17 +24,16 @@ const ITEMS_PER_PAGE = 9;
 function ShortStoriesPage({ stories, page, totalPages, }) {
     return (<>
       <head_1.default>
-        <title>{`Truyện sex ngắn – Page ${page} | Truyendam.net`}</title>
-        <meta name="description" content={`Tổng hợp truyện sex ngắn, nhẹ nhàng mà kích thích – Trang ${page}.`}/>
-        <meta name="keywords" content="truyện sex ngắn, truyện người lớn, truyện 18+"/>
-        <meta property="og:title" content={`Truyện sex ngắn – Page ${page}`}/>
-        <meta property="og:description" content={`Khám phá truyện sex ngắn hấp dẫn, dễ đọc – Trang ${page}`}/>
-        <meta property="og:type" content="website"/>
-        <meta property="og:url" content={`https://truyendam.net/short/page/${page}`}/>
-        <meta name="twitter:card" content="summary_large_image"/>
-    <link rel="canonical" href="https://truyendam.net/"/>
-      </head_1.default>
-
+  <title>{`Truyện sex ngắn – Page ${page} | Truyendam.net`}</title>
+  <meta name="description" content={`Tổng hợp truyện sex ngắn, nhẹ nhàng mà kích thích – Trang ${page}.`}/>
+  <meta name="keywords" content="truyện sex ngắn, truyện người lớn, truyện 18+"/>
+  <meta property="og:title" content={`Truyện sex ngắn – Page ${page}`}/>
+  <meta property="og:description" content={`Khám phá truyện sex ngắn hấp dẫn, dễ đọc – Trang ${page}`}/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content={`https://truyendam.net/short/page/${page}`}/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <link rel="canonical" href={`https://truyendam.net/short/page/${page}`}/>
+    </head_1.default>
       <div className="min-h-screen bg-black text-white px-4 py-6 max-w-6xl mx-auto">
         <h1 className="text-2xl md:text-3xl font-bold text-pink-400 mb-6">
           💋 Truyện sex ngắn – Trang {page}

@@ -35,17 +35,16 @@ function TagPage({ tag, stories, page, totalPages }) {
     const basePath = `/tag/${slugify(tag)}`;
     return (<>
       <head_1.default>
-        <title>{`Truyện ${tag} – Page ${page} | Truyendam.net`}</title>
-        <meta name="description" content={`Khám phá truyện sex thuộc thể loại "${tag}" – những câu chuyện người lớn hấp dẫn, đầy cảm xúc. Trang ${page}.`}/>
-        <meta name="keywords" content={`truyện sex ${tag}, truyện người lớn ${tag}, truyện 18+ ${tag}`}/>
-        <meta property="og:title" content={`Truyện ${tag} – Page ${page}`}/>
-        <meta property="og:description" content={`Tổng hợp truyện người lớn thể loại "${tag}". Trang ${page}. Đọc ngay!`}/>
-        <meta property="og:type" content="website"/>
-        <meta property="og:url" content={`https://truyendam.net${basePath}/page/${page}`}/>
-        <meta name="twitter:card" content="summary_large_image"/>
-    <link rel="canonical" href="https://truyendam.net/"/>
-      </head_1.default>
-
+  <title>{`Truyện ${tag} – Page ${page} | Truyendam.net`}</title>
+  <meta name="description" content={`Khám phá truyện sex thuộc thể loại "${tag}" – những câu chuyện người lớn hấp dẫn, đầy cảm xúc. Trang ${page}.`}/>
+  <meta name="keywords" content={`truyện sex ${tag}, truyện người lớn ${tag}, truyện 18+ ${tag}`}/>
+  <meta property="og:title" content={`Truyện ${tag} – Page ${page}`}/>
+  <meta property="og:description" content={`Tổng hợp truyện người lớn thể loại "${tag}". Trang ${page}. Đọc ngay!`}/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content={`https://truyendam.net/tag/${slugify(tag)}/page/${page}`}/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <link rel="canonical" href={`https://truyendam.net/tag/${slugify(tag)}/page/${page}`}/>
+    </head_1.default>
       <div className="min-h-screen bg-black text-white px-4 py-6 max-w-6xl mx-auto">
         <h1 className="text-2xl md:text-3xl font-bold text-pink-400 mb-6">
           🏷️ Thể loại: <span className="italic">{tag}</span>
