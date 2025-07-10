@@ -1,0 +1,3 @@
+# Cô Giáo Kích Thích – Chương 1
+
+Ngày đầu tiên tôi bước vào lớp học đó...
