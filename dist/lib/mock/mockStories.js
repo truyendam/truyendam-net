@@ -117,4 +117,22 @@ exports.mockStories = [
         status: "ongoing",
         updatedAt: "2025-07-09",
     },
+    //công nhân samsung
+    {
+        slug: "cong-nhan-samsung",
+        title: "Công Nhân Samsung",
+        description: "Phương – cô gái trẻ từ Hà Nội về Bắc Ninh làm công nhân – tưởng rằng tình yêu xa sẽ giữ được nguyên vẹn. Nhưng rồi cô bị lôi vào vòng xoáy dục vọng và trả thù, khi người yêu cũ và tổ trưởng cùng bước vào cuộc đời cô. Một truyện sex dài tập, đầy cảm xúc và bất ngờ,cuộc đời bị xé làm đôi giữa tình yêu và xác thịt",
+        tags: [
+            "truyện dài", "truyện sex dài tập", "công nhân", "trả thù", "vụng trộm",
+            "tình công sở", "bắc ninh", "samsung", "truyện Việt", "ngoại tình", "có thai",
+            "khu công nghiệp", "truyện sex tâm lý", "chuyện thật", "truyện dài tập",
+            "tổ trưởng kho", "cắm sừng", "bị dụ chén",
+            "truyện sex công nhân Samsung", "truyện sex Bắc Ninh",
+        ],
+        coverImage: "/images/cong-nhan-samsung/cover.jpg",
+        totalChapters: 2,
+        views: (0, generateFakeViews_1.generateFakeViews)(5000, 20000),
+        status: "ongoing",
+        updatedAt: "2025-07-11"
+    }
 ];
