@@ -130,7 +130,7 @@ exports.mockStories = [
             "truyện sex công nhân Samsung", "truyện sex Bắc Ninh",
         ],
         coverImage: "/images/cong-nhan-samsung/cover.jpg",
-        totalChapters: 2,
+        totalChapters: 4,
         views: (0, generateFakeViews_1.generateFakeViews)(5000, 20000),
         status: "ongoing",
         updatedAt: "2025-07-11"
