@@ -280,4 +280,3 @@ Chỉ vài giây sau, màn hình báo "Seen". Tin nhắn trả lời ngắn gọ
 <br></br>
 Trang mỉm cười, đặt túi đồ ăn xuống bàn.Nhìn sếp Hưng dáng cao cao gầy gầy vậy thì đêm qua chắc cũng ồn phải biết
 <br></br>
-----------------------Còn Tiếp----------------------

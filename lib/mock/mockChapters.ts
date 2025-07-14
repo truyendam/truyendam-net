@@ -97,12 +97,18 @@ const mockChapters: Record<
       hasMarkdown: true,
       updatedAt: "2025-07-12T08:45:00+09:00"
     },
-  //   5: {
-  //     id: 5,
-  //     title: "Chương 5",
-  //     hasMarkdown: true,
-  //     updatedAt: "2025-07-10T08:45:00+09:00"
-  //   }
+    5: {
+      id: 5,
+      title: "Chương 5",
+      hasMarkdown: true,
+      updatedAt: "2025-07-13T08:45:00+09:00"
+    },
+     6: {
+      id: 6,
+      title: "Chương 6",
+      hasMarkdown: true,
+      updatedAt: "2025-07-14T08:45:00+09:00"
+    },
    }
 };
 
