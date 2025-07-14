@@ -82,9 +82,10 @@ exports.mockStories = [
             "lỡ chuyến xe",
             "truyện gợi cảm",
             "bí mật chị em", "truyện sex chị em", "tình chị em", "truyện sex chị họ Tết",
+            "Chị dâu em chồng", "Đụ với hàng xóm", "Thuốc kích dục", "Truyện bóp vú", "Truyện sex loạn luân", "Truyện người lớn", "Truyện sex ngoại tình"
         ],
         coverImage: "/images/chi-bi-mat-nhe/cover.jpg",
-        totalChapters: 3,
+        totalChapters: 4,
         views: (0, generateFakeViews_1.generateFakeViews)(6000, 10000),
         status: "ongoing",
         updatedAt: "2025-07-08",

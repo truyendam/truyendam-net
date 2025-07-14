@@ -3,5 +3,7 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/truyen/[slug]": "pages/truyen/[slug].js",
-  "/truyen/[slug]/chapters/[id]": "pages/truyen/[slug]/chapters/[id].js"
+  "/truyen/[slug]/toc": "pages/truyen/[slug]/toc.js",
+  "/truyen/[slug]/chapters/[id]": "pages/truyen/[slug]/chapters/[id].js",
+  "/": "pages/index.js"
 }
