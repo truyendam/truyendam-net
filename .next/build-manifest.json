@@ -27,11 +27,6 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/truyen/[slug]": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/truyen/[slug].js"
-    ],
     "/truyen/[slug]/chapters/[id]": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
