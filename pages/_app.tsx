@@ -1,28 +1,28 @@
-// ✅ File: pages/_app.tsx – Đã gắn cảnh báo 18+, giữ Layout, thêm GA4 tracking
+// ✅ File: pages/_app.tsx – Kết hợp AdultWarning + Middleware SEO friendly
 
-import "../styles/globals.css"; // ✅ Đúng đường dẫn tương đối, không dùng alias
+import "../styles/globals.css";
 import type { AppProps } from "next/app";
-import Layout from "../components/Layout"; // ✅ Import Layout trực tiếp
+import Layout from "../components/Layout";
 import { useEffect, useState } from "react";
-import AdultWarning from "../components/AdultWarning"; // ✅ Import cảnh báo 18+
-import Script from "next/script"; // ✅ Thêm để gắn GA4
+import AdultWarning from "../components/AdultWarning";
+import Script from "next/script";
 
 function MyApp({ Component, pageProps }: AppProps) {
   const [accepted, setAccepted] = useState(false);
 
   useEffect(() => {
     const isAccepted = localStorage.getItem("adult-confirmed");
-    if (isAccepted === "true") setAccepted(true);
+    if (isAccepted === "true") {
+      setAccepted(true);
+      document.cookie = "age-verified=true; path=/"; // ✅ Sync cookie cho middleware
+    }
   }, []);
 
   const handleConfirm = () => {
     localStorage.setItem("adult-confirmed", "true");
+    document.cookie = "age-verified=true; path=/";
     setAccepted(true);
   };
-
-  if (!accepted) {
-    return <AdultWarning onConfirm={handleConfirm} />;
-  }
 
   const getLayout = (Component as any).getLayout || ((page: any) => <Layout>{page}</Layout>);
 
@@ -47,7 +47,11 @@ function MyApp({ Component, pageProps }: AppProps) {
           `,
         }}
       />
-      {getLayout(<Component {...pageProps} />)}
+      {!accepted ? (
+        <AdultWarning onConfirm={handleConfirm} />
+      ) : (
+        getLayout(<Component {...pageProps} />)
+      )}
     </>
   );
 }
