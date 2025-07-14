@@ -136,7 +136,7 @@ export const mockStories = [
       "truyện sex công nhân Samsung", "truyện sex Bắc Ninh",
     ],
     coverImage: "/images/cong-nhan-samsung/cover.jpg",
-    totalChapters: 6,
+    totalChapters: 7,
     views: generateFakeViews(5000, 20000),
     status: "ongoing",
     updatedAt: "2025-07-13"

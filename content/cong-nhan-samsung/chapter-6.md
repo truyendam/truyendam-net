@@ -287,5 +287,5 @@ Phương đỏ mặt, khẽ liếc nhìn Hưng, tim vẫn còn đập rộn. Tro
 <br></br>
 Lát sau, điện thoại Hưng rung lên. Là tin nhắn từ Trang: “Chắc em phải đổi cái giường rồi anh ạ… đêm qua với sáng nay nó cứ kêu két két, hỏng thật rồi đấy.” Kèm theo một icon mặt cười nháy mắt tinh quái.
 
-----------------------Còn Tiếp----------------------
+
 

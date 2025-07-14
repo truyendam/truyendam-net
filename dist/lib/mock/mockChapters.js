@@ -103,6 +103,12 @@ const mockChapters = {
             hasMarkdown: true,
             updatedAt: "2025-07-14T08:45:00+09:00"
         },
+        7: {
+            id: 7,
+            title: "Chương 7",
+            hasMarkdown: true,
+            updatedAt: "2025-07-14T08:45:00+09:00"
+        },
     }
 };
 exports.default = mockChapters;
