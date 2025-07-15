@@ -120,3 +120,6 @@ Chị lại giữ chặt tay nó lại, cương quyết:
 
 – Bên ngoài quần dày quá, em không thấy gì. Em chỉ sờ bên ngoài thôi – nó nói vội, tay vẫn ghì chặt ở đó.
 
+
+----------------------Còn Tiếp----------------------
+

@@ -1,3 +1,0 @@
-# Cô Giáo Kích Thích – Chương 2
-
-Cô giáo bước vào, ánh mắt như thiêu đốt...

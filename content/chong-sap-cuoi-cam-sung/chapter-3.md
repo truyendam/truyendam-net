@@ -109,3 +109,5 @@ Cánh cửa khép lại. Không một lời chào. Không một cái ngoái đ�
 
 Cô bước ra ánh nắng, tô lại son môi, chỉnh lại mái tóc. Như thể chưa từng có gì xảy ra. Như thể cô vẫn là cô – người vợ sắp cưới hoàn hảo.
 
+----------------------Còn Tiếp----------------------
+

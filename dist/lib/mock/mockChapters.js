@@ -110,6 +110,27 @@ const mockChapters = {
             hasMarkdown: true,
             updatedAt: "2025-07-14T08:45:00+09:00"
         },
+    },
+    //người yêu thằng bạn
+    "nguoi-yeu-thang-ban": {
+        1: {
+            id: 1,
+            title: "Chương 1",
+            hasMarkdown: true,
+            updatedAt: "2025-07-08T15:00:00+09:00"
+        },
+        2: {
+            id: 2,
+            title: "Chương 2",
+            hasMarkdown: true,
+            updatedAt: "2025-07-08T15:00:00+09:00"
+        },
+        3: {
+            id: 3,
+            title: "Chương 3",
+            hasMarkdown: true,
+            updatedAt: "2025-07-08T15:00:00+09:00"
+        },
     }
 };
 exports.default = mockChapters;

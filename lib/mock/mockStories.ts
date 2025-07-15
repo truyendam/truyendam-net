@@ -92,7 +92,7 @@ export const mockStories = [
   totalChapters: 4,
   views: generateFakeViews(6000, 10000),
   status: "ongoing",
-  updatedAt: "2025-07-08",
+  updatedAt: "2025-07-14",
 },
 //lạc lối ở pickleball
 {
@@ -141,7 +141,22 @@ export const mockStories = [
     views: generateFakeViews(5000, 20000),
     status: "ongoing",
     updatedAt: "2025-07-13"
-  }
+  },
+// người yêu thằng bạn
+{
+  slug: "nguoi-yeu-thang-ban",
+  title: "Người Yêu Thằng Bạn",
+  description:
+    "Minh về lại Hà Nội và ở nhờ phòng trọ của Dương. Nhưng người khiến Dương bối rối nhất… lại là cô bạn gái dịu dàng đi cùng Minh. Một truyện sex thật, ngắn, gợi cảm – giữa đạo đức và bản năng,Phương cong mình trước những cú dập của Dương.",
+  tags: [
+      "truyện sex thật", "sex trong phòng tắm","sex tư thế đứng","bạn thân", "người yêu bạn", "phòng trọ", "truyện sex ngắn", "truyện Việt", "truyện dâm", "vụng trộm", "lén lút"
+    ],
+  coverImage: "/images/nguoi-yeu-thang-ban/cover.jpg",
+  totalChapters: 3,
+  views: generateFakeViews(3000, 80000),
+  status: "ongoing",
+  updatedAt: "2025-07-15"
+}
 
 
 ];
