@@ -1,6 +1,7 @@
 📚 Truyện: Không thể quên🔞 
 <br>
-
+📖 Tác giả: Truyendam.net
+<br></br>
 Đêm ấy, Hà Anh ngủ quên lúc nào không hay — đầu óc quay cuồng với những cảm xúc lẫn lộn. Trái tim rối bời. Cơ thể trống trải. Và ẩm ướt đến lạ.
 
 Ngoài trời, gió đêm khe khẽ lùa qua tán cây, mang theo âm thanh rì rào như tiếng thì thầm từ một miền ký ức xa xăm. Ánh đèn đường hắt bóng lên trần nhà, nhạt nhòa như chính tâm trí cô.

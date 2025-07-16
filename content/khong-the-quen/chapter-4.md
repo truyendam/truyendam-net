@@ -1,6 +1,7 @@
 📚 Truyện: Không thể quên🔞 
 <br>
-
+📖 Tác giả: Truyendam.net
+<br></br>
 “Đôi khi, những giới hạn không bị phá vỡ bởi ham muốn, mà bởi khao khát được lấp đầy một khoảng trống không thể gọi tên.”
 
 Chiều thứ Bảy, bầu trời lặng lẽ chuyển sắc. Những tia nắng cuối ngày rơi nhẹ lên khung cửa kính, phản chiếu xuống mặt sàn bóng loáng, kéo dài thành vệt vàng như một nỗi nhớ bị níu lại giữa hoàng hôn.

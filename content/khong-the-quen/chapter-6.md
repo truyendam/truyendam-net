@@ -1,5 +1,7 @@
 📚 Truyện: Không thể quên🔞 
 <br>
+📖 Tác giả: Truyendam.net
+<br></br>
 
 "Không phải cái ôm nào cũng là để yêu. Có cái ôm... chỉ là để một người đàn bà thôi không thấy mình sắp đổ vỡ."
 

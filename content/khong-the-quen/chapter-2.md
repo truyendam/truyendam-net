@@ -1,6 +1,7 @@
 📚 Truyện: Không thể quên🔞 
 <br>
-
+📖 Tác giả: Truyendam.net
+<br></br>
 “Anh đã bao giờ tò mò, một phần trong em vẫn đợi anh trở về?” — câu hỏi ấy vừa thoáng lướt qua trong tâm trí Hà Anh, rồi tan như khói trà chiều. Quân. Cái tên bật lên trong đầu cô như một nhịp vang trầm, từ đâu đó trong lớp ký ức phủ bụi vừa khẽ rung lên giữa lồng ngực. Một cảm giác lạ lẫm mà thân thuộc, như thể một cơn gió đã từng rất quen đang vô tình lướt qua vùng da mỏng phía sau gáy.
 
 Anh vẫn vậy — cao, gầy, khuôn mặt mang nét từng trải, như đã dừng lại ở nơi nào đó của thời gian. Nhưng đôi mắt… vẫn là đôi mắt năm xưa — trầm tĩnh, sâu thẳm, và dịu dàng đến độ khiến người ta muốn ngoảnh mặt đi để khỏi chênh vênh.

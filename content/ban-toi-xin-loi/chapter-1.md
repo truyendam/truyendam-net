@@ -147,7 +147,7 @@ Và rồi… một cơn sóng khoái cảm bất ngờ bùng lên, mạnh mẽ n
 <br>
 – A… a… a… anh Phi ơi… em… sắp… không chịu nổi nữa…
 <br>
-<img src="/images/ban-toi-xin-loi/haanh-bantoixinloi.jpg" alt="Hà Anh"/>
+<img src="/images/ban-toi-xin-loi/haanh-bantoixinloi.jpg" alt="truyện sex vợ bạn – Vợ bị bạn chồng làm tình tại nhà"/>
 <br>
 Hà Anh gọi tên hắn trong tiếng rên nghẹn, toàn thân nàng căng cứng rồi bỗng chốc run rẩy dữ dội. Từng đầu ngón tay, ngón chân như duỗi thẳng ra theo nhịp co thắt mãnh liệt trong cơ thể. Một luồng điện cực khoái xuyên dọc sống lưng, khiến nàng cong người, mắt dại đi, miệng hé mở trong khoảnh khắc vỡ òa.
 <br></br>

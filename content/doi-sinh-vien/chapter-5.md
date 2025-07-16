@@ -1,6 +1,7 @@
 📚 Truyện: Đời Sinh Viên 🔞
+<br>
+📖 Tác giả: Truyendam.net
 <br></br>
-
 Bỗng chị đứng dậy đi vào nhà vệ sinh. Nó tò mò nhìn theo.
 
 Về chị, cái thằng này mọi ngày ăn xong về luôn mà hôm nay buôn bán gớm! Chắc trước nó ngại đây. Mà lạ, tự dưng mình khát nước quá, tại uống bia rồi! Lại buồn vệ sinh nữa.

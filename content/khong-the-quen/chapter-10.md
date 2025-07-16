@@ -1,6 +1,7 @@
 📚 Truyện: Không thể quên🔞 
 <br>
-
+📖 Tác giả: Truyendam.net
+<br></br>
 Không gian vẫn ấm vàng dưới ánh đèn mờ. Mùi rượu vang quyện trong không khí làm tim người ta dễ chênh choáng. Giai điệu nhạc cũ vẫn đang tròn trình trên loa, như kích hoạt lại những ký ức đang nổi dậy trong tim.
 Hà Anh ngồi bên Quân, đôi mắt long lanh như ánh đèn phản chiếu lên mặt hồ khuya. Cô hơi nghiêng đầu, nép vào vai anh. Từng nhịp thở của Quân phả nhẹ bên tóc mai khiến sống lưng cô rùng mình.
 Bàn tay anh nhẹ nhàng nâng cằm cô lên, rồi cúi xuống, trao một nụ hôn mềm như tan giữa hơi thở. Nụ hôn ấy không vồ vập mà miên man, như một bản nhạc jazz chậm rãi ngân trong đêm. Tay Quân đan vào tóc cô, luồn nhẹ xuống cổ, rồi lần theo sống lưng như đang vẽ lại một đường ký ức.

@@ -89,7 +89,7 @@ Sau khi cả hai nằm thở gấp, Trang nhìn lên trần, đồng hồ vẫn 
 
 Anh ta mỉm cười, nhấc bổng cô lên như hiểu ý.
 <br></br>
-<img src="/images/chong-sap-cuoi-cam-sung/trang.jpg" alt="Trang"/>
+<img src="/images/chong-sap-cuoi-cam-sung/trang.jpg" alt="Nhân viên của chồng đụ vợ xếp trên xe"/>
 <br></br>
 Dòng nước ấm xối lên da thịt, tiếng rên bị dội lại bởi vách đá lạnh. Trang siết chặt bờ vai anh ta, hai chân quấn lấy eo. Họ trộn lẫn vào nhau — như thể tất cả những giới hạn đạo đức đã bị hòa tan.
 

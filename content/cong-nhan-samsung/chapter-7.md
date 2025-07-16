@@ -269,7 +269,7 @@ Lúc Hưng bật ra, bắn sâu vào trong, Phương chỉ gồng lên đón l�
 <br></br>
 Phương mệt đến mức sáng hôm sau gần như không nhấc nổi chân ra khỏi giường. Cô nằm bẹp dí một lúc lâu mới rướn người dậy, toàn thân rã rời như vừa đi đánh trận về. 
 <br></br>
-<img src="/images/cong-nhan-samsung/chuong7.jpg" alt="Phương"/>
+<img src="/images/cong-nhan-samsung/chuong7.jpg" alt="công nhân Samsung bị sếp tổ trưởng cưỡng trong nhà nghỉ ca đêm"/>
 <br></br>
 Hưng vừa mặc áo vừa nhìn cô cười trêu:<br>
 "Sao thế, cô công nhân khỏe lắm mà? Mới có bảy hiệp thôi mà làm như kiệt sức lắm ấy."

@@ -1,5 +1,7 @@
 📚 Truyện: Đời Sinh Viên 🔞 
 <br>
+📖 Tác giả: Truyendam.net
+<br></br>
 Về phần chị. Đang ngủ say thì có cảm giác lạ ở dưới cô nhỏ của mình, Chị thấy đầu đau quá. Thật mệt.
 
 

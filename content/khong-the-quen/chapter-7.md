@@ -1,5 +1,7 @@
 📚 Truyện: Không thể quên🔞 
 <br>
+📖 Tác giả: Truyendam.net
+<br></br>
 
 "Có những tiếng nói không cần lời. Chỉ cần một ánh nhìn, một cái chạm… Và thân thể sẽ tự mình trả lời tất cả."
 

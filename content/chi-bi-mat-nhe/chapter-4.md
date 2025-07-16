@@ -128,7 +128,7 @@ Chị xấu hổ đấm thùm thụp vào lưng nó.
 <br></br>
 Biển chiều hôm ấy, cát lạnh, sóng xô bờ rì rào. Không ai biết đã có một cuộc chia tay không lời... mà nóng bỏng như thiêu rụi cả hoàng hôn.
 <br></br>
-<img src="/images/chi-bi-mat-nhe/hoanghon.jpg" alt="Hoàng Hôn"/>
+<img src="/images/chi-bi-mat-nhe/hoanghon.jpg" alt="Chị em họ làm tình tại bờ biển"/>
 <br></br>
 Trước khi về nó kéo chị lại hôn môi. Chị cũng đáp trả nhiệt tình. Nó không quên nhắn nhủ:
 <br></br>

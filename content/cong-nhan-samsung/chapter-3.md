@@ -231,7 +231,7 @@ Phương không đáp. Nhưng nước mắt lại lặng lẽ trào ra. Trong ng
 <br></br>
 Một lát sau, khi Phương đã ngủ
 <br></br>
-<img src="/images/cong-nhan-samsung/phuong.jpg" alt="Phương"/>
+<img src="/images/cong-nhan-samsung/phuong.jpg" alt="Công nhân samsung bị sếp cưỡng cả đêm tại phòng trọ"/>
 <br></br>
  Hưng ngồi dậy, lặng lẽ cầm điện thoại. Anh nhắn cho Trang:
 <br></br>

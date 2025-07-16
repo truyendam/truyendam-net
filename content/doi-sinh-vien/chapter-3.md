@@ -1,5 +1,7 @@
 📚 Truyện: Đời Sinh Viên🔞  
 <br>
+📖 Tác giả: Truyendam.net
+<br></br>
 Sáng hôm sau.
 
 Không khí trong nhà như đặc quánh. Không ai nói gì. Chị Huyền dậy sớm, đi chợ như mọi ngày. Quang tỉnh giấc sau một đêm trằn trọc, trong đầu vẫn còn vương lại cảm giác ẩm ướt và bối rối đến phát điên.

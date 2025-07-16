@@ -1,7 +1,7 @@
 📚 Truyện: Không thể quên🔞 
 <br>
-
-**"Khi thân thể đã mở lời, linh hồn cũng không thể im lặng."**
+📖 Tác giả: Truyendam.net
+<br></br>
 
 Hà Anh nằm nghiêng, mái tóc rối phủ một phần lưng trần. Ánh đèn ngủ vàng dịu hắt lên làn da ửng hồng còn vương hơi thở ái ân.
 Quân nằm sau lưng cô, tay vẫn ôm trọn lấy eo. Hơi thở anh đều và sâu – nhưng ánh mắt vẫn mở, như khắc ghi từng nhịp run rẩy vừa rồi.

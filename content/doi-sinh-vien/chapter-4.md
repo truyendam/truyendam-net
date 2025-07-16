@@ -1,12 +1,12 @@
 📚 Truyện: Đời Sinh Viên 🔞 
 <br>
-
-
+📖 Tác giả: Truyendam.net
+<br></br>
 Từ đêm hôm ấy, giữa chị và nó… mọi thứ không còn như trước. Không cần nói, cũng chẳng cần xin lỗi. Cứ thế, mỗi tối – khi ánh đèn hành lang tắt dần, chị lại ngồi trong phòng khách, vờ gõ gõ vào máy tính, rồi nhắn nhẹ:
 
 — Quang ơi, máy chị lại bị đơ rồi, xuống xem giúp chị với...
 
-<img src="/images/doi-sinh-vien/cover.jpg" alt="Chị Huyền"/>
+<img src="/images/doi-sinh-vien/cover.jpg" alt="Hiếp chị họ khi xin ở nhờ"/>
 
 Nhưng thứ cần sửa... đâu phải là cái máy tính mà là cái ổ USB ướt át của chị nó đang muốn được vuốt ve muốn được..con cu vừa to vừa dài của nó đút vào.
 

@@ -1,6 +1,7 @@
 📚 Truyện: Không thể quên🔞 
 <br>
-
+📖 Tác giả: Truyendam.net
+<br></br>
 Hà Anh khẽ đẩy cánh cửa bước vào căn hộ nhỏ. Ánh chiều muộn vương vãi trên nền gạch, nhuộm bức tường trắng bằng sắc vàng hanh hao đến mỏi mệt. Cô tháo giày, treo áo khoác lên móc. Rồi nhẹ nhàng thả mình xuống sofa, thở hắt ra một hơi dài – như thể đang buông bớt những vướng víu lặng thầm bám theo suốt cả ngày.
 
 Đồng hồ điểm sáu giờ. Căn phòng vẫn lặng im như mọi ngày. Chồng cô – anh đang công tác ở nước ngoài, đã gần hai năm. Những cuộc gọi video thưa dần, những dòng tin nhắn chỉ còn lại vài chữ: "Anh bận quá.", "Anh đang họp.", "Lúc nào rảnh anh sẽ gọi."

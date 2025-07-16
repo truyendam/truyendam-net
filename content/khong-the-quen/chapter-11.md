@@ -1,7 +1,7 @@
 📚 Truyện: Không thể quên🔞 
 <br>
-
-
+📖 Tác giả: Truyendam.net
+<br></br>
 Đêm trước ngày chồng về, Hà Anh và Quân biết họ sẽ phải xa nhau ít nhất hai tuần. Anh có chuyến công tác bất ngờ vào sáng sớm, còn cô phải chuẩn bị đón chồng trở lại sau gần hai năm xa cách. Họ không nói nhiều, chỉ lặng lẽ nhìn nhau trong ánh đèn ngủ mờ hắt lên trần nhà, như đang đếm ngược từng nhịp thời gian còn lại.
 
 Cô ngồi trên đùi anh, để ánh sáng mờ chiếu nghiêng lên làn da trắng như sứ. Căn phòng yên tĩnh, chỉ còn tiếng quạt trần quay đều đều trên trần, xen lẫn âm thanh va chạm nhẹ của vải vóc và hơi thở gấp gáp. Hà Anh cúi xuống, tay run rẩy chạm vào nơi đang căng cứng và nóng hổi giữa hai chân anh. Cô vuốt dọc theo chiều dài ấy như lần đầu khám phá, rồi từ từ dẫn anh vào trong mình — chậm, sâu, và đầy chủ ý. Như thể muốn khắc lại cảm giác này, như một lời tạm biệt thầm lặng mà thân xác gửi đến nhau.

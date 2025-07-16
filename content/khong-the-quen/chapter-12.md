@@ -1,6 +1,7 @@
 📚 Truyện: Không thể quên🔞 
 <br>
-
+📖 Tác giả: Truyendam.net
+<br></br>
 "Có những lúc, em vẫn nằm ngoan ngoãn trong vòng tay anh… nhưng trái tim thì đã lang thang nơi khác từ lâu."
 
 Căn phòng ngủ vẫn vậy – chiếc giường cưới cũ, mùi vải thơm từ ga trải giường, ánh đèn ngủ vàng dịu hắt xuống tấm lưng trần của Hà Anh. Chồng cô – vừa trở về sau hai tháng công tác – đang ngủ say, hơi thở nặng nề và đều đặn. Trên bụng anh, từng vệt mồ hôi còn đọng lại sau cuộc ân ái vừa rồi. Một cuộc yêu… đủ đầy, đúng nghĩa vợ chồng.

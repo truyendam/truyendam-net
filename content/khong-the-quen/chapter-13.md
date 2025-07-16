@@ -1,6 +1,7 @@
 📚 Truyện: Không thể quên🔞 
 <br>
-
+📖 Tác giả: Truyendam.net
+<br></br>
 Cánh cửa phòng 302 vừa khép lại sau lưng Hà Anh. Cô lao vào Quân như lửa bén vào khô. Hơi thở cô gấp gáp, ngắt quãng, như vừa chạy băng qua một cơn bão cảm xúc. Hà Anh đẩy mạnh anh dựa sát vào cánh cửa, cánh tay siết chặt lấy cổ anh, môi cô ập vào như thể đã khao khát suốt bao đêm. Nụ hôn ngấu nghiến, ẩm ướt, rối loạn, mang theo cả sự uất nghẹn lẫn đam mê chất chồng.
 
 Tiếng thở của cả hai hoà vào nhau – nặng nề, cháy bỏng, gấp đến mức Quân phải đưa tay giữ chặt eo cô để không gục xuống vì choáng. Hà Anh bất ngờ siết cổ anh chặt hơn, rồi vít đầu Quân xuống, áp mặt anh vào bầu ngực trần vừa được giải thoát khỏi lớp áo.
@@ -98,6 +99,9 @@ Dưới vòi nước ấm, bàn tay mềm mại của Hà Anh chạm vào cậu 
 Bàn tay Hà Anh vẫn sục nhẹ cậu nhỏ của Quân – lúc này đã cứng lên trở lại đầy mạnh mẽ. Quân không ngờ mình hồi phục nhanh đến thế sau hai lần xuất ra. Thấy vậy, Hà Anh cười khẽ – một nụ cười đầy bí ẩn và khiêu khích.
 
 Hà Anh thở dốc, một tay bám lấy bức tường kính đẫm nước, tay còn lại kéo vòng tay anh ôm chặt hơn. Và rồi, Quân nhẹ nhàng tách hai chân cô, nhấc một chân đặt lên bệ tường thấp… và bắt đầu tiến vào từ phía sau – chậm rãi, sâu, và đầy quyết liệt.
+<br></br>
+<img src="/images/khong-the-quen/than-lan-bam-kinh.jpg" alt="Hà Anh lên đỉnh khi Quân đụ trong phòng tắm"/>
+<br></br>
 
 Cả phòng tắm giờ chỉ còn lại tiếng nước rơi và tiếng da thịt va vào nhau, nhịp điệu mỗi lúc một dồn dập. Hà Anh rên khẽ, rồi bật ra tiếng thở dài nức nở – vừa đau, vừa sướng, vừa buông xuôi tất cả những gì gọi là đạo đức cuối cùng.
 
