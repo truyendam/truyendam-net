@@ -6,17 +6,20 @@ import Image from "next/image";
 import { mockStories } from "@/lib/mock/mockStories";
 import BottomSuggestBlock from "@/components/BottomSuggestBlock";
 
-function slugify(text: string): string {
+function slugify(text: string | undefined): string {
+  if (!text) return "";
   return text
-    .normalize("NFD")
-    .replace(/[̀-ͯ]/g, "") // ✅ đúng cú pháp – bỏ dấu tiếng Việt
+    .normalize("NFD") // bóc tách dấu
+    .replace(/[̀-ͯ]/g, "") // xóa dấu tiếng Việt
+    .replace(/đ/g, "d") // riêng chữ đ
+    .replace(/Đ/g, "D")
     .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/(^-|-$)+/g, "");
+    .replace(/[^a-z0-9]+/g, "-") // thay khoảng trắng và ký tự lạ bằng "-"
+    .replace(/^-+|-+$/g, ""); // xóa đầu cuối "-"
 }
 
 function unslugify(slug: string, originalTags: string[]): string {
-  return originalTags.find((tag) => slugify(tag) === slug) || slug;
+  return originalTags.find((tag) => slugify(tag) === slug) || "";
 }
 
 const ITEMS_PER_PAGE = 9;
@@ -27,25 +30,25 @@ export default function TagPage({ tag, stories, page, totalPages }: { tag: strin
   return (
     <>
       <Head>
-  <title>{`Truyện ${tag} – Page ${page} | Truyendam.net`}</title>
-  <meta
-    name="description"
-    content={`Khám phá truyện sex thuộc thể loại "${tag}" – những câu chuyện người lớn hấp dẫn, đầy cảm xúc. Trang ${page}.`}
-  />
-  <meta name="keywords" content={`truyện sex ${tag}, truyện người lớn ${tag}, truyện 18+ ${tag}`} />
-  <meta property="og:title" content={`Truyện ${tag} – Page ${page}`} />
-  <meta property="og:description" content={`Tổng hợp truyện người lớn thể loại "${tag}". Trang ${page}. Đọc ngay!`} />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content={`https://truyendam.net/tag/${slugify(tag)}/page/${page}`} />
-  <meta name="twitter:card" content="summary_large_image" />
-  <link rel="canonical" href={`https://truyendam.net/tag/${slugify(tag)}/page/${page}`} />
-</Head>
+        <title>{`Truyện ${tag || "undefined"} – Page ${page} | Truyendam.net`}</title>
+        <meta
+          name="description"
+          content={`Khám phá truyện sex thuộc thể loại \"${tag}\" – những câu chuyện người lớn hấp dẫn, đầy cảm xúc. Trang ${page}.`}
+        />
+        <meta name="keywords" content={`truyện sex ${tag}, truyện người lớn ${tag}, truyện 18+ ${tag}`} />
+        <meta property="og:title" content={`Truyện ${tag} – Page ${page}`} />
+        <meta property="og:description" content={`Tổng hợp truyện người lớn thể loại \"${tag}\". Trang ${page}. Đọc ngay!`} />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content={`https://truyendam.net/tag/${slugify(tag)}/page/${page}`} />
+        <meta name="twitter:card" content="summary_large_image" />
+        <link rel="canonical" href={`https://truyendam.net/tag/${slugify(tag)}/page/${page}`} />
+      </Head>
       <div className="min-h-screen bg-black text-white px-4 py-6 max-w-6xl mx-auto">
         <h1 className="text-2xl md:text-3xl font-bold text-pink-400 mb-6">
-          🏷️ Thể loại: <span className="italic">{tag}</span>
+          🏷️ Thể loại: <span className="italic">{tag || "Không xác định"}</span>
         </h1>
 
-        {stories.length > 0 ? (
+        {Array.isArray(stories) && stories.length > 0 ? (
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 mb-10">
             {stories.map((story) => (
               <Link
@@ -108,8 +111,6 @@ export const getStaticPaths: GetStaticPaths = async () => {
       paths.push({ params: { tag: slugify(tag), page: page.toString() } });
     }
   }
-  // ✅ THÊM LOG Ở ĐÂY
-  console.log("🚀 getStaticPaths: ", paths);
   return { paths, fallback: false };
 };
 
@@ -119,9 +120,13 @@ export const getStaticProps: GetStaticProps = async (context) => {
   const allTags = Array.from(new Set(mockStories.flatMap((s) => s.tags)));
   const tag = unslugify(tagSlug, allTags);
 
+  // Nếu không tìm thấy tag phù hợp thì trả về notFound
+  if (!tag || !mockStories.some((s) => s.tags.includes(tag))) {
+    return { notFound: true };
+  }
+
   const allStories = mockStories.filter((s) => s.tags.includes(tag));
   const totalPages = Math.ceil(allStories.length / ITEMS_PER_PAGE);
-
   const page = parseInt(pageStr, 10) || 1;
   const slicedStories = allStories.slice((page - 1) * ITEMS_PER_PAGE, page * ITEMS_PER_PAGE);
 

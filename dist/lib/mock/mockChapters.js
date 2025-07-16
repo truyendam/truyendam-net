@@ -117,19 +117,19 @@ const mockChapters = {
             id: 1,
             title: "Chương 1",
             hasMarkdown: true,
-            updatedAt: "2025-07-08T15:00:00+09:00"
+            updatedAt: "2025-07-15T15:00:00+09:00"
         },
         2: {
             id: 2,
             title: "Chương 2",
             hasMarkdown: true,
-            updatedAt: "2025-07-08T15:00:00+09:00"
+            updatedAt: "2025-07-15T15:00:00+09:00"
         },
         3: {
             id: 3,
             title: "Chương 3",
             hasMarkdown: true,
-            updatedAt: "2025-07-08T15:00:00+09:00"
+            updatedAt: "2025-07-15T15:00:00+09:00"
         },
     }
 };

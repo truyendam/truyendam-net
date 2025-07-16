@@ -4,20 +4,28 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = StoryCard;
+// ✅ File: components/StoryCard.tsx – đã fix hydration error
 const link_1 = __importDefault(require("next/link"));
 const image_1 = __importDefault(require("next/image"));
+const react_1 = require("react");
 function slugify(text) {
     return text
         .normalize("NFD")
-        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/đ/g, "d")
+        .replace(/[̀-ͯ]/g, "")
         .toLowerCase()
         .replace(/[^a-z0-9]+/g, "-")
         .replace(/(^-|-$)+/g, "");
 }
 function StoryCard({ story }) {
-    const views = story.views || Math.floor(Math.random() * 10000);
-    const isHot = views > 5000;
+    const [clientViews, setClientViews] = (0, react_1.useState)("");
+    const isHot = (parseInt(clientViews.replace(/,/g, "")) || 0) > 5000;
     const isNew = true;
+    (0, react_1.useEffect)(() => {
+        var _a;
+        const views = (_a = story.views) !== null && _a !== void 0 ? _a : Math.floor(Math.random() * 10000);
+        setClientViews(views.toLocaleString());
+    }, [story.views]);
     return (<div className="group rounded-xl overflow-hidden shadow-md bg-zinc-900 hover:shadow-xl transition-all duration-300 flex flex-col hover:scale-[1.02]">
       {/* ✅ Ảnh bìa */}
       <link_1.default href={`/truyen/${story.slug}`} className="block relative w-full h-48 sm:h-52 md:h-56 overflow-hidden">
@@ -56,7 +64,7 @@ function StoryCard({ story }) {
 
         <div className="text-sm text-gray-400 flex justify-between text-xs">
           <span>{story.totalChapters || 0} chương</span>
-          <span>{views.toLocaleString()} lượt xem</span>
+          <span>{clientViews || "..."} lượt xem</span>
         </div>
 
         <link_1.default href={`/truyen/${story.slug}/chapters/1`} className="block mt-3 text-sm text-pink-400 hover:underline">

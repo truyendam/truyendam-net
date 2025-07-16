@@ -10,6 +10,17 @@ const mockStories_1 = require("@/lib/mock/mockStories");
 const StoryCard_1 = __importDefault(require("@/components/StoryCard"));
 const react_1 = require("react");
 const link_1 = __importDefault(require("next/link"));
+function slugify(str) {
+    if (!str)
+        return "";
+    return str
+        .normalize("NFD")
+        .replace(/đ/g, "d")
+        .replace(/[̀-ͯ]/g, "")
+        .replace(/[^a-zA-Z0-9\s-]/g, "")
+        .replace(/\s+/g, "-")
+        .toLowerCase();
+}
 function HomePage() {
     const stories = mockStories_1.mockStories || [];
     const newStories = [...stories].sort((a, b) => new Date(b.updatedAt).getTime() - new Date(a.updatedAt).getTime());

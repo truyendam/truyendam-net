@@ -1,5 +1,5 @@
 "use strict";
-// ✅ File: pages/truyen/[slug]/index.tsx – Đã thêm hiển thị tag 🆕 cho chương mới
+// ✅ File: pages/truyen/[slug]/index.tsx – Đã thêm hiển thị tag 🆕 cho chương mới và fix encode URL tag
 var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
@@ -11,12 +11,15 @@ const mockStories_1 = require("@/lib/mock/mockStories");
 const mockChapters_1 = __importDefault(require("@/lib/mock/mockChapters"));
 const image_1 = __importDefault(require("next/image"));
 const link_1 = __importDefault(require("next/link"));
-const BottomSuggestBlock_1 = __importDefault(require("@/components/BottomSuggestBlock"));
 const ContinueReading_1 = __importDefault(require("@/components/ContinueReading")); // ✅ Đọc tiếp
 function slugify(str) {
+    if (!str)
+        return "";
     return str
         .normalize("NFD")
+        .replace(/đ/g, "d")
         .replace(/[̀-ͯ]/g, "")
+        .replace(/[^a-zA-Z0-9\s-]/g, "")
         .replace(/\s+/g, "-")
         .toLowerCase();
 }
@@ -37,18 +40,17 @@ function StoryDetailPage() {
     const keywords = ((_a = story.tags) === null || _a === void 0 ? void 0 : _a.join(", ")) || "truyện sex, truyện người lớn, truyện 18+";
     return (<>
       <head_1.default>
-  <title>{story.title} – Truyện sex cực phê, full cảnh nóng | Truyendam.net</title>
-  <meta name="description" content={`Đọc truyện "${story.title}" cực nóng, cực thấm – thuộc thể loại ${story.tags.join(", ")}. Nội dung gợi cảm, cập nhật miễn phí mỗi ngày.`}/>
-  <meta name="keywords" content={`truyện sex, truyện người lớn, truyện 18+, ${story.tags.join(", ")}, ${story.title}`}/>
-  <meta property="og:title" content={`${story.title} – Truyện sex cực phê`}/>
-  <meta property="og:description" content={`${story.title} – truyện người lớn hấp dẫn, đầy cảnh nóng. Click để đọc miễn phí tại Truyendam.net.`}/>
-  <meta property="og:image" content={story.coverImage}/>
-  <meta property="og:type" content="article"/>
-  <meta property="og:url" content={`https://truyendam.net/truyen/${story.slug}`}/>
-  <meta name="twitter:card" content="summary_large_image"/>
-  {slug && (<link rel="canonical" href={`https://truyendam.net/truyen/${slug}`}/>)}
-    </head_1.default>
-
+        <title>{story.title} – Truyện sex cực phê, full cảnh nóng | Truyendam.net</title>
+        <meta name="description" content={`Đọc truyện "${story.title}" cực nóng, cực thấm – thuộc thể loại ${story.tags.join(", ")}. Nội dung gợi cảm, cập nhật miễn phí mỗi ngày.`}/>
+        <meta name="keywords" content={`truyện sex, truyện người lớn, truyện 18+, ${story.tags.join(", ")}, ${story.title}`}/>
+        <meta property="og:title" content={`${story.title} – Truyện sex cực phê`}/>
+        <meta property="og:description" content={`${story.title} – truyện người lớn hấp dẫn, đầy cảnh nóng. Click để đọc miễn phí tại Truyendam.net.`}/>
+        <meta property="og:image" content={story.coverImage}/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:url" content={`https://truyendam.net/truyen/${story.slug}`}/>
+        <meta name="twitter:card" content="summary_large_image"/>
+        {slug && <link rel="canonical" href={`https://truyendam.net/truyen/${slug}`}/>}
+      </head_1.default>
 
       <div className="min-h-screen bg-black text-white px-4 py-6">
         <div className="text-sm text-zinc-400 mb-2 text-center">
@@ -94,16 +96,14 @@ function StoryDetailPage() {
           <ContinueReading_1.default slug={story.slug} totalChapters={story.totalChapters}/>
         </div>
 
-                <div className="max-w-3xl mx-auto mb-16">
+        <div className="max-w-3xl mx-auto mb-16">
           <h2 className="text-xl font-bold text-white mb-4 text-center">Danh sách chương</h2>
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
             {chapters.map((ch) => {
             const isNew = ch.updatedAt &&
-                new Date().getTime() - new Date(ch.updatedAt).getTime() <
-                    3 * 24 * 60 * 60 * 1000;
+                new Date().getTime() - new Date(ch.updatedAt).getTime() < 3 * 24 * 60 * 60 * 1000;
             return (<link_1.default key={ch.id} href={`/truyen/${story.slug}/chapters/${ch.id}`} className="relative block bg-zinc-800 hover:bg-pink-600 hover:text-white transition-all px-4 py-3 rounded-xl shadow text-sm sm:text-base text-center">
                   <span className="block">Chương {ch.id}</span>
-
                   {isNew && (<span className="absolute bottom-1 right-1 text-[10px] bg-pink-500 text-white px-1.5 py-[1px] rounded-full font-medium shadow-md tracking-tight animate-pulse">
                       NEW
                     </span>)}
@@ -112,9 +112,49 @@ function StoryDetailPage() {
           </div>
         </div>
 
+        {/* ✅ Gợi ý truyện có label dạng link như TOC */}
+        <div className="max-w-3xl mx-auto mt-12 px-2 space-y-12">
+          {/* 🔥 Truyện HOT */}
+          <div>
+            <link_1.default href="/hot/page/1">
+              <h2 className="text-xl font-bold mb-1 text-red-400 hover:underline">🔥 Truyện HOT</h2>
+            </link_1.default>
+            <ul className="list-disc list-inside text-sm text-white space-y-1 mt-2">
+              {mockStories_1.mockStories.filter((s) => (s.views || 0) > 5000).slice(0, 3).map((s) => (<li key={s.slug}>
+                  <link_1.default href={`/truyen/${s.slug}`} className="hover:underline text-pink-400">
+                    {s.title}
+                  </link_1.default>
+                </li>))}
+            </ul>
+          </div>
 
-        <div className="max-w-3xl mx-auto mt-12 px-2">
-          <BottomSuggestBlock_1.default theme="dark"/>
+          {/* ✍️ Truyện sex ngắn */}
+          <div>
+            <link_1.default href="/short/page/1">
+              <h2 className="text-xl font-bold mb-1 text-pink-400 hover:underline">✍️ Truyện sex ngắn</h2>
+            </link_1.default>
+            <ul className="list-disc list-inside text-sm text-white space-y-1 mt-2">
+              {mockStories_1.mockStories.filter((s) => s.tags.includes("truyện sex ngắn")).slice(0, 3).map((s) => (<li key={s.slug}>
+                  <link_1.default href={`/truyen/${s.slug}`} className="hover:underline text-pink-400">
+                    {s.title}
+                  </link_1.default>
+                </li>))}
+            </ul>
+          </div>
+
+          {/* 📚 Truyện dài tập */}
+          <div>
+            <link_1.default href="/long/page/1">
+              <h2 className="text-xl font-bold mb-1 text-purple-400 hover:underline">📚 Truyện dài tập</h2>
+            </link_1.default>
+            <ul className="list-disc list-inside text-sm text-white space-y-1 mt-2">
+              {mockStories_1.mockStories.filter((s) => s.tags.includes("truyện dài") || (s.totalChapters || 0) > 3).slice(0, 3).map((s) => (<li key={s.slug}>
+                  <link_1.default href={`/truyen/${s.slug}`} className="hover:underline text-pink-400">
+                    {s.title}
+                  </link_1.default>
+                </li>))}
+            </ul>
+          </div>
         </div>
       </div>
     </>);

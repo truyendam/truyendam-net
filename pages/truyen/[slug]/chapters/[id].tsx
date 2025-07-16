@@ -2,6 +2,7 @@ import Head from "next/head";
 import { GetStaticPaths, GetStaticProps } from "next";
 import { mockStories } from "@/lib/mock/mockStories";
 import { getMockChapter } from "@/lib/api/chapters";
+import mockChapters from "@/lib/mock/mockChapters";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 
@@ -76,9 +77,11 @@ export default function ChapterPage({
   const shortStories = mockStories.filter(s => s.tags.includes("truyện sex ngắn")).slice(0, 3);
   const longStories = mockStories.filter(s => s.tags.includes("truyện dài") || s.totalChapters > 3).slice(0, 3);
 
-  const renderStoryBlock = (title: string, stories: typeof mockStories) => (
+  const renderStoryBlock = (title: string, stories: typeof mockStories, href: string) => (
     <div>
-      <h3 className="text-lg font-semibold text-pink-600 dark:text-pink-400 mb-2">{title}</h3>
+      <Link href={href}>
+        <h3 className="text-lg font-semibold text-pink-600 dark:text-pink-400 mb-2 hover:underline">{title}</h3>
+      </Link>
       <ul className="grid gap-2">
         {stories.map((story) => (
           <li key={story.slug}>
@@ -105,31 +108,29 @@ export default function ChapterPage({
   return (
     <>
       <Head>
-  <title>{`Chương ${chapterId} - ${storyTitle} | Truyện 18+ hay tại Truyendam.net`}</title>
-  <meta
-    name="description"
-    content={`Chương ${chapterId} của truyện ${storyTitle}. Truyện người lớn, truyện sex cực nóng, cập nhật mỗi ngày tại Truyendam.net.`}
-  />
-  <meta
-    name="keywords"
-    content="truyện sex, truyện người lớn, truyện 18+, truyện xxx, truyện nóng, truyện hay, đọc truyện sex,vụng trộm, vắng chồng,ngoại tình"
-  />
-  <meta property="og:title" content={`Chương ${chapterId} - ${storyTitle}`} />
-  <meta
-    property="og:description"
-    content={`Đọc chương ${chapterId} của truyện ${storyTitle} - nội dung hấp dẫn, đầy kích thích tại Truyendam.net.`}
-  />
-  <meta property="og:image" content={`https://truyendam.net/og-cover/${slug}.jpg`} />
-  <meta property="og:url" content={`https://truyendam.net/truyen/${slug}/chapters/${chapterId}`} />
-  <meta property="og:type" content="article" />
-  <meta name="twitter:card" content="summary_large_image" />
-  <link rel="canonical" href={`https://truyendam.net/truyen/${slug}/chapters/${chapterId}`} />
-</Head>
-
+        <title>{`Chương ${chapterId} - ${storyTitle} | Truyện 18+ hay tại Truyendam.net`}</title>
+        <meta
+          name="description"
+          content={`Chương ${chapterId} của truyện ${storyTitle}. Truyện người lớn, truyện sex cực nóng, cập nhật mỗi ngày tại Truyendam.net.`}
+        />
+        <meta
+          name="keywords"
+          content="truyện sex, truyện người lớn, truyện 18+, truyện xxx, truyện nóng, truyện hay, đọc truyện sex,vụng trộm, vắng chồng,ngoại tình"
+        />
+        <meta property="og:title" content={`Chương ${chapterId} - ${storyTitle}`} />
+        <meta
+          property="og:description"
+          content={`Đọc chương ${chapterId} của truyện ${storyTitle} - nội dung hấp dẫn, đầy kích thích tại Truyendam.net.`}
+        />
+        <meta property="og:image" content={`https://truyendam.net/og-cover/${slug}.jpg`} />
+        <meta property="og:url" content={`https://truyendam.net/truyen/${slug}/chapters/${chapterId}`} />
+        <meta property="og:type" content="article" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <link rel="canonical" href={`https://truyendam.net/truyen/${slug}/chapters/${chapterId}`} />
+      </Head>
 
       <div className={`${theme === "dark" ? "bg-black text-white" : "bg-white text-[#222]"} min-h-screen px-4 py-6`}>
         <div className="max-w-3xl mx-auto space-y-6 px-2">
-
           <button
             onClick={toggleTheme}
             className="fixed top-4 right-4 z-50 bg-zinc-800 text-white px-3 py-1 rounded shadow hover:bg-zinc-700 transition text-sm"
@@ -206,19 +207,27 @@ export default function ChapterPage({
             <div className="flex flex-wrap justify-center gap-2 mb-4">
               {Array.from({ length: totalChapters }, (_, i) => i + 1)
                 .filter((num) => Math.abs(num - chapterId) <= 2)
-                .map((num) => (
-                  <Link
-                    key={num}
-                    href={`/truyen/${slug}/chapters/${num}`}
-                    className={`px-3 py-1 rounded-md text-sm transition ${
-                      num === chapterId
-                        ? "bg-pink-600 text-white"
-                        : "bg-zinc-800 text-gray-300 hover:bg-pink-700 hover:text-white"
-                    }`}
-                  >
-                    Chương {num}
-                  </Link>
-                ))}
+                .map((num) => {
+                  const updatedAt = mockChapters[slug]?.[num]?.updatedAt || null;
+                  return (
+                    <Link
+                      key={num}
+                      href={`/truyen/${slug}/chapters/${num}`}
+                      className={`relative px-3 py-1 rounded-md text-sm transition ${
+                        num === chapterId
+                          ? "bg-pink-600 text-white"
+                          : "bg-zinc-800 text-gray-300 hover:bg-pink-700 hover:text-white"
+                      }`}
+                    >
+                      Chương {num}
+                      {isNew(updatedAt) && (
+                        <span className="absolute -top-2 -right-2 text-[10px] bg-pink-500 text-white px-1.5 py-[1px] rounded-full font-medium shadow-md tracking-tight animate-pulse">
+                          NEW
+                        </span>
+                      )}
+                    </Link>
+                  );
+                })}
             </div>
             <Link
               href={`/truyen/${slug}/toc`}
@@ -229,9 +238,9 @@ export default function ChapterPage({
           </div>
 
           <div className={`mt-12 space-y-8 ${theme === "dark" ? "text-white" : "text-black"}`}>
-            {renderStoryBlock("🔥 Truyện HOT", hotStories)}
-            {renderStoryBlock("🧨 Truyện sex ngắn", shortStories)}
-            {renderStoryBlock("📚 Truyện dài tập", longStories)}
+            {renderStoryBlock("🔥 Truyện HOT", hotStories, "/hot/page/1")}
+            {renderStoryBlock("✍️ Truyện sex ngắn", shortStories, "/short/page/1")}
+            {renderStoryBlock("📚 Truyện dài tập", longStories, "/long/page/1")}
           </div>
         </div>
       </div>

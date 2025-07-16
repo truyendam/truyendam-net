@@ -4,7 +4,16 @@ import { mockStories } from "@/lib/mock/mockStories";
 import StoryCard from "@/components/StoryCard";
 import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
-
+function slugify(str: string | undefined): string {
+  if (!str) return "";
+  return str
+    .normalize("NFD")
+    .replace(/đ/g, "d")
+    .replace(/[̀-ͯ]/g, "")
+    .replace(/[^a-zA-Z0-9\s-]/g, "")
+    .replace(/\s+/g, "-")
+    .toLowerCase();
+}
 export default function HomePage() {
   const stories = mockStories || [];
 

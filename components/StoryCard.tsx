@@ -1,5 +1,7 @@
+// ✅ File: components/StoryCard.tsx – đã fix hydration error
 import Link from "next/link";
 import Image from "next/image";
+import { useEffect, useState } from "react";
 
 interface Story {
   title: string;
@@ -19,16 +21,22 @@ interface Props {
 function slugify(text: string): string {
   return text
     .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/đ/g, "d")
+    .replace(/[̀-ͯ]/g, "")
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/(^-|-$)+/g, "");
 }
 
 export default function StoryCard({ story }: Props) {
-  const views = story.views || Math.floor(Math.random() * 10000);
-  const isHot = views > 5000;
+  const [clientViews, setClientViews] = useState<string>("");
+  const isHot = (parseInt(clientViews.replace(/,/g, "")) || 0) > 5000;
   const isNew = true;
+
+  useEffect(() => {
+    const views = story.views ?? Math.floor(Math.random() * 10000);
+    setClientViews(views.toLocaleString());
+  }, [story.views]);
 
   return (
     <div className="group rounded-xl overflow-hidden shadow-md bg-zinc-900 hover:shadow-xl transition-all duration-300 flex flex-col hover:scale-[1.02]">
@@ -38,7 +46,6 @@ export default function StoryCard({ story }: Props) {
           <Image
             src={story.coverImage}
             alt={`${story.title} – Truyện sex nóng bỏng trên Truyendam.net`}
-
             fill
             className="object-cover w-full h-full transition-transform duration-500 ease-out group-hover:scale-110"
           />
@@ -85,7 +92,7 @@ export default function StoryCard({ story }: Props) {
 
         <div className="text-sm text-gray-400 flex justify-between text-xs">
           <span>{story.totalChapters || 0} chương</span>
-          <span>{views.toLocaleString()} lượt xem</span>
+          <span>{clientViews || "..."} lượt xem</span>
         </div>
 
         <Link
