@@ -131,6 +131,15 @@ const mockChapters = {
             hasMarkdown: true,
             updatedAt: "2025-07-15T15:00:00+09:00"
         },
-    }
+    },
+    //vợ thằng bạn
+    "ban-toi-xin-loi": {
+        1: {
+            id: 1,
+            title: "Chương 1",
+            hasMarkdown: true,
+            updatedAt: "2025-07-16T15:00:00+09:00"
+        },
+    },
 };
 exports.default = mockChapters;

@@ -1,8 +1,1 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/truyen/[slug]": "pages/truyen/[slug].js",
-  "/hot/page/[page]": "pages/hot/page/[page].js"
-}
+{"/_app":"pages/_app.js","/_error":"pages/_error.js","/":"pages/index.html","/gioi-thieu":"pages/gioi-thieu.html","/lien-he":"pages/lien-he.html","/truyen/[slug]":"pages/truyen/[slug].html","/tag/[tag]":"pages/tag/[tag].html","/truyen/[slug]/toc":"pages/truyen/[slug]/toc.html","/truyen":"pages/truyen.html","/long/page/[page]":"pages/long/page/[page].js","/latest/page/[page]":"pages/latest/page/[page].js","/hot/page/[page]":"pages/hot/page/[page].js","/short/page/[page]":"pages/short/page/[page].js","/tag/[tag]/page/[page]":"pages/tag/[tag]/page/[page].js","/truyen/[slug]/chapters/[id]":"pages/truyen/[slug]/chapters/[id].js","/_document":"pages/_document.js","/404":"pages/404.html"}

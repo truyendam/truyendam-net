@@ -267,15 +267,16 @@ Tiếng rên bật ra từ miệng cô, lúc ngắn lúc dài, có khi chỉ là
 <br></br>
 Lúc Hưng bật ra, bắn sâu vào trong, Phương chỉ gồng lên đón lấy. Không rút ra. Cô cắn nhẹ môi, thở hắt, mắt nhắm hờ… như đang tận hưởng cái cảm giác đầy đặn ấm nóng ấy tràn sâu trong mình.
 <br></br>
-Phương mệt đến mức sáng hôm sau gần như không nhấc nổi chân ra khỏi giường. Cô nằm bẹp dí một lúc lâu mới rướn người dậy, toàn thân rã rời như vừa đi đánh trận về. Hưng vừa mặc áo vừa nhìn cô cười trêu:
+Phương mệt đến mức sáng hôm sau gần như không nhấc nổi chân ra khỏi giường. Cô nằm bẹp dí một lúc lâu mới rướn người dậy, toàn thân rã rời như vừa đi đánh trận về. 
 <br></br>
 <img src="/images/cong-nhan-samsung/chuong7.jpg" alt="Phương"/>
 <br></br>
+Hưng vừa mặc áo vừa nhìn cô cười trêu:<br>
 "Sao thế, cô công nhân khỏe lắm mà? Mới có bảy hiệp thôi mà làm như kiệt sức lắm ấy."
 
 Phương liếc xéo:
 
-"Lúc nãy ai rên to hơn ai, anh nhớ không? Đúng là gầy gầy cao cao địt khỏe thật"
+"Lúc nãy ai rên to hơn ai? Đúng là gầy gầy cao cao địt khỏe thật"
 <br></br>
 Cả hai cùng bật cười. Trong căn phòng nhỏ ấy, không khí vẫn vương mùi da thịt và dư âm những tiếng rên khẽ từ đêm trước. Không ai còn đủ sức đi đâu. Một đêm tan chảy của cả hai. Họ gọi đồ ăn nhanh về phòng, ăn xong lại ôm nhau ngủ vùi tới tận chiều. Phương ngủ ngoan trong vòng tay anh, tay vẫn nắm lấy cậu nhỏ của Hưng thứ đó vẫn căng và nóng, như thể chỉ cần cô mơ một giấc mơ ướt át nữa… là nó sẽ lại bật dậy.
 <br></br>
