@@ -201,5 +201,27 @@ export const mockStories = [
       "Truyện sex ngoại tình","Truyện sex có thật","Truyện dâm","Làm tình với cô giáo","Truyện 18+"
     ]
   },
+//gặp lại người yêu cũ
+{
+  slug: "gap-lai-nguoi-yeu-cu",
+  title: "Gặp Lại Người Yêu Cũ",
+  description:
+    "Chồng đi xuất khẩu lao động bên Nhật, Thúy ở nhà một mình chăm con.Nhưng ngày gặp lại người cũ đã khiến cô không thể kìm lòng. Một câu chuyện đầy cảm xúc, giằng xé và khoái cảm bị dồn nén bấy lâu.",
+  tags: [
+    "truyện sex dài",
+    "gặp lại người cũ",
+    "vợ cô đơn",
+    "ngoại tình",
+    "xúc cảm đàn bà",
+    "truyện Việt",
+    "flagship","sex công nhân samsung","truyện sex ngoại tình","truyện sex hay","truyện sex 18+"
+  ],
+  coverImage: "/images/gap-lai-nguoi-yeu-cu/cover.jpg",
+  totalChapters: 5,
+  views: generateFakeViews(3000, 15000),
+  status: "ongoing",
+  updatedAt: "2025-07-17",
+}
+
 
 ];
