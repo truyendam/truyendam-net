@@ -2,7 +2,7 @@
 <br>
 📖 Tác giả: Truyendam.net
 <br></br>
-
+<!-- truyện sex vợ bạn, vợ bạn ngon quá, hiếp dâm vợ bạn tại nhà, bạn chồng đụ vợ, ngoại tình tư tưởng Truyendam.net -->
 Hà Anh ngậm trọn lấy dương vật của chồng, môi mút nhẹ từng nhịp, hai tay xoa vuốt bìu tròn như đang chơi đùa một cách đầy âu yếm.Thắng, chồng nàng nằm ngửa người, mắt lim dim hưởng thụ đôi môi êm ái và cái lưỡi của Hà Anh quấn quýt lấy đầu khấc. Càng lúc anh cảm thấy khó chịu, thân hình cường tráng của anh gồng cứng lên từng hồi. Hà Anh càng mân mê và gãi nhè nhẹ vào mặt dưới hòn dái của chồng, nàng thích thú khi thấy Thắng như vậy.
 <br></br>
 Nàng sục miệng mình lên con cu cương cứng của Thắng. Đầu khấc vừa chạm tới nóc họng của nàng là môi nàng cũng ngậm tới gốc. Thắng chịu hết nổi gầm lên và bắn một hai đợt tinh dịch vô miệng nàng. Nàng nuốt hết. Nàng thỏa mãn khi thấy Thắng cực khoái, đối với nàng cũng giống như nàng đạt cực khoái vậy. Hà Anh khẽ kéo chăn đắp cho Thắng và tự nhủ: ngủ ngon anh nhé.

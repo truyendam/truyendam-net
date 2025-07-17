@@ -99,3 +99,4 @@ Cô buông điện thoại. Không quay lại. Nhưng không cản Quân.
 Anh hiểu. Rất rõ.
 Anh cúi xuống. Hôn lên lưng cô. Rồi vai. Rồi cổ.
 Khi môi anh trượt xuống bờ vai trần run rẩy, Hà Anh nhắm mắt lại… và để mặc bản thân tan chảy giữa tiếng mưa – và tiếng lòng không còn lối quay về.
+<!-- truyện sex vợ bạn, vợ bạn ngon quá, hiếp dâm vợ bạn tại nhà, bạn chồng đụ vợ, truyện sex sinh viên, truyện sex xóm trọ,truyện sex hiếp dâm,truyện 18+,Truyện sex người lớn, Truyendam.net -->

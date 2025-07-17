@@ -44,3 +44,4 @@ Nhưng đêm nay, trong căn phòng chỉ còn tiếng gió lùa khe khẽ qua k
 Và có lẽ, ở đâu đó trong tim, một phần ký ức xưa cũ vừa khe khẽ xoay mình thức dậy.
 
 Rồi mai, cô lại là người vợ vững vàng như trước.
+<!-- truyện sex vợ bạn, vợ bạn ngon quá, hiếp dâm vợ bạn tại nhà, bạn chồng đụ vợ, truyện sex sinh viên, truyện sex xóm trọ,truyện sex hiếp dâm,truyện 18+,Truyện sex người lớn, Truyendam.net -->

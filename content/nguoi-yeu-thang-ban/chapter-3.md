@@ -98,4 +98,5 @@ Cậu chưa kịp nói gì. Nàng cũng không cần nói. Chỉ có mùi da th�
 Ngoài kia trời đã bắt đầu sáng. Tiếng mưa ngớt dần. Nhưng bên trong căn phòng nhỏ, một vết nứt đã không thể hàn gắn lại được nữa.
 <br></br>
 ----------------------Còn Tiếp----------------------
+<!-- truyện sex vợ bạn, vợ bạn ngon quá, hiếp dâm vợ bạn tại nhà, bạn chồng đụ vợ, truyện sex sinh viên, truyện sex xóm trọ,truyện sex hiếp dâm,truyện 18+,Truyện sex người lớn, Truyendam.net -->
 

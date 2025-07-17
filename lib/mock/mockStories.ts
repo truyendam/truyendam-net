@@ -181,6 +181,25 @@ export const mockStories = [
   status: "ongoing",
   updatedAt: "2025-07-16"
   },
-
+// cô giáo tiếng nhật
+  {
+    slug: "giao-vien-tieng-nhat",
+    title: "Giáo viên tiếng Nhật",
+    description:
+      "Một học sinh vừa trượt đại học, vô tình gặp cô giáo dạy thêm tiếng Nhật – xinh đẹp, cô đơn, và khát khao được vuốt ve...",
+    coverImage: "/images/giao-vien-tieng-nhat/cover.jpg",
+    totalChapters: 6,
+    views: generateFakeViews(3000, 15000),
+  status: "ongoing",
+  updatedAt: "2025-07-17",
+    tags: [
+      "truyện sex ngắn", "truyện sex cô giáo","truyện sex mạnh",
+      "truyện sex cô giáo thảo",
+      "Đụ máy bay",
+      "flagship",
+      "Tâm sự bạn đọc",
+      "Truyện sex ngoại tình","Truyện sex có thật","Truyện dâm","Làm tình với cô giáo","Truyện 18+"
+    ]
+  },
 
 ];

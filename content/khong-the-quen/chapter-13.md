@@ -118,3 +118,4 @@ Quân không ngừng nhấp – sâu, chắc, dứt khoát – mỗi cú thúc l
 Hà Anh không trả lời. Cô chỉ siết chặt tay anh, ngẩng đầu lên và rên khẽ trong tiếng nước xối. Giữa hơi nước mờ ảo và mùi da thịt quện vào nhau, Hà Anh biết… cô đã hoàn toàn mất phương hướng. Mọi ranh giới đã vỡ tan như bọt nước dưới chân họ.
 
 ----------------------Còn Tiếp----------------------
+<!-- truyện sex vợ bạn, vợ bạn ngon quá, hiếp dâm vợ bạn tại nhà, bạn chồng đụ vợ, truyện sex sinh viên, truyện sex xóm trọ,truyện sex hiếp dâm,truyện 18+,Truyện sex người lớn, Truyendam.net -->

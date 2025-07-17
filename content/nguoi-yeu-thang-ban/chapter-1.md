@@ -69,3 +69,4 @@ Chỉ một khoảng cách nhỏ. Nhưng hơi ấm từ lưng Phương phả san
 Không được… không được nhìn… – nó tự nhủ, nhưng mắt vẫn dán vào chỗ thắt lưng của Phương.
 <br></br>
 Tấm lưng ấy đang cử động nhẹ theo nhịp thở, gò mông trong chiếc quần ngủ mỏng hơi cong ra sau một chút, ôm sát theo đường cong mềm mại. Viền quần lót bên trong lộ rõ dưới lớp vải, đậm nét dưới ánh đèn vàng hắt nghiêng, càng nổi bật trên làn da trắng.<br></br> Nhịp thở đều nhẹ của Phương như khiến từng đường cong ấy lay động khẽ – khiến Dương như bị thôi miên bởi một sức hút không tên, giằng xé giữa bản năng và thứ gọi là đạo đức mong manh còn sót lại. tạo thành một đường nét khêu gợi, như cố tình mời gọi ánh nhìn lạc lối.Dương nuốt khan. Mạch đập dồn. Tay bất giác siết chặt mép chăn. <br></br>
+<!-- truyện sex vợ bạn, vợ bạn ngon quá, hiếp dâm vợ bạn tại nhà, bạn chồng đụ vợ, truyện sex sinh viên, truyện sex xóm trọ,truyện sex hiếp dâm,truyện 18+,Truyện sex người lớn, Truyendam.net -->
