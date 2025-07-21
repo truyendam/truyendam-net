@@ -116,6 +116,12 @@ const mockChapters: Record<
       hasMarkdown: true,
       updatedAt: "2025-07-14T08:45:00+09:00"
     },
+    8: {
+      id: 8,
+      title: "Chương 8",
+      hasMarkdown: true,
+      updatedAt: "2025-07-21T08:45:00+09:00"
+    },
    },
 //người yêu thằng bạn
   "nguoi-yeu-thang-ban": {

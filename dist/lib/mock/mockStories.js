@@ -131,10 +131,10 @@ exports.mockStories = [
             "truyện sex công nhân Samsung", "truyện sex Bắc Ninh",
         ],
         coverImage: "/images/cong-nhan-samsung/cover.jpg",
-        totalChapters: 7,
+        totalChapters: 8,
         views: (0, generateFakeViews_1.generateFakeViews)(5000, 20000),
         status: "ongoing",
-        updatedAt: "2025-07-13"
+        updatedAt: "2025-07-21"
     },
     // người yêu thằng bạn
     {
