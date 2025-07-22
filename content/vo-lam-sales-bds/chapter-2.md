@@ -1,84 +1,107 @@
-Chương 2: Đêm trượt dài trong bóng tối
-
-Hạnh tỉnh dậy trong căn phòng khách sạn xa lạ, ánh đèn ngủ vàng nhạt hắt lên trần như một vệt sáng uể oải. Đầu cô vẫn nặng trĩu vì rượu, da thịt nóng rát với những vết hằn đỏ mờ nhòe. Giữa hai đùi, cô cảm thấy âm ấm và hơi đau rát, chất nhờn còn âm ỉ chảy ra, khiến ký ức về buổi tiệc, quán bar và khoảnh khắc ông Thái ghì sát bên tai, những hơi thở hổn hển và những cái dập mạnh vào cô, bất giác ùa về như một cơn gió lạnh.
-
-Trong lòng Hạnh là một mớ cảm xúc rối bời. Cô cảm thấy vừa tủi nhục vừa bàng hoàng, đôi bàn tay run rẩy khi chạm vào vết hằn trên da. Hạnh thở gấp, nước mắt lặng lẽ chảy xuống gối. Nỗi xấu hổ khiến cô không dám nhìn chính mình, ý nghĩ về chồng và công việc khiến cô cảm thấy giằng xé, như vừa bị cuốn vào một cơn ác mộng.
-
-Chỉ cách đây 2 tiếng trước, khi bước vào phòng, ông Thái vẫn nhẹ nhàng bàn về hợp đồng, giọng trầm ấm như muốn tạo sự tin tưởng. Hắn khẽ mỉm cười, mắt liếc nhìn Hạnh với ánh nhìn như vừa khích lệ vừa ẩn chứa sự ve vãn:
-
-"Em giỏi lắm, Hạnh à, anh tin em sẽ ký được hợp đồng này. Em xứng đáng với phần thưởng đặc biệt..."
-
-Những lời nói nửa thật nửa trêu khiến Hạnh đỏ mặt, chưa kịp phản ứng thì bàn tay Thái đã chạm nhẹ vào eo cô, từng cái vuốt ve như trấn an.
-
-Nhưng chỉ một thoáng sau, sức ép từ cánh tay hắn siết chặt, môi khẽ lướt nhẹ qua tai với hơi thở nóng rực. Ánh mắt hắn rực lên như muốn nuốt chửng cô, trong khi bàn tay kia chặn ngang eo không cho cô lùi lại.
-
+📚 Truyện: Vợ Làm Sales Bất Động Sản🔞 
+<br>
+📖 Tác giả: Truyendam.net
+<br></br>
+<!-- truyện sex ngoại tình, vợ làm sales bất động sản,chồng bị cắm sừng, vợ ngoại tình, truyện sex hay,truyện sex hiếp dâm,truyện 18+,Truyện sex người lớn,truyện sex say rượu, Truyendam.net -->
+Hạnh tỉnh dậy trong căn phòng khách sạn xa lạ, ánh đèn ngủ vàng nhạt hắt lên trần. Đầu cô nặng trĩu vì rượu, da thịt nóng rát với những vết hằn đỏ. Giữa hai đùi, cảm giác âm ấm và đau rát cùng chất nhờn còn đọng lại khiến ký ức về buổi tiệc, quán bar và khoảnh khắc ông Thái ép sát, hơi thở hổn hển và những cú dập mạnh, ùa về như cơn gió lạnh.
+<br></br>
+Trong lòng Hạnh là mớ cảm xúc rối bời: tủi nhục, bàng hoàng, đôi bàn tay run rẩy khi chạm vào vết hằn và thứ tinh trùng còn âm ỉ chảy ra giữa đôi chân khiến cô càng thấy nhục nhã. Nước mắt cô lặng lẽ rơi, ý nghĩ về chồng và công việc khiến cô thấy giằng xé như vừa bị cuốn vào ác mộng.
+<br></br>
+Chỉ cách đây hai tiếng, khi bước vào phòng, ông Thái vẫn nhẹ nhàng bàn về hợp đồng, giọng trầm ấm tạo sự tin tưởng. Hắn khẽ mỉm cười, ánh mắt vừa khích lệ vừa ẩn chứa sự ve vãn: “Em giỏi lắm, Hạnh à, anh tin em sẽ ký được hợp đồng này. Em xứng đáng với phần thưởng đặc biệt...”
+<br></br>
+Những lời nói nửa thật nửa trêu khiến Hạnh đỏ mặt, chưa kịp phản ứng thì bàn tay Thái đã chạm nhẹ eo cô, vuốt ve như trấn an. Nhưng chỉ thoáng sau, sức ép từ cánh tay hắn siết chặt, môi lướt nhẹ qua tai với hơi thở nóng rực. Ánh mắt hắn rực lên, bàn tay kia chặn ngang eo không cho cô lùi lại.
+<br>
 “Em... đừng... anh Thái... em không muốn...” – Hạnh lắp bắp, giọng run rẩy.
+<br>
+Men rượu nồng nặc vẫn vương trong hơi thở, nhịp tim Hạnh dồn dập. Bàn tay cô cố chống đẩy nhưng cánh tay lực lưỡng như tảng đá, không nhúc nhích.
 
-Men rượu nồng nặc vẫn vương trong hơi thở, nhịp tim Hạnh dồn dập, tai cô ù đi như có tiếng trống. Cảm giác nóng ran từ trong lồng ngực lan ra tay chân khiến cơ thể cô như nặng trĩu, đôi chân khẽ khụy khi ông Thái ép sát. Bàn tay cô cố chống đẩy vào ngực hắn, nhưng cánh tay lực lưỡng như tảng đá, không nhúc nhích.
 
-Hắn cúi xuống cưỡng hôn, môi chạm lên môi Hạnh dù cô nghiêng mặt tránh, chỉ hôn bên ngoài môi nhưng vẫn đầy sức ép. Hắn ghé sát, giọng khàn đầy ẩn ý:
+Hắn cúi xuống cưỡng hôn, môi chạm lên môi Hạnh dù cô nghiêng mặt tránh. Hắn ghé sát, giọng khàn đầy ẩn ý: “Hạnh à, em đẹp quá... chỉ một lần thôi, hợp đồng anh ký ngay...”
 
-“Hạnh à, em đẹp quá... chỉ một lần thôi, hợp đồng anh ký ngay..."
 
-Thái cởi từng chiếc cúc trên váy Hạnh, bàn tay hắn lạnh nhưng đầy chủ ý. Ngón tay thô ráp miết dọc đường cong eo khiến Hạnh rùng mình, ánh mắt cô mở to hoảng loạn, hai bàn tay nhỏ cố giữ vạt áo nhưng từng chiếc cúc bật tung ra. Hạnh nấc lên khe khẽ, cố lắc đầu, giọng thảng thốt: “Không... buông em ra đi...”
+Thái cởi từng chiếc cúc trên váy, bàn tay hắn lạnh nhưng đầy chủ ý. Ngón tay thô ráp miết dọc eo khiến Hạnh rùng mình, hai bàn tay nhỏ cố giữ vạt áo nhưng từng chiếc cúc bật tung ra. Hạnh nấc lên khe khẽ: “Không... buông em ra đi...”
 
-Hạnh khẽ giật mình khi từng ngón tay thô ráp của Thái luồn vào khe hở, vừa khẽ xoa vừa bóp nhẹ lên làn da mềm, di chuyển chậm rãi theo đường cong hông và bụng cô, kéo lớp vải mỏng ra.
 
-Cảm giác bị kìm chặt khiến cô càng thêm hoảng loạn, mỗi lần hắn chạm làn da nóng rực của cô như điện giật. Tiếng vải sột soạt và tiếng thở gấp của cả hai tạo nên bầu không khí căng thẳng. Mỗi chiếc cúc bung ra, hơi thở hắn phả lên cổ, tay siết lấy eo, khiến Hạnh run bần bật.
+Ngón tay thô ráp của Thái luồn vào khe hở, khẽ xoa bóp nhẹ trên làn da mềm, kéo lớp vải mỏng ra. Cảm giác bị kìm chặt khiến cô càng hoảng loạn, mỗi lần hắn chạm làn da nóng rực như điện giật. Tiếng vải sột soạt và tiếng thở gấp tạo nên bầu không khí căng thẳng.
 
-Cô cố gắng giữ lấy vạt áo, nhưng từng cú chạm từng bước đầy chủ đích của hắn khiến cô cảm thấy như bị trói chặt giữa khoảnh khắc nóng bỏng và sợ hãi.
 
-— Anh Thái… đừng mà… làm ơn…
+— Anh Thái… đừng mà…
 
-Nhưng hắn áp sát, miệng kề bên tai, thì thầm như rót mật:
 
-— Em đẹp lắm Hạnh à… anh không chịu nổi nữa…
+Nhưng hắn áp sát, miệng kề tai, thì thầm: “Em đẹp lắm Hạnh à… anh không chịu nổi nữa…”
 
-Ngực cô căng đầy, vươn lên dưới lớp áo lót ren mỏng, từng đường cong mướt như muốn bật ra ngoài. Thái cúi xuống, hơi thở nóng hổi phả vào da thịt khiến cô rùng mình. Hắn hôn chậm rãi lên khe ngực, lưỡi lướt nhẹ, để lại những vệt ướt ấm khiến Hạnh nghẹn ngào.
 
-Rồi hắn cúi xuống, môi khẽ mút lấy đầu ti qua lớp ren, cắn nhẹ một cách đầy trêu chọc khiến Hạnh giật nảy mình, vừa đau nhói vừa dấy lên cảm giác tê dại lạ lẫm nơi đầu ti. Cô cảm nhận rõ nhịp tim đập mạnh khi hắn gặm khẽ, từng hơi thở gấp gáp xen lẫn tiếng rên thảng thốt của chính mình.
+Ngực cô căng đầy, vươn lên dưới lớp áo lót ren mỏng. Thái cúi xuống hôn chậm rãi lên khe ngực, lưỡi lướt nhẹ để lại những vệt ướt ấm khiến Hạnh nghẹn ngào. Bàn tay hắn bóp nhẹ, nâng bầu ngực và mút mạnh lên đầu ti qua lớp ren, khiến Hạnh giật nảy, vừa đau nhói vừa tê dại lạ lẫm.
 
-á... đừng anh...
 
-Bàn tay Thái trượt xuống dưới váy, ngón tay thô ráp lướt nhẹ lên mặt đùi non mịn như muốn khơi dậy từng luồng điện nóng bỏng. Cảm giác lạnh từ đầu ngón tay hắn làm Hạnh rùng mình, da gà nổi khắp cơ thể.
+Bàn tay Thái trượt xuống dưới váy, ngón tay thô ráp lướt nhẹ lên mặt đùi non, vừa bóp vừa xoa. Hắn ép sát cơ thể cô xuống giường, mỗi lần lướt tay đều mạnh dạn hơn. “Em đừng sợ? Thả lỏng người đi em...” – hắn thì thầm.
 
-**Hắn bắt đầu xoa nhẹ vùng tam giác bên ngoài lớp quần, từng đường vuốt mạnh nhẹ xen kẽ khiến cô nghẹn thở và cố kẹp chặt chân lại. Rồi hắn từ từ vén lớp vải mỏng sang một bên, đầu ngón tay chạm vào nơi nhạy cảm bên trong, miết chậm rãi khiến Hạnh bật rên khe khẽ và co rúm người lại. **
 
-**Miệng cô lắp bắp: “Không… buông em ra…” nhưng hơi thở dồn dập và thân thể run lên vì phản ứng lạ lẫm. Nước nơi ấy đã ướt dẫm, khiến ngón tay hắn trượt sâu hơn, kích thích từng thớ thịt mềm. Chỉ một thoáng sau, Thái kéo mạnh chiếc quần sơ-lít xuống, động tác nhanh đến mức Hạnh không kịp phản ứng, hai tay cô vùng vẫy yếu ớt trong vô vọng. **
+Hắn nhanh tay vén váy, ngón tay chạm vào nơi nhạy cảm, miết chậm khiến Hạnh bật rên khe khẽ và co rúm người. Miệng cô lắp bắp: “Không… buông em ra…” nhưng hơi thở dồn dập và thân thể run lên. Hắn không vội vàng, khéo léo miết từng vòng quanh mép ngoài, để cảm giác lan tỏa từng chút một. Ban đầu Hạnh gồng cứng, nhưng từng cú chạm chính xác của hắn khiến cơ thể cô bắt đầu mềm ra, từng luồng khoái cảm dồn về khiến nước ứa ra ướt tay hắn.
 
-Miệng Thái không rời khỏi bầu ngực căng tròn của Hạnh. Hắn mút chặt từng đầu ti, đôi môi nóng bỏng và đầu lưỡi ẩm ướt xoay vòng, lúc nhẹ nhàng mơn man, lúc lại bất ngờ cắn khẽ khiến cô bật ra tiếng nấc nghẹn. Hạnh cong người, ngực nhấp nhô theo từng nhịp mút, cảm giác đau nhói pha lẫn tê dại làm đầu ti cô như cứng hơn dưới môi hắn.
 
-**Trong khi đó, bàn tay Thái không hề dừng lại. Ban đầu hắn xoa nhẹ vùng tam giác bên ngoài lớp quần, những vòng tròn chậm rãi như khiêu khích từng dây thần kinh nhạy cảm. Hạnh kẹp chặt hai đùi, miệng run rẩy: **
+Miệng Thái không rời khỏi bầu ngực căng tròn của Hạnh. Hắn mút chặt từng đầu ti, đôi môi nóng bỏng và đầu lưỡi ẩm ướt xoay vòng, lúc nhẹ nhàng mơn man, lúc lại cắn khẽ khiến cô bật ra tiếng nấc nghẹn. Hạnh cong người, ngực nhấp nhô, cảm giác đau nhói pha lẫn tê dại làm đầu ti cô cứng hơn.
 
-“Không… đừng…” nhưng cơ thể phản bội khi từng đợt ấm nóng lan xuống. Thái khẽ nhếch mép, từ từ  đầu ngón tay chạm thẳng vào lớp da mềm ướt át bên trong. Hắn ngoáy chậm, xoay từng vòng nhỏ, cảm nhận sự trơn mượt khiến Hạnh quằn quại.
 
-— Đừng… đừng làm vậy… — Hạnh lắp bắp, tay cố đẩy hắn ra.
+Trong khi đó, bàn tay Thái không dừng lại. Ban đầu hắn xoa nhẹ vùng tam giác, những vòng tròn chậm rãi khiêu khích từng dây thần kinh, vừa quan sát phản ứng vừa điều chỉnh nhịp.
 
-Nhưng Thái càng hứng thú. Hắn ấn nhẹ đầu ngón tay vào khe mướt, di chuyển sâu hơn, miết mạnh ở điểm nhạy cảm khiến Hạnh rên bật thành tiếng. Nước từ trong cô đã ứa ra, ướt cả đầu ngón tay hắn. Không chần chừ, Thái kéo phăng chiếc quần sơ-lít xuống thật nhanh, khiến Hạnh giật mình, tay chỉ kịp che hờ vạt váy. Thái cảm nhận rõ Hạnh đã đê mê, hắn nhanh chóng kéo bỏ quần mình ra, cậu nhỏ bật mạnh ra như vừa được giải thoát, căng cứng và nóng rực.
 
-Thái cảm nhận rõ Hạnh đã đê mê, hơi thở cô nặng nề, từng tiếng rên nhỏ bật ra như không kiểm soát. Hắn nhanh chóng kéo quần mình xuống, động tác gấp gáp như kẻ khát cháy. Cậu nhỏ của Thái bật mạnh ra như vừa được giải thoát, nổi gân, căng cứng và nóng rực. Hắn đưa sát lại, đầu khấc to đùng của hắn chạm vào vùng ướt át khiến Hạnh rùng mình, miệng bật khẽ: “Không… đừng…” nhưng cơ thể cô run lên từng đợt. Thái nghiêng người, đôi mắt đầy dục vọng, một tay vẫn giữ chặt eo Hạnh, tay còn lại vuốt nhẹ dọc thân cậu nhỏ như chuẩn bị ấn vào.
+Hạnh cố kẹp chặt chân, miệng lắc đầu khẽ: “Đừng... anh Thái...” nhưng càng chống, hắn càng khéo léo xoay ngón tay, miết từng vòng nhỏ đúng chỗ nhạy cảm. Chỉ sau vài nhịp, nơi ấy bắt đầu ướt đẫm, ngón tay hắn trơn trượt trong làn nước nóng bỏng. Hắn  ghé sát tai cô: “Thấy chưa... em càng nói không thì cơ thể em càng phản ứng...”.
 
-Cô nghẹn lại khi cảm nhận cậu nhỏ của Thái – dài, cứng, nóng hổi – đang cọ vào khe mướt. Một cú đẩy chậm rãi, sâu đến nghẹt thở. Nhịp dập của Thái mỗi lúc một mạnh hơn, từng cú nhấn như muốn xé toạc không gian. Hạnh cảm thấy rõ từng lớp da thịt bị đẩy lùi, căng cứng và run rẩy khi hắn tiến sâu.
 
-** Cô bật rên thảng thốt: “Trời ơi… sao to và dài vậy…ahh”
+Hắn ấn mạnh hơn, hai ngón tay miết sâu, khẽ móc vào bên trong, xoay nhịp khiến Hạnh rên gắt và cong lưng bật tiếng nức nở. Từng nhịp móc khéo léo khiến nước từ cô bắn thành từng tia ướt cả bàn tay hắn, cảm giác sướng tê dại lan khắp cơ thể. Hạnh chưa từng có cảm giác như thế này, chồng cô chưa bao giờ khiến cô đạt đến mức sung sướng như vậy. “Nghe em rên làm anh phát điên...” – hắn cười khẽ, ngón tay vẫn khéo léo ra vào khiến Hạnh run lên từng đợt, mắt nhắm nghiền và miệng khẽ rên từng tiếng đứt quãng.
 
-Mỗi lần hắn rút ra, hơi nóng bỏng rát tràn lên, rồi lại dập vào, khiến cô nghẹn thở, đôi mắt nhắm chặt và tiếng rên rỉ theo từng nhịp như bị cuốn trôi.**
 
-Ngực cô nảy lên theo mỗi cú dập. Lúc đầu Hạnh còn phản kháng, cố đẩy hắn ra, nhưng mỗi cú thúc mạnh và dài làm cô nghẹn lại, đôi mắt trợn to vì cảm giác vừa đau vừa lạ lẫm. “Trời ơi… sao to và sâu quá…ahhh...” – cô thở gấp, cảm giác lạ và khoái cảm ùa về khiến bản thân dần không kiềm chế được, miệng bắt đầu rên nức nở.
+Không chần chừ, Thái kéo phăng chiếc quần xuống thật nhanh. Người Thái tuy nhỏ con nhìn gầy gầy nhưng cậu nhỏ thì ngược lại, gân guốc và rất dài, đầu khấc to như cây nấm, căng cứng và nóng rực. 
 
-** Thái siết eo cô, dập từ tốn rồi mạnh dần** Tiếng rên của Hạnh vang lên đứt quãng, miệng cô khẽ bật những âm thanh nức nở hòa với lời thì thầm đầy dục vọng của Thái: “Em sướng không? Anh biết em cũng đang sướng rồi mà...” Hắn vừa dập vừa khẽ buông lời trêu chọc khiến Hạnh đỏ mặt, càng rên rỉ dữ dội hơn.**
 
-Tiếng rên bật ra mỗi khi Thái dập sâu, hòa cùng tiếng nhóp nhép ướt át vang lên không ngừng. Hạnh cảm thấy nơi ấy căng cứng, nóng rát, từng đợt nước nhờn tràn ra khiến cảm giác càng trơn trượt và dữ dội hơn. Mỗi cú đẩy của Thái như xoáy vào tận sâu, làm cô vừa đau vừa run rẩy, không kìm nổi tiếng rên nức nở.
+Hắn chạm vào khe cô bé ướt át của Hạnh, cọ sát đầu khấc khiến Hạnh hoảng loạn co người lại, chân đạp lung tung, miệng hét khẽ nhưng cả hai tay đã bị Thái ghì chặt xuống giường. Cô cố vùng vẫy nhưng vô ích, từng cơ bắp của Thái như khóa chặt lấy cơ thể mảnh mai của cô.
 
-Hắn nhấn sâu, siết chặt eo cô. Hạnh biết hắn sắp ra liền lắp bắp nói: “Đừng… không được cho vào trong… anh… đừng…” nhưng hắn càng như thích thú càng đẩy mạnh khiến từng đợt tinh nóng phun tràn bên trong, làm Hạnh rùng mình như bị dòng lửa nóng đổ ập vào. Hắn ra rồi vẫn còn nhấp nhẹ, từng nhịp dứt khoát như muốn bắn xả hết vào sâu thẳm bên trong cô. Cảm giác ấm ướt lan khắp cơ thể, từng đợt co giật làm cô nghẹn tiếng, đôi mắt lim dim vì đê mê đến lạ, cơ thể run bắn khi cảm nhận rõ từng luồng tinh dày đặc tràn ra và chảy xuống đùi.
 
-Hắn thở hắt ra, nghiêng người áp môi vào tai Hạnh, giọng khàn đặc: “Em làm anh phát điên mất… Anh xin lỗi, nhưng em đẹp và khiến anh không kìm chế được. Rồi em sẽ còn nhớ mãi đêm nay.” Bàn tay hắn chậm rãi vuốt dọc sống lưng cô, như lời khẳng định quyền chiếm hữu. Hạnh nằm im, toàn thân run rẩy, nước mắt lăn dài.
+Một cú đẩy thật mạnh và sâu, thân cu căng cứng cắm ngập toàn bộ chiều dài vào trong khiến Hạnh nghẹn thở, mắt mở to vì sốc và đau đớn. Hắn dập nhịp dứt khoát, từng cú thúc mạnh như muốn đóng dấu lên cơ thể cô. Hạnh cảm thấy rõ từng lớp da thịt căng cứng và run rẩy khi hắn tiến sâu.
 
-Cô cảm thấy như bị rút hết sức lực, từng nhịp thở nặng nề của Thái vẫn còn phả nóng trên vai. Hơi thở của hắn lẫn mùi rượu và mồ hôi như bám chặt vào làn da ướt đẫm của cô, khiến Hạnh thấy tủi nhục đến nghẹn ngào. Mỗi cử động nhỏ đều khiến cô nhớ lại cảm giác vừa bị xâm chiếm, lòng ngổn ngang đầy căm phẫn và xấu hổ.
 
-Một lúc sau, Hạnh gượng ngồi dậy, cơ thể nhão ra như không còn sức. Giữa hai đùi, chất nhờn và tinh dịch còn dính bết, khiến cô thấy tê rát mỗi khi cử động. Váy áo cô nhàu nát, vạt áo lấm tấm vết ẩm và mùi mồ hôi cùng mùi rượu nồng nặc. Hạnh run rẩy cầm điện thoại thì bất chợt thấy cuộc gọi nhỡ từ Cường – chồng cô, lúc trước đã gọi hỏi cô đang ở đâu. Cô nhớ lại khoảnh khắc chồng gọi, khi đó cô phải lí nhí nói mình đang đi tiếp khách với chị Mai, giọng run lẩy bẩy vì vừa bị Thái dồn vào sát giường.
+“Trời ơi… sao to và dài vậy…ahh” – cô thảng thốt, mỗi lần hắn rút ra rồi dập vào, khiến cô nghẹn thở, đôi mắt nhắm chặt và tiếng rên rỉ theo từng nhịp.
 
-Hạnh nắm chặt điện thoại, hít thật sâu như muốn đè nén mọi nỗi nhục nhã vừa trải qua. Tim cô đập loạn nhịp, mồ hôi túa ra lạnh buốt trên tay, sợ rằng chỉ một thoáng giọng run rẩy cũng đủ khiến Cường nghi ngờ. Trong đầu cô văng vẳng câu hỏi dằn vặt: “Nếu anh biết em vừa trải qua điều này, anh sẽ nhìn em thế nào?” Cảm giác ân hận, xấu hổ và hoang mang đan xen khiến cô nghẹn lời, chỉ muốn chôn giấu tất cả thật sâu.
 
-Hạnh loạng choạng bước ra khỏi khách sạn, đầu óc trống rỗng, không còn nhớ gì tới hợp đồng nữa. Một lát sau, điện thoại rung lên với tin nhắn từ Thái: “Em quên hợp đồng rồi. Nếu em muốn, ngày mai quay lại bất cứ lúc nào, mình ký hợp đồng nhé.”
+Thái siết eo cô, cảm nhận sự căng khít và nóng bỏng, ban đầu dập thật chậm để cô làm quen với chiều sâu và độ to. Hạnh cắn môi, cảm giác vừa đau vừa nghẹt thở, nhưng hắn tinh ranh không vội dập nhanh, từng cú đưa đẩy nhẹ khiến cơn đau dần tan biến thay bằng cảm giác lạ lẫm, khoái lạc dâng tràn.
+
+
+ Mỗi lần hắn nhấn sâu, những nơi tận cùng bên trong Hạnh lần đầu tiên bị chạm tới khiến cô rên dài và nước từ lồn cô trào ra ướt đẫm thân cu. Mỗi cú rút ra, thân cu của hắn trắng đục nước nhờn, tiếng nhóp nhép vang lên đầy gợi dục. Tiếng rên của Hạnh vang lên đứt quãng, hòa với tiếng thì thầm của Thái: “Sâu thế này em có thích không? Anh biết em sướng rồi mà...”
+
+
+Tiếng rên bật ra mỗi khi Thái dập sâu, hòa cùng tiếng nhóp nhép vang lên không ngừng. Hạnh cảm thấy nơi ấy căng cứng, từng đợt nước nhờn tràn ra khiến cảm giác càng trơn trượt và dữ dội.
+
+
+Thái cảm nhận Hạnh đã hoàn toàn bị khuất phục, bất ngờ rút cậu nhỏ ra rồi ghì chặt hai đùi cô mở rộng, cúi xuống chiêm ngưỡng vùng kín đỏ hồng, ướt đẫm, từng sợi lông mềm mịn như mời gọi khiến hắn càng bùng cháy. 
+
+
+Đầu lưỡi nóng rực lướt qua khe ướt át, quét thành từng vòng chậm rãi rồi đẩy sâu, vừa mút vừa xoáy khiến Hạnh bật rên nghẹn ngào. Cô run lẩy bẩy, ngực ưỡn cao, từng tiếng nấc nghẹn đứt quãng khi lưỡi hắn liên tục đánh nhịp mạnh hơn, sâu hơn, làm từng đợt khoái cảm dâng trào.
+
+
+Thái khoái trí khi biết Hạnh đã hoàn toàn khuất phục, hắn ngồi dậy, ghì chặt eo cô, kê cậu nhỏ nóng hổi áp sát vào khe ướt đẫm và từ từ nhấn vào từng chút một, cảm nhận sự căng khít bao lấy hắn. Mỗi phân trượt qua khiến Hạnh rùng mình, miệng khẽ bật tiếng rên nghẹn ngào.
+
+
+Khi đầu khấc đã chạm tới tận sâu, hắn bất ngờ tăng tốc, cú dập mạnh đến mức thân thể Hạnh cong lên, hơi thở nghẹn lại. Cảm giác bị lấp đầy hoàn toàn khiến cô vừa đau vừa ngợp, hai tay bấu chặt ga giường, cơ thể căng cứng rồi run bắn dữ dội khi hắn nhấn sâu hết cỡ, từng cú thúc như dồn cả sức nóng và dục vọng của hắn vào nơi thẳm sâu nhất.
+
+
+Hắn ra rồi vẫn còn nhấp nhẹ, từng nhịp dứt khoát như muốn bắn xả hết vào sâu thẳm bên trong cô. Cảm giác ấm ướt lan khắp cơ thể, từng đợt co giật làm cô nghẹn tiếng, cơ thể run bắn khi cảm nhận rõ từng luồng tinh dày đặc tràn ra.
+
+
+Hắn thở hắt ra, áp môi vào tai Hạnh, giọng khàn đặc: “Em làm anh phát điên mất… Anh xin lỗi, nhưng em đẹp và khiến anh không kìm chế được. Anh sẽ không để em phải thiệt khi bên cạnh anh đâu Hanh ơi!”
+
+
+Bàn tay hắn vuốt dọc sống lưng cô. Hạnh nằm im, toàn thân run rẩy, nước mắt lăn dài.
+
+
+Cô cảm thấy như bị rút hết sức lực, từng nhịp thở nặng nề của Thái vẫn còn phả nóng trên vai. Mỗi cử động nhỏ đều khiến cô nhớ lại cảm giác vừa bị xâm chiếm, lòng ngổn ngang đầy căm phẫn và xấu hổ.
+
+
+Một lúc sau, Hạnh gượng ngồi dậy, cơ thể nhão ra. Giữa hai đùi, chất nhờn và tinh dịch còn dính bết, khiến cô thấy tê rát. Váy áo cô nhàu nát, vạt áo lấm tấm vết ẩm và mùi rượu nồng nặc. Hạnh run rẩy cầm điện thoại thì bất chợt thấy cuộc gọi nhỡ từ Cường – chồng cô.
+
+
+Hạnh nắm chặt điện thoại, hít thật sâu như muốn đè nén mọi nỗi nhục nhã. Tim cô đập loạn nhịp, mồ hôi túa ra lạnh buốt. Trong đầu cô vang lên câu hỏi: “Nếu anh biết em vừa trải qua điều này, anh sẽ nhìn em thế nào?” Cảm giác ân hận, xấu hổ và hoang mang đan xen khiến cô nghẹn lời."
+
+
+Hạnh loạng choạng bước ra khỏi khách sạn, đầu óc trống rỗng, không còn nhớ gì tới hợp đồng. Một lát sau, điện thoại rung lên với tin nhắn từ Thái: “Em quên hợp đồng rồi. Nếu em muốn, ngày mai quay lại bất cứ lúc nào, mình ký hợp đồng nhé.” Hạnh khẽ rùng mình.
 
