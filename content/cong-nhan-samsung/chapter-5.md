@@ -1,6 +1,6 @@
 📚 Truyện: Công nhân SamSung 🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Phương xin nghỉ phép ba ngày. Cô không nói lý do cụ thể, chỉ bảo mệt – cần nghỉ ngơi. Tổ phó trong ca chép miệng đồng ý. Hưng thì không nói gì. Chỉ đứng đó, bên dãy băng chuyền, ánh mắt nhìn theo cô khi cô lặng lẽ thu dọn đồ cá nhân.
 
@@ -117,3 +117,4 @@ Em xin lỗi… Minh. Em không xứng nữa rồi...
 <br>
 
 Sáng mai, cô sẽ quay lại Bắc Ninh. Nhưng trong lòng, Phương chưa dứt. Cô vẫn còn yêu Minh – vẫn muốn một ngày nào đó được tha thứ, được chạm lại vào anh không phải với cảm giác tội lỗi, mà là bằng tình yêu thật sự. Dù chưa biết sẽ mất bao lâu, cô thầm hứa với bản thân: sẽ có một ngày, cô quay lại… với tất cả những gì cô từng đánh rơi.
+<!-- truyện sex samsung, sex bạn người yêu, truyện sex hồng hà nhi, tình chị em, truyện sex xóm trọ,truyện sex vụng trộm,truyện 18+,Truyện sex người lớn, Truyendam.net -->

@@ -1,6 +1,6 @@
 📚 Truyện: Đời Sinh Viên🔞  
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Sáng hôm sau.
 
@@ -115,3 +115,5 @@ Chị lại lên cơn sướng, âm đạo co bóp dữ dội. Cảm tưởng nh
 Nó lại xuất nữa rồi, khoẻ thật – chị nhủ thầm.
 
 Nó ôm chặt chị vào ngực, hai chị em nằm mỗi người theo đuổi một ý nghĩ khác nhau.
+
+<!--sex chị em, truyện sex hồng hà nhi, tình chị em, truyện sex xóm trọ,truyện sex vụng trộm,truyện 18+,Truyện sex người lớn, Truyendam.net -->

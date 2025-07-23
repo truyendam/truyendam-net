@@ -1,6 +1,6 @@
 📚 Truyện: Không thể quên🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Đêm ấy, Hà Anh ngủ quên lúc nào không hay — đầu óc quay cuồng với những cảm xúc lẫn lộn. Trái tim rối bời. Cơ thể trống trải. Và ẩm ướt đến lạ.
 

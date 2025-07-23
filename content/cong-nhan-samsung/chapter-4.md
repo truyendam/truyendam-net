@@ -1,6 +1,6 @@
 📚 Truyện: Công nhân SamSung 🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Căn phòng trọ nhỏ của Trang chìm trong bóng tối. Chỉ còn ánh đèn vàng ngoài hắt khe cửa sổ tạo thành một vệt sáng nhạt in lên bức tường cũ.
 <br></br>
@@ -280,3 +280,4 @@ Chỉ vài giây sau, màn hình báo "Seen". Tin nhắn trả lời ngắn gọ
 <br></br>
 Trang mỉm cười, đặt túi đồ ăn xuống bàn.Nhìn sếp Hưng dáng cao cao gầy gầy vậy thì đêm qua chắc cũng ồn phải biết
 <br></br>
+<!-- truyện sex samsung, sex bạn người yêu, truyện sex hồng hà nhi, tình chị em, truyện sex xóm trọ,truyện sex vụng trộm,truyện 18+,Truyện sex người lớn, Truyendam.net -->

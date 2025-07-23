@@ -1,6 +1,6 @@
 📚 Truyện: Công nhân SamSung 🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Phương quay lại Bắc Ninh vào một chiều mưa bụi. Gió lạnh quẩn quanh mép khăn choàng, thấm vào cổ áo khiến cô khẽ rùng mình. Chiếc xe khách vừa dừng, cửa mở ra, làn hơi ẩm từ mặt đường hắt vào – lẫn mùi dầu xe, mùi nhựa, và cả mùi công nghiệp mà cô từng muốn quên. Nhưng giờ… lại như kéo cô trở về chính mình.
 <br></br>
@@ -287,5 +287,5 @@ Phương đỏ mặt, khẽ liếc nhìn Hưng, tim vẫn còn đập rộn. Tro
 <br></br>
 Lát sau, điện thoại Hưng rung lên. Là tin nhắn từ Trang: “Chắc em phải đổi cái giường rồi anh ạ… đêm qua với sáng nay nó cứ kêu két két, hỏng thật rồi đấy.” Kèm theo một icon mặt cười nháy mắt tinh quái.
 
-
+<!-- truyện sex samsung, sex bạn người yêu, truyện sex hồng hà nhi, tình chị em, truyện sex xóm trọ,truyện sex vụng trộm,truyện 18+,Truyện sex người lớn, Truyendam.net -->
 

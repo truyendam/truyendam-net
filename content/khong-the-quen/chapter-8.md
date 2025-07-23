@@ -1,6 +1,6 @@
 📚 Truyện: Không thể quên🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 
 Hà Anh nằm nghiêng, mái tóc rối phủ một phần lưng trần. Ánh đèn ngủ vàng dịu hắt lên làn da ửng hồng còn vương hơi thở ái ân.

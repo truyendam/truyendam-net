@@ -1,6 +1,6 @@
 📚 Truyện: Không thể quên🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 
 "Không phải cái ôm nào cũng là để yêu. Có cái ôm... chỉ là để một người đàn bà thôi không thấy mình sắp đổ vỡ."

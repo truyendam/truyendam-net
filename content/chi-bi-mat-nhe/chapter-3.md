@@ -1,6 +1,6 @@
 📚 Truyện: Chị... Bí mật nhé 🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Linh im lặng thật lâu. Tiếng mưa vẫn tí tách trên mái tôn cũ, ánh đèn ngủ hắt vào đôi mắt hoe đỏ. Rồi chị chỉ khẽ nói một câu:
 

@@ -1,6 +1,6 @@
 📚 Truyện: Không thể quên🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Buổi sáng hôm sau, ánh nắng xiên nhẹ qua rèm cửa, vàng nhạt như dư âm của đêm trước còn sót lại. Hà Anh mở mắt – trần trụi, tê dại và rối loạn. Có lẽ đã rất lâu rồi, cô chưa từng có một giấc ngủ sâu đến vậy – không mộng mị, không trằn trọc. Chỉ còn hơi ấm vương trên ga giường, và mùi da thịt quen thuộc len lỏi giữa những nếp gối nhàu.
 Cô khẽ xoay người – rồi khựng lại. Cơn tê âm ỉ giữa hai đùi khiến toàn thân cô co rút một cách vô thức. Mỗi lần cử động, từng thớ cơ như nhói lên âm ỉ.

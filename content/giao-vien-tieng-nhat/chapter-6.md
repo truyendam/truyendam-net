@@ -1,6 +1,6 @@
 📚 Truyện: Giáo viên tiếng nhật 🔞
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Chương 6Nghe chị rên như vậy, mình càng mút sâu hơn, lưỡi liếm liên tục quanh hột le, rồi thọc vào ngoáy đều bên trong. Nước từ bướm chị tràn ra ướt đẫm, hòa với nước bọt tạo thành một lớp bóng dính loang lổ trên lông mu. Âm thanh "chụt chụt" vang lên sau mỗi lần lưỡi mình rút ra lại liếm vào, khiến cả thân thể chị quằn quại, run bần bật trên ghế.
 

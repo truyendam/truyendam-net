@@ -1,6 +1,6 @@
 📚 Truyện: Chồng sắp cưới bị cắm sừng 🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Trang luôn là kiểu phụ nữ khiến đàn ông phải quay đầu, kể cả khi chỉ lướt qua.Làm sale, cô biết rõ cách khiến mình trở nên cuốn hút: váy ôm nhẹ tôn dáng, làn da trắng tự nhiên, và ánh mắt như biết cách cười thay cho môi.
 

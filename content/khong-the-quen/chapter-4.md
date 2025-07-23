@@ -1,6 +1,6 @@
 📚 Truyện: Không thể quên🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 “Đôi khi, những giới hạn không bị phá vỡ bởi ham muốn, mà bởi khao khát được lấp đầy một khoảng trống không thể gọi tên.”
 

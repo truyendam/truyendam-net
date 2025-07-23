@@ -1,6 +1,6 @@
 📚 Truyện: Công nhân SamSung 🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Chỉ vì một chuyện nhỏ. Tin nhắn cô gửi từ trưa, mãi tối Minh mới trả lời: “Anh bận.” Một chữ cụt ngủn, không lấy nổi một icon cảm xúc. Cô gõ mấy dòng, rồi xoá. Rồi lại gõ:
 <br></br>
@@ -242,7 +242,7 @@ Trang chỉ seen, vài phút sau mới nhắn lại:
 “Ngon... Nhẹ thôi không sập giường 😏”
 
 <br></br>
-
+<!-- truyện sex samsung, sex bạn người yêu, truyện sex hồng hà nhi, tình chị em, truyện sex xóm trọ,truyện sex vụng trộm,truyện 18+,Truyện sex người lớn, Truyendam.net -->
 
 
 

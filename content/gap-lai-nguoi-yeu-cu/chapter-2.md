@@ -1,9 +1,8 @@
 📚 Truyện: Gặp lại người yêu cũ 🔞
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <!-- Tag: truyện sex công nhân samsung, sex chồng đi Nhật, truyện ngoại tình, truyện người yêu cũ, truyện sex Việt 2025 -->
 <!-- Keywords: truyện sex dài tập, truyện 18+ cảm xúc, sex giằng xé, truyện nữ chủ động, Truyendam.net -->
-
 <br></br>
 Thúy đến đám cưới đúng giờ, chiếc váy màu be đơn giản nhưng vừa vặn ôm lấy dáng người sau sinh vẫn còn giữ được nét mềm mại. Cô bước vào sân nhà gái, tiếng nhạc đám cưới, tiếng cười nói vang khắp nơi khiến lòng cô thoáng chộn rộn. Nhóm bạn cũ tụm lại ở một góc – có người nhìn thấy Thúy thì reo lên, tay giơ cao như bắt sóng thời thanh xuân:
 <br>

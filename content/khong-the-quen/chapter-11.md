@@ -1,6 +1,6 @@
 📚 Truyện: Không thể quên🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Đêm trước ngày chồng về, Hà Anh và Quân biết họ sẽ phải xa nhau ít nhất hai tuần. Anh có chuyến công tác bất ngờ vào sáng sớm, còn cô phải chuẩn bị đón chồng trở lại sau gần hai năm xa cách. Họ không nói nhiều, chỉ lặng lẽ nhìn nhau trong ánh đèn ngủ mờ hắt lên trần nhà, như đang đếm ngược từng nhịp thời gian còn lại.
 

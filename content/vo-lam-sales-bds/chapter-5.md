@@ -1,6 +1,6 @@
 📚 Truyện: Vợ Làm Sales Bất Động Sản🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Có lần Tuấn ra Hà Nội công tác, Thái mời đi nhậu để cảm ơn. Trong bữa đó, Thái uống hơi quá, vô tình khoe khoang:“Con bé Hạnh sale dưới quyền em giỏi lắm vừa ngoan vừa bốc lửa, chiều khách cực đỉnh…”Tuấn chỉ cười mỉm, nhưng nghe giọng Thái là biết hai người này đã qua lại. Sau hôm ấy, Tuấn ngầm hiểu Hạnh đã bị Thái chén.
 <br></br>

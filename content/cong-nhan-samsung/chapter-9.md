@@ -1,6 +1,7 @@
 📚 Truyện: Công nhân SamSung 🔞
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
+<br></br>
 <!-- truyện sex vợ bạn, vụng trộm, sex 69, sex trong nhà nghỉ, truyện sex sinh viên, truyện sex xóm trọ,bao cao su gân gai,xuất tinh vào mồm,truyện sex 1 ngày địt 2 người,truyện 18+,Truyện sex người lớn, Truyendam.net -->
 <br></br>
 Vừa quay người đóng cửa, Minh lập tức ôm chặt lấy Phương như muốn bù đắp những ngày xa cách. Mùi hương quen thuộc từ mái tóc và làn da khiến anh như phát điên vì khao khát. Không để cô kịp đặt túi đồ xuống, anh xoay người ép cô vào cánh cửa, đôi môi nóng bỏng áp lên môi cô bằng một nụ hôn dài và sâu.

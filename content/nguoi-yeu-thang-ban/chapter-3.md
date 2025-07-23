@@ -1,6 +1,6 @@
 📚 Truyện: Chén người yêu thằng bạn 🔞 
 <br>
-📖Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br>
 ## Chương 3 – Sáng sớm chén bạn người yêu(truyện sex sinh viên)
 <br></br>

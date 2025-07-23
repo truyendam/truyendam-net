@@ -1,6 +1,6 @@
 📚 Truyện: Giáo viên tiếng nhật 🔞
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Hôm sau mình đến đúng giờ. Vừa tới cổng, hai 'ông tướng' lại chạy ra vẫy đuôi. Mình dúi cho mỗi đứa một khúc xương rồi vội vàng leo ba tầng lầu.
 

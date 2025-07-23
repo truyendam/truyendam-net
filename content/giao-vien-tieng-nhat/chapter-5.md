@@ -1,6 +1,6 @@
 📚 Truyện: Giáo viên tiếng nhật 🔞
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Khoảng hơn 1 tiếng sau, cảm thấy buồn ở môi, giật mình tỉnh dậy. Hóa ra chị đang lấy ngón trỏ xoa xoa môi mình.
 

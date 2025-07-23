@@ -1,6 +1,6 @@
 📚 Truyện: Giáo viên tiếng nhật 🔞
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Hôm sau, vẫn như thường lệ, mình lại đến nhà chị học. Mình tự hỏi liệu buổi học hôm nay sẽ mang đến điều gì chứ không chỉ là trông chó như mọi lần. Quả thực là rất mất mặt. Mình nhớ lại màn thu phục con chó đẻ nhà ông bác ngày xưa chỉ bằng một khúc xương. À đúng rồi! Chỉ cần một khúc xương.
 

@@ -1,6 +1,6 @@
 📚 Truyện: Không thể quên🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Hà Anh khẽ đẩy cánh cửa bước vào căn hộ nhỏ. Ánh chiều muộn vương vãi trên nền gạch, nhuộm bức tường trắng bằng sắc vàng hanh hao đến mỏi mệt. Cô tháo giày, treo áo khoác lên móc. Rồi nhẹ nhàng thả mình xuống sofa, thở hắt ra một hơi dài – như thể đang buông bớt những vướng víu lặng thầm bám theo suốt cả ngày.
 

@@ -1,6 +1,6 @@
 📚 Truyện: Giáo viên tiếng nhật 🔞
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 
 Mình vẫn chưa hết suy nghĩ về tin nhắn của cô Thảo. Tim đập nhẹ, khóe miệng khẽ nhếch lên lúc nhớ lại giọng văn dịu dàng ấy. Mình cười một mình, chẳng hiểu sao lại cảm thấy mong chờ đến buổi học tiếp theo đến thế. khi hôm qua định gửi tin nhắn số lạ – giờ đang ngồi bên chiếc nôi nhỏ, điện thoại lại rung lên, mình mới trả lời liền.

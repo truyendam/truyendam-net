@@ -1,6 +1,6 @@
 📚 Truyện: Không thể quên🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 
 Quán ốc cũ nằm nép mình dưới tán cây bàng già, ánh đèn vàng hắt lên lớp khói mỏng nghi ngút bay ra từ những mẹt ốc luộc, nghêu xào, sò nướng. Hơi men lẫn vào mùi sả, gừng, mùi biển — tất cả như một cánh cổng nhỏ, mở ra miền ký ức ngủ yên.

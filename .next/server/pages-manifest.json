@@ -2,8 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/truyen/[slug]": "pages/truyen/[slug].js",
-  "/": "pages/index.js",
-  "/truyen/[slug]/toc": "pages/truyen/[slug]/toc.js",
   "/truyen/[slug]/chapters/[id]": "pages/truyen/[slug]/chapters/[id].js"
 }

@@ -1,6 +1,6 @@
 📚 Truyện: Không thể quên🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 "Có những lúc, em vẫn nằm ngoan ngoãn trong vòng tay anh… nhưng trái tim thì đã lang thang nơi khác từ lâu."
 

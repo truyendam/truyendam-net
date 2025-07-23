@@ -1,6 +1,6 @@
 📚 Truyện: Lạc lối ở Pickleball 🔞 
 <br>
-📖Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Linh khẽ đẩy cửa phòng, ánh nắng sớm luồn qua rèm cửa rọi nhẹ lên mặt chồng. Một khoảnh khắc yên bình tưởng như thường nhật, nhưng trong cô là một cơn sóng nhỏ – thứ cảm xúc lạ lùng âm ỉ từ đêm qua vẫn chưa chịu tan.
 <br></br>

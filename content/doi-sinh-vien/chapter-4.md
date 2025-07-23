@@ -1,6 +1,6 @@
 📚 Truyện: Đời Sinh Viên 🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Từ đêm hôm ấy, giữa chị và nó… mọi thứ không còn như trước. Không cần nói, cũng chẳng cần xin lỗi. Cứ thế, mỗi tối – khi ánh đèn hành lang tắt dần, chị lại ngồi trong phòng khách, vờ gõ gõ vào máy tính, rồi nhắn nhẹ:
 
@@ -99,5 +99,6 @@ Hai chị em cụng ly. Chị vừa uống hết một cốc, mặt đã đỏ b
 Nhưng có lẽ chị không uống được thật hết cốc thứ 2 là chị đã nằm vật ra....
 
 
+<!--sex chị em, truyện sex hồng hà nhi, tình chị em, truyện sex xóm trọ,truyện sex vụng trộm,truyện 18+,Truyện sex người lớn, Truyendam.net -->
 
 

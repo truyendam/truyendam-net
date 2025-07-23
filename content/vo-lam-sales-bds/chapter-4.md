@@ -1,6 +1,6 @@
 📚 Truyện: Vợ Làm Sales Bất Động Sản🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 <!-- truyện sex vợ nhân viên, vợ làm sales bất động sản, ký hơp đồng trong khách sạn, vợ ngoại tình, truyện sex hay, truyện sex xếp và vợ,truyện sex hiếp dâm,truyện 18+,Truyện sex người lớn, Truyendam.net -->
 Hạnh trở về nhà sau chuỗi ngày chốt hợp đồng, trong lòng vẫn ngổn ngang bao cảm xúc lạ lẫm. Hạnh trở về nhà, cố gắng sống như mọi khi. Cô dậy sớm nấu ăn, dắt con đi học, trò chuyện với chồng về những việc nhỏ nhặt trong ngày. Thỉnh thoảng, khi nhìn chồng lúi húi chuẩn bị bữa sáng, cô lại nhói lòng, cảm giác tội lỗi dâng lên. Những lúc ấy, Hạnh thường lặng người, vờ như mải mê bận rộn để giấu ánh mắt đỏ hoe.

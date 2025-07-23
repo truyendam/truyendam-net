@@ -1,6 +1,6 @@
 📚 Truyện: Lạc lối ở Pickleball 🔞 
 <br>
-📖Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 
 Linh ngồi trong xe, tay vuốt nhẹ vạt váy thể thao mới mua, lòng có chút bồi hồi lẫn tò mò. Cô không ngờ mình lại gật đầu đi chơi môn thể thao này – Pickleball – thứ mà trước cô vẫn còn nghĩ là nơi đầy ẩn dụ tình dục và những lời đồn đại về chuyện ngoại tình ngầm.

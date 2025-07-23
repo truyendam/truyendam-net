@@ -1,6 +1,6 @@
 📚 Truyện: Chị... Bí mật nhé 🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Sáng dậy hai chị em dậy sớm chuẩn bị đồ đạc. Cảm giác cứ ngượng thế nào ấy. Nói chung là hai chị em chả nói với nhau câu nào ra hồn cả.
 <br></br>

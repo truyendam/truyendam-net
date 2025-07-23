@@ -1,6 +1,6 @@
 📚 Truyện: Lạc lối ở Pickleball 🔞 
 <br>
-📖Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Ba ngày sau, Linh không còn né tránh nữa. Không phải vì cô đã quên đi nỗi day dứt – mà vì cô nhận ra bản thân mình đang thay đổi.
 

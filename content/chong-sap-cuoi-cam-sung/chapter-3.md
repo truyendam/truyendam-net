@@ -1,6 +1,6 @@
 📚 Truyện: Chồng sắp cưới bị cắm sừng 🔞 
 <br>
-📖Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Sau đêm massage định mệnh, Trang tỉnh dậy với cảm giác hỗn độn. Cô lặng lẽ ngồi trên mép giường, ánh mắt dõi theo từng chuyển động đều đều của Phong khi anh còn đang ngủ say. Trong lòng cô là một mớ cảm xúc đan xen — tội lỗi, sợ hãi, và cả chút đê mê khó lý giải. Cô tự nhủ phải quên đi, phải chôn vùi đêm đó vào sâu trong ký ức, nhưng mỗi lần chớp mắt, cô lại nhớ đến ánh mắt của người đàn ông kia,và cứ nhớ tới co cu vừa to vừa dài lại cong cong là cô lại cảm giác nóng rực lướt qua làn da, và chính mình — không phản kháng. Trang cố gắng cư xử như chưa từng có gì xảy ra. Cô và Phong vẫn cùng nhau ăn sáng, đi dạo bãi biển, cười nói như một cặp đôi hạnh phúc đang tận hưởng kỳ nghỉ.
 

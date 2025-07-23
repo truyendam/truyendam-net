@@ -1,6 +1,6 @@
 📚 Truyện: Đời Sinh Viên🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Quang sinh ra ở một huyện nghèo tỉnh Hải Dương. Từ bé cậu đã không biết bố là ai, sống cùng mẹ. Học hết cấp 3, Quang thi vào một trường đại học nhỏ ở Hải Phòng. Gia đình nghèo, mẹ chật vật lo cho cậu ăn học.
 
@@ -121,4 +121,6 @@ Làm lại mấy lần thì nước cứ ứa ra, hai miếng thịt như săn l
 Nó uốn lưỡi ấn sâu vào trong, hất hất đầu lưỡi chỉ thấy vừa nhầy vừa lộn xộn thật khó tả.Chị như cảm nhận được điều gì đó trong cơn say men nhưng chị vẫn ưỡng người ư... 1 tiếng
 
 Dừng lại đưa mắt nhìn chị vẫn không thấy động tĩnh gì.
+
+<!--sex chị em, truyện sex hồng hà nhi, tình chị em, truyện sex xóm trọ,truyện sex vụng trộm,truyện 18+,Truyện sex người lớn, Truyendam.net -->
 

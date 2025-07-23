@@ -1,6 +1,6 @@
 📚 Truyện: Chồng sắp cưới bị cắm sừng 🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 
 Trang nằm nghiêng, mặt hướng về tấm rèm mỏng ngăn cách giữa hai giường massage. Bên kia, cô biết Phong đang nằm đó. Hơi thở anh đều đều, có lẽ đang thư giãn. Còn cô... lại không tài nào bình tâm.

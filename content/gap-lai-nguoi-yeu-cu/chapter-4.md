@@ -1,6 +1,6 @@
 📚 Truyện: Gặp lại người yêu cũ 🔞
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <!-- Tag: truyện sex công nhân samsung, sex chồng đi Nhật, truyện ngoại tình, truyện người yêu cũ, truyện sex Việt 2025 -->
 <!-- Keywords: truyện sex dài tập, truyện 18+ cảm xúc, sex giằng xé, truyện nữ chủ động, Truyendam.net -->
 

@@ -249,6 +249,30 @@ export const mockStories = [
   status: "ongoing",
   updatedAt: "2025-07-22",
 },
+// trai miền núi
+{
+  slug: "trai-mien-nui",
+  title: "Trai Miền Núi",
+  description:
+    "Câu chuyện nóng bỏng giữa Long – trai miền núi trẻ khoẻ và chị Trang, Phương. Những đêm vụng trộm đầy bản năng, bí mật bị giấu kín ngay trong căn phòng nhỏ.",
+  tags: [
+    "truyện dài",
+    "ngoại tình",
+    "trai miền núi",
+    "tam giác tình",
+    "truyện Việt",
+    "vụng trộm",
+     "bắc ninh", "samsung", "ngoại tình", 
+      "khu công nghiệp", "truyện sex tâm lý", "chuyện thật", "truyện dài tập",
+      "tổ trưởng kho", "cắm sừng", "bị dụ chén",
+      "truyện sex công nhân Samsung", "truyện sex samsung",
+  ],
+  coverImage: "/images/trai-mien-nui/cover.jpg",
+  totalChapters: 5,
+  views: generateFakeViews(3000, 15000),
+  status: "ongoing",
+  updatedAt: "2025-07-23",
+}
 
 
 ];

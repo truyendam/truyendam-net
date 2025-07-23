@@ -1,6 +1,6 @@
 📚 Truyện: Giáo viên tiếng nhật 🔞
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 <!-- truyện sex giáo viên, dạy thêm tại nhà, học sinh quan hệ cô giáo, truyện sex có thật, ngoại tình tư tưởng, mẹ đơn thân Nhật Bản, Truyendam.net -->
 <!-- Truyện sex cô giáo,truyện sex cô nàng gia sư,truyện sex học sinh Tùng, chị Thảo, truyện sex Việt 2025, Truyendam.net -->

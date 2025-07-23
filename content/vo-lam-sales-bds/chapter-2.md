@@ -1,6 +1,6 @@
 📚 Truyện: Vợ Làm Sales Bất Động Sản🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 <!-- truyện sex ngoại tình, vợ làm sales bất động sản,chồng bị cắm sừng, vợ ngoại tình, truyện sex hay,truyện sex hiếp dâm,truyện 18+,Truyện sex người lớn,truyện sex say rượu, Truyendam.net -->
 Hạnh tỉnh dậy trong căn phòng khách sạn xa lạ, ánh đèn ngủ vàng nhạt hắt lên trần. Đầu cô nặng trĩu vì rượu, da thịt nóng rát với những vết hằn đỏ. Giữa hai đùi, cảm giác âm ấm và đau rát cùng chất nhờn còn đọng lại khiến ký ức về buổi tiệc, quán bar và khoảnh khắc ông Thái ép sát, hơi thở hổn hển và những cú dập mạnh, ùa về như cơn gió lạnh.

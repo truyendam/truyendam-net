@@ -1,6 +1,6 @@
 📚 Truyện: Không thể quên🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Cánh cửa phòng 302 vừa khép lại sau lưng Hà Anh. Cô lao vào Quân như lửa bén vào khô. Hơi thở cô gấp gáp, ngắt quãng, như vừa chạy băng qua một cơn bão cảm xúc. Hà Anh đẩy mạnh anh dựa sát vào cánh cửa, cánh tay siết chặt lấy cổ anh, môi cô ập vào như thể đã khao khát suốt bao đêm. Nụ hôn ngấu nghiến, ẩm ướt, rối loạn, mang theo cả sự uất nghẹn lẫn đam mê chất chồng.
 

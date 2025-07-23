@@ -1,6 +1,6 @@
 📚 Truyện: Đời Sinh Viên 🔞
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Bỗng chị đứng dậy đi vào nhà vệ sinh. Nó tò mò nhìn theo.
 

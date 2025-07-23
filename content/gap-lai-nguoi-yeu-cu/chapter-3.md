@@ -1,6 +1,6 @@
 📚 Truyện: Gặp lại người yêu cũ 🔞
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <!-- truyện sex công nhân samsung, truyện 18+,truyện sex hay,truyện sex công nhân,truyện sex ngoại tình, Truyendam.net -->
 <br></br>
 Công siết chặt Thúy vào lòng, thì thầm bên tai cô, như một lời khẩn cầu: "Cho anh được quay lại ngày xưa... chỉ một lần nữa thôi."

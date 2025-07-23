@@ -1,6 +1,6 @@
 📚 Truyện: Chị... Bí mật nhé 🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Dương – 19 tuổi, sinh viên năm nhất ngành Kinh tế tại một trường đại học ở Hải Phòng – là một cậu trai khá hiền lành, ít nói và có phần nhút nhát. Là con một trong gia đình, từ nhỏ cậu được cưng chiều nhưng cũng sống nội tâm. Kỳ nghỉ Tết năm nay, cậu về quê sau gần nửa năm không gặp họ hàng. Trong số những người khiến cậu hồi hộp nhất khi sắp gặp lại – là chị họ tên Linh.
 <br></br>

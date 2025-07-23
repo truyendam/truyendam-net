@@ -1,6 +1,6 @@
 📚 Truyện: Gặp lại người yêu cũ 🔞
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <!-- Truyện sex vụng trộm,truyện sex len lút,truyện sex người yêu cũ, Tình đầu,ngôn tình H+,sex cắm sừng,sex ngoài ban công, truyện sex Việt 2025, Truyendam.net -->
 <br></br>
 Sau đêm đó trở về, Thúy thấy lòng nhẹ tênh đến lạ. Cô hiểu rõ vì sao – bởi thân thể cô như một bông hoa khô héo vừa được tưới mát, sống lại. Cô ôm con vào lòng, nằm cạnh con mà thoáng chút xót xa. Có gì đó giống như cảm giác có lỗi… nhưng không đủ mạnh để kéo cô trở lại thực tại đầy ngột ngạt ấy.

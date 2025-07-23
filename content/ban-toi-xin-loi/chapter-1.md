@@ -1,6 +1,6 @@
 📚 Truyện: Bạn!Tôi xin lỗi 🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 <!-- truyện sex vợ bạn, vợ bạn ngon quá, hiếp dâm vợ bạn tại nhà, bạn chồng đụ vợ, ngoại tình tư tưởng Truyendam.net -->
 Hà Anh ngậm trọn lấy dương vật của chồng, môi mút nhẹ từng nhịp, hai tay xoa vuốt bìu tròn như đang chơi đùa một cách đầy âu yếm.Thắng, chồng nàng nằm ngửa người, mắt lim dim hưởng thụ đôi môi êm ái và cái lưỡi của Hà Anh quấn quýt lấy đầu khấc. Càng lúc anh cảm thấy khó chịu, thân hình cường tráng của anh gồng cứng lên từng hồi. Hà Anh càng mân mê và gãi nhè nhẹ vào mặt dưới hòn dái của chồng, nàng thích thú khi thấy Thắng như vậy.

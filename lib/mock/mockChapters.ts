@@ -264,8 +264,42 @@ const mockChapters: Record<
       hasMarkdown: true,
      updatedAt: "2025-07-22T11:00:00+09:00"
     },
-  }
+  },
 
+//trai miền núi
+  "trai-mien-nui": {
+    1: {
+      id: 1,
+      title: "Chương 1",
+      hasMarkdown: true,
+      updatedAt: "2025-07-23T11:00:00+09:00"
+    },
+    2: {
+      id: 2,
+      title: "Chương 2",
+      hasMarkdown: true,
+       updatedAt: "2025-07-23T11:00:00+09:00"
+    },
+    3: {
+      id: 3,
+      title: "Chương 3",
+      hasMarkdown: true,
+      updatedAt: "2025-07-23T11:00:00+09:00"
+    },
+     4: {
+      id: 4,
+      title: "Chương 4",
+      hasMarkdown: true,
+      updatedAt: "2025-07-23T11:00:00+09:00"
+    },
+    5: {
+      id: 5,
+      title: "Chương 5",
+      hasMarkdown: true,
+      updatedAt: "2025-07-23T11:00:00+09:00"
+    },
+  }
+  
 };
 
 export default mockChapters;

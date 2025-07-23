@@ -1,6 +1,6 @@
 📚 Truyện: Đời Sinh Viên 🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Về phần chị. Đang ngủ say thì có cảm giác lạ ở dưới cô nhỏ của mình, Chị thấy đầu đau quá. Thật mệt.
 
@@ -121,3 +121,6 @@ Nó ủ rũ đứng dậy bước về phòng, mặt cúi gằm hối hận. Mà
 Nó đi khỏi, chị vội vã lấy tay bụm chim lại chạy vào nhà tắm rửa ráy.Vừa chạy mà có 1 dòng trắng đục chảy dài xuống đùi non của chị..
 
 Nó mệt nhoài nằm xuống giường suy ngĩ miên man và ngủ quên từ bao giờ.
+
+
+<!--sex chị em, truyện sex hồng hà nhi, tình chị em, truyện sex xóm trọ,truyện sex vụng trộm,truyện 18+,Truyện sex người lớn, Truyendam.net -->

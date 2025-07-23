@@ -1,6 +1,6 @@
 📚 Truyện: Chị... Bí mật nhé 🔞 
 <br>
-📖 Tác giả: Truyendam.net
+<p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
 Tiếng gió rít bên ngoài khe cửa, ánh đèn vàng nhạt từ hành lang hắt vào một góc giường. Trong căn phòng nhỏ, Dương trở mình giữa đêm vì cơn lạnh lùa qua chân. Cậu giật mình khi cảm nhận rõ lưng mình vừa chạm phải một làn da trần mịn màng.
 <br></br>
