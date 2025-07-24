@@ -260,5 +260,23 @@ exports.mockStories = [
         views: (0, generateFakeViews_1.generateFakeViews)(3000, 15000),
         status: "ongoing",
         updatedAt: "2025-07-23",
-    }
+    },
+    // sếp của chồng
+    {
+        slug: "sep-cua-chong",
+        title: "Sếp của chồng",
+        description: "Chuyến nghỉ mát cùng công ty chồng đã khiến Thu, người vợ ngoan nhưng dâm ngầm, lần đầu tiên được hai người đàn ông vầy vò tới bến – tận hưởng cảm giác ngoại tình, bị chiếm đoạt và bùng nổ dục vọng. One-shot mạnh, xóc cực, cảnh sex chi tiết, cảnh bắn tinh lên mặt, khẩu dâm, ngực rung, đọc là 'ra nước'! ",
+        tags: [
+            "one-shot", "ngoại tình", "tryện sex ngắn",
+            "sếp chồng", "truyện dâm",
+            "chồng yếu sinh lý", "bị hai người đàn ông",
+            "truyện sex Việt", "du lịch", "flagship",
+            "Đụ tập thể", "đụ vợ nhân viên", "Làm tình tay ba", "truyện sex ngoại tình"
+        ],
+        coverImage: "/images/sep-cua-chong/cover.jpg",
+        totalChapters: 1,
+        views: (0, generateFakeViews_1.generateFakeViews)(3000, 15000),
+        status: "ongoing",
+        updatedAt: "2025-07-24",
+    },
 ];

@@ -2,6 +2,7 @@
 <br>
 <p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
+<!-- truyện sex trên xe ô tô, vợ sếp ngon quá, bạn chồng đụ vợ,sex pickleball, truyện 18+,Truyện sex người lớn, Truyendam.net -->
 Ba ngày trôi qua, Linh không quay lại sân pickleball. Cô viện đủ lý do – nào là mệt, nào là công việc, rồi cả đến chu kỳ – bất cứ điều gì có thể giúp cô tránh gặp lại Vinh.
 <br></br>
 Thế nhưng, trong những lúc ở nhà một mình – khi đang gấp quần áo, rửa bát hay chỉ đơn giản là ngồi yên – hình ảnh căn phòng hôm đó lại len lỏi trở về. Như một làn khói mỏng bốc lên từ tro tàn chưa nguội, lặng lẽ quấn lấy từng khe cảm xúc. Là ký ức về một lần mất kiểm soát – nhưng đầy đam mê.

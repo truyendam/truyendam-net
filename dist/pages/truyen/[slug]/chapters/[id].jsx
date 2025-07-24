@@ -117,6 +117,12 @@ function ChapterPage({ slug, chapterId, storyTitle, totalChapters, content, stat
 
           <article className={`prose max-w-none text-justify leading-relaxed ${theme === "dark" ? "prose-invert" : ""} text-base sm:text-lg md:text-xl`}>
             <div dangerouslySetInnerHTML={{ __html: content }}/>
+              <div className="bg-red-100 text-red-700 p-4 rounded-xl text-center mt-6">
+    🔥 Nhận chương mới nhanh nhất tại: 
+    <a href="https://t.me/truyendam_net" target="_blank" className="text-red-800 font-bold underline hover:opacity-80">
+      kênh Telegram Truyendam
+    </a>!
+  </div>
 
             <div className="my-10 p-4 border-2 border-dashed border-pink-400 rounded-xl text-center text-sm text-pink-300 bg-zinc-900">
               📢 <strong>Quảng cáo:</strong> Xem phim 18+ tốc độ cao tại{" "}

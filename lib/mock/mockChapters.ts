@@ -298,6 +298,16 @@ const mockChapters: Record<
       hasMarkdown: true,
       updatedAt: "2025-07-23T11:00:00+09:00"
     },
+  },
+
+  //trai miền núi
+ "sep-cua-chong": {
+    1: {
+      id: 1,
+      title: "Chương 1",
+      hasMarkdown: true,
+      updatedAt: "2025-07-24T11:00:00+09:00"
+    },
   }
   
 };

@@ -2,6 +2,7 @@
 <br>
 <p>📖 Tác giả: <a href="https://truyendam.net" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Truyendam.net</a></p>
 <br></br>
+<!-- truyện sex trên xe ô tô, vợ sếp ngon quá, bạn chồng đụ vợ, truyện 18+,Truyện sex người lớn, Truyendam.net -->
 Ba ngày sau, Linh không còn né tránh nữa. Không phải vì cô đã quên đi nỗi day dứt – mà vì cô nhận ra bản thân mình đang thay đổi.
 
 Từng là người sống khép kín, chỉ biết công việc và gia đình, Linh chỉ có Minh là người đàn ông duy nhất. Nhưng giờ đây, lòng cô bắt đầu rung lên bởi những điều cấm kỵ – không phải vì thiếu thốn, mà vì lần đầu tiên, cô thấy mình được sống thật với bản năng.
