@@ -25,6 +25,16 @@ export default function Footer() {
             Tìm trên Google
           </a>
         </div>
+         <div className="pt-3">
+          🔗 Tham gia kênh Telegram:{" "}
+          <a
+            href="https://t.me/truyendam_net"
+            className="font-semibold underline hover:text-pink-400"
+            target="_blank" rel="noopener noreferrer"
+          >
+            @truyendam_net
+          </a>
+        </div>
       </div>
     </footer>
   );
