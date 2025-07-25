@@ -3,28 +3,24 @@
 import { generateFakeViews } from "../utils/generateFakeViews";
 
 export const mockStories = [
-  
-  {
-    slug: "doi-sinh-vien",
-    title: "Đời Sinh Viên",
-    description:
-      "Những tháng sinh viên,cuộc sống phòng trọ sinh viên biết bao kỉ niệm với những cuộc tình vụng trộm đầy bản năng và cám dỗ,Những cuộc tình ngây thơ khó quên",
-    tags: [
-      "truyện dài","truyện ngoại tình dài tập",
-      "chị em",
-      "chồng yếu sinh lý",
-      "lén lút",
-      "đời sinh viên",
-      "truyện Việt",
-      "vụng trộm",
-      "xóm trọ",
-    ],
-    coverImage: "/images/doi-sinh-vien/cover.jpg",
-    totalChapters: 5,
-    views: generateFakeViews(9000, 15000),
-    status: "ongoing",
-    updatedAt: "2025-07-03",
-  },
+  //đời sinh viên
+{
+  slug: "doi-sinh-vien",
+  title: "Đời Sinh Viên",
+  description:
+    "Truyện sex đời sinh viên xóm trọ: Câu chuyện thực tế, tình cảm lén lút, những tháng ngày sinh viên nghèo, khao khát thể xác, vụng trộm với chị hàng xóm, cảnh sex cực mạnh và những cuộc tình không thể quên. Truyện dài tập cực hấp dẫn – flagship độc quyền của Truyendam.net.",
+  tags: [
+    "truyện sex dài tập", "truyện sex Việt Nam", "truyện sex sinh viên", "truyện sex xóm trọ",
+    "truyện ngoại tình", "chị em xóm trọ", "lén lút vụng trộm", "sex chị họ","sex chị em", "truyện sex đời thực",
+    "truyện sex hấp dẫn", "truyện sex người lớn", "flagship"
+  ],
+  coverImage: "/images/doi-sinh-vien/cover.jpg",
+  totalChapters: 8,
+  views: generateFakeViews(9000, 15000),
+  status: "ongoing",
+  updatedAt: "2025-07-25",
+},
+
   //không thể quên
   {
   slug: "khong-the-quen",
