@@ -300,7 +300,7 @@ const mockChapters: Record<
     },
   },
 
-  //trai miền núi
+  //sếp của chồng
  "sep-cua-chong": {
     1: {
       id: 1,
@@ -308,8 +308,22 @@ const mockChapters: Record<
       hasMarkdown: true,
       updatedAt: "2025-07-24T11:00:00+09:00"
     },
-  }
-  
+  },
+    //chuyến công tác bất ổn
+ "chuyen-cong-tac-bat-on": {
+    1: {
+      id: 1,
+      title: "Chương 1",
+      hasMarkdown: true,
+      updatedAt: "2025-07-25T11:00:00+09:00"
+    },
+     2: {
+      id: 2,
+      title: "Chương 2",
+      hasMarkdown: true,
+      updatedAt: "2025-07-25T11:00:00+09:00"
+    },
+  },
 };
 
 export default mockChapters;

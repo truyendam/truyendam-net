@@ -31,6 +31,11 @@ function ChapterTocPage() {
     const story = mockStories_1.mockStories.find((s) => s.slug === slug);
     const chapterObj = mockChapters_1.default[slug] || {};
     const chapters = Object.values(chapterObj).sort((a, b) => a.id - b.id);
+    
+    if (typeof slug !== "string") {
+  // Chưa có slug, chờ route, chưa render error
+  return null; // hoặc loading...
+}
     if (!story) {
         return (<div className="min-h-screen flex items-center justify-center bg-black text-white">
         <p>Không tìm thấy truyện.</p>

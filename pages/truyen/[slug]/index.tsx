@@ -26,7 +26,10 @@ export default function StoryDetailPage() {
 
   const chapterObj = mockChapters[slug as string] || {};
   const chapters = Object.values(chapterObj);
-
+if (typeof slug !== "string") {
+  // Chưa có slug, chờ route, chưa render error
+  return null; // hoặc loading...
+}
   if (!story) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-black text-white">

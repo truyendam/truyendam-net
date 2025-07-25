@@ -11,7 +11,7 @@ Dù ngoài mặt luôn chỉn chu, ý nhị, nhưng Thu lại là kiểu đàn b
 <br></br>
 Mỗi lần nhớ lại con cu dày cộm, thân thuộc đã phá trinh nàng đêm tân hôn, Thu lại đỏ bừng mặt. Nhưng cái không khí trên khoang tàu càng làm nàng thêm nứng — xung quanh toàn đàn ông công ty, đêm khuya lại kéo nhau tụ tập đánh bài thâu đêm, khiến nàng cứ thấp thỏm không yên. Có đêm, Thu thò đầu xuống từ tầng 2 gọi chồng, bắt gặp mấy ánh mắt đàn ông dán chặt vào bầu vú thả rông đung đưa theo nhịp lắc của con tàu. Bỏ luôn cả áo ngực cho dễ ngủ, nhưng thật ra nàng thấy khoái khi cảm nhận từng tia nhìn trộm lướt qua cơ thể mình, tim đập loạn nhịp, giữa hai chân âm ỉ râm ran ướt át. Đàn bà ngoài mặt ngoan ngoãn, nhưng bên trong lại nổi sóng, chỉ chờ một cú chạm đủ mạnh để bùng cháy.
 <br></br>
-Thu thiếp đi với niềm vui âm ỉ, rồi trời đã sáng, chồng nàng lay dậy để chuẩn bị xuống tàu, cả đoàn lên xe về khách sạn nằm ngay bãi biển Nhật Lệ. Nhận phòng xong xuôi, nghỉ ngơi 1 chút vì trời nắng chang chang chả ai ra biển, cả đoàn kéo nhau đi ăn trưa ngay tại khách sạn, Thu hơi mệt nên nàng cho cu Bi ăn xong thì xin pháp lên phòng trước, còn chồng nàng vẫn chén chú chén anh, thôi đi nghỉ nàng để chồng thoải mái chứ không ngăn cản như ở nhà. <br></br>Lên phòng, Thu thay ngay bộ váy ngủ cho thoải mái rồi lên giường ngủ ngon, bỗng nàng giật mình vì tiếng gõ cửa ầm ầm, nàng vội ra mở cửa thì anh Đức chân nam đã chân siêu lết vào phòng rồi nằm vật xuống ngáy như kéo bễ, uống cho lắm vào, Thu bực mình nghĩ, nhưng đã bị mất giấc nên nàng chẳng thể ngủ tiếp, cảm giác rạo rực buổi tối qua lại tự dưng thoáng qua tâm trí nàng, chắc tại ly bia lúc nãy nàng nâng cốc cho hòa nhập với cơ quan bên chồng.
+Thu thiếp đi với niềm vui âm ỉ, rồi trời đã sáng, chồng nàng lay dậy để chuẩn bị xuống tàu, cả đoàn lên xe về khách sạn nằm ngay bãi biển Nhật Lệ. Nhận phòng xong xuôi, nghỉ ngơi 1 chút vì trời nắng chang chang chả ai ra biển, cả đoàn kéo nhau đi ăn trưa ngay tại khách sạn, Thu hơi mệt nên xin phép lên phòng trước, còn chồng nàng vẫn chén chú chén anh, thôi đi nghỉ nàng để chồng thoải mái chứ không ngăn cản như ở nhà. <br></br>Lên phòng, Thu thay ngay bộ váy ngủ cho thoải mái rồi lên giường ngủ ngon, bỗng nàng giật mình vì tiếng gõ cửa ầm ầm, nàng vội ra mở cửa thì anh Đức chân nam đã chân siêu lết vào phòng rồi nằm vật xuống ngáy như kéo bễ, uống cho lắm vào, Thu bực mình nghĩ, nhưng đã bị mất giấc nên nàng chẳng thể ngủ tiếp, cảm giác rạo rực buổi tối qua lại tự dưng thoáng qua tâm trí nàng, chắc tại ly bia lúc nãy nàng nâng cốc cho hòa nhập với cơ quan bên chồng.
 <br></br>
 Rồi nàng lại nhớ đến ánh mặt thèm thuồng của mấy tay đồng nghiệp của chồng đêm qua làm nàng đỏ cả mặt, Thu nứng rồi, nàng lay lay chồng nhưng anh Đức chả động đậy gì cả, hãm, chả biết làm thế nào, Thu đành chủ động cởi quần sooc của chồng ra, trời, con cặc hùng dũng sao ỉu sìu thế này, đúng là say quắc cần câu. 
 <br></br>
@@ -175,4 +175,13 @@ Thu nằm cuộn tròn giữa hai người đàn ông, ngón tay Quang lười b
 Vừa bước đi vừa cười khoái chí, Thu quên mất luôn cả điện thoại của chồng, háng vẫn còn tê rần mà trong lòng lâng lâng, cảm giác được hai người đàn ông vầy vò vẫn còn ám ảnh mỗi bước chân lên gác.
 <br></br>
 ----------------------Còn Tiếp----------------------
-<p>📢 Gợi ý truyện hay : <a href="https://truyendam.net/truyen/trai-mien-nui" target="_blank" title="Truyện sex người lớn, truyện 18+ tại Truyendam.net">Trai miền núi công nhân samsung</a></p>
+<p>
+  📢 Gợi ý truyện hay : 
+  <a href="https://truyendam.net/truyen/trai-mien-nui" 
+     target="_blank" 
+     title="Truyện sex người lớn, truyện 18+ tại Truyendam.net"
+     style="text-decoration: underline; color: #0070f3;"
+  >
+    Trai miền núi công nhân samsung
+  </a>
+</p>
