@@ -1,4 +1,4 @@
-// ✅ File: scripts/generateSitemap.ts – Tự động tạo sitemap.xml từ mockStories + mockChapters
+// ✅ File: scripts/generateSitemap.ts – Tự động tạo sitemap.xml từ mockStories + mockChapters (có <lastmod>)
 
 import fs from 'fs';
 import path from 'path';
@@ -7,32 +7,50 @@ import mockChapters from '../lib/mock/mockChapters';
 
 const BASE_URL = 'https://truyendam.net';
 
+interface UrlEntry {
+  loc: string;
+  lastmod: string;
+}
+
 function generateSitemap() {
-  let urls: string[] = [];
+  let urls: UrlEntry[] = [];
 
   // Trang chủ và tag cơ bản
-  urls.push(`${BASE_URL}/`);
-  urls.push(`${BASE_URL}/tag/truyen-dai`);
-  urls.push(`${BASE_URL}/tag/truyen-sex-ngan`);
-  urls.push(`${BASE_URL}/latest/page/1`);
+  const today = new Date().toISOString().split('T')[0];
+  urls.push({ loc: `${BASE_URL}/`, lastmod: today });
+  urls.push({ loc: `${BASE_URL}/tag/truyen-dai`, lastmod: today });
+  urls.push({ loc: `${BASE_URL}/tag/truyen-sex-ngan`, lastmod: today });
+  urls.push({ loc: `${BASE_URL}/latest/page/1`, lastmod: today });
 
   for (const story of mockStories) {
+    const storyLastmod = story.updatedAt || today;
     const slug = story.slug;
-    urls.push(`${BASE_URL}/truyen/${slug}`); // Trang chi tiết truyện
-    urls.push(`${BASE_URL}/truyen/${slug}/toc`); // TOC
 
+    // Trang truyện + TOC
+    urls.push({ loc: `${BASE_URL}/truyen/${slug}`, lastmod: storyLastmod });
+    urls.push({ loc: `${BASE_URL}/truyen/${slug}/toc`, lastmod: storyLastmod });
+
+    // Chapters
     const chaptersMap = mockChapters[slug] || {};
     const chapterList = Object.values(chaptersMap);
 
     for (const chapter of chapterList) {
-      urls.push(`${BASE_URL}/truyen/${slug}/chapters/${chapter.id}`);
+      const chapterLastmod = chapter.updatedAt
+        ? chapter.updatedAt.split('T')[0]
+        : storyLastmod;
+      urls.push({
+        loc: `${BASE_URL}/truyen/${slug}/chapters/${chapter.id}`,
+        lastmod: chapterLastmod,
+      });
     }
   }
 
-  // Bắt đầu tạo XML
+  // Tạo XML với <lastmod>
   const xml = `<?xml version="1.0" encoding="UTF-8"?>\n` +
     `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n` +
-    urls.map((url) => `  <url><loc>${url}</loc></url>`).join('\n') +
+    urls
+      .map((url) => `  <url><loc>${url.loc}</loc><lastmod>${url.lastmod}</lastmod></url>`)
+      .join('\n') +
     `\n</urlset>`;
 
   // Ghi ra file public/sitemap.xml

@@ -225,7 +225,16 @@ Phương đọc tin, hơi ngập ngừng rồi cũng đáp lại bằng một d�
 Nhìn thấy tin nhắn ấy, Long nhẹ nhõm thở ra, mỉm cười một mình. Trong lòng cậu bỗng dâng lên một cảm giác lạ lùng,trong long nó biết từ nay có thể chén cả Phương nữa.
 
 
-
 ----------------------Còn Tiếp----------------------
+<p>
+  📢 Gợi ý truyện hay : 
+  <a href="https://truyendam.net/truyen/cong-nhan-samsung/chapters/1" 
+     target="_blank" 
+     title="Truyện sex người lớn, truyện 18+ tại Truyendam.net"
+     style="text-decoration: underline; color: #0070f3;"
+  >
+    Công nhân samsung
+  </a>
+</p>
 <!-- truyện sex samsung, trai miền núi, sex bạn người yêu, truyện sex hồng hà nhi, tình chị em, truyện sex xóm trọ,truyện sex vụng trộm,truyện 18+,Truyện sex người lớn, Truyendam.net -->
 

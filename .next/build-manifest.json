@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/1uZL4NmYJFaGX0rL3VaMi/_buildManifest.js",
-    "static/1uZL4NmYJFaGX0rL3VaMi/_ssgManifest.js"
+    "static/bTRnnIYwZF-xuVp7by4mH/_buildManifest.js",
+    "static/bTRnnIYwZF-xuVp7by4mH/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
@@ -15,7 +15,7 @@
       "static/chunks/framework-5429a50ba5373c56.js",
       "static/chunks/main-930135e47dff83e9.js",
       "static/chunks/675-9fcdb742a32f88a7.js",
-      "static/chunks/pages/index-efbc17205894b1b3.js"
+      "static/chunks/pages/index-65c1001f8a78b815.js"
     ],
     "/_app": [
       "static/chunks/webpack-8fa1640cc84ba8fe.js",
@@ -41,16 +41,14 @@
       "static/chunks/framework-5429a50ba5373c56.js",
       "static/chunks/main-930135e47dff83e9.js",
       "static/chunks/675-9fcdb742a32f88a7.js",
-      "static/chunks/16-deb605a87c4bf0df.js",
-      "static/chunks/pages/hot/page/[page]-a35d978aa06283bc.js"
+      "static/chunks/pages/hot/page/[page]-4312a6bc403bad1b.js"
     ],
     "/latest/page/[page]": [
       "static/chunks/webpack-8fa1640cc84ba8fe.js",
       "static/chunks/framework-5429a50ba5373c56.js",
       "static/chunks/main-930135e47dff83e9.js",
       "static/chunks/675-9fcdb742a32f88a7.js",
-      "static/chunks/16-deb605a87c4bf0df.js",
-      "static/chunks/pages/latest/page/[page]-781672c5350093b5.js"
+      "static/chunks/pages/latest/page/[page]-cc62d0660fa51f9b.js"
     ],
     "/lien-he": [
       "static/chunks/webpack-8fa1640cc84ba8fe.js",
@@ -63,16 +61,14 @@
       "static/chunks/framework-5429a50ba5373c56.js",
       "static/chunks/main-930135e47dff83e9.js",
       "static/chunks/675-9fcdb742a32f88a7.js",
-      "static/chunks/16-deb605a87c4bf0df.js",
-      "static/chunks/pages/long/page/[page]-7a6fa86c04e530ae.js"
+      "static/chunks/pages/long/page/[page]-9391bb69b4d1ba04.js"
     ],
     "/short/page/[page]": [
       "static/chunks/webpack-8fa1640cc84ba8fe.js",
       "static/chunks/framework-5429a50ba5373c56.js",
       "static/chunks/main-930135e47dff83e9.js",
       "static/chunks/675-9fcdb742a32f88a7.js",
-      "static/chunks/16-deb605a87c4bf0df.js",
-      "static/chunks/pages/short/page/[page]-9dd399b9210ee199.js"
+      "static/chunks/pages/short/page/[page]-478c61aa39aebe38.js"
     ],
     "/tag/[tag]": [
       "static/chunks/webpack-8fa1640cc84ba8fe.js",
@@ -85,28 +81,28 @@
       "static/chunks/framework-5429a50ba5373c56.js",
       "static/chunks/main-930135e47dff83e9.js",
       "static/chunks/675-9fcdb742a32f88a7.js",
-      "static/chunks/pages/tag/[tag]/page/[page]-c3744057110ff608.js"
+      "static/chunks/pages/tag/[tag]/page/[page]-b5fc32dee8daa5cf.js"
     ],
     "/truyen": [
       "static/chunks/webpack-8fa1640cc84ba8fe.js",
       "static/chunks/framework-5429a50ba5373c56.js",
       "static/chunks/main-930135e47dff83e9.js",
       "static/chunks/675-9fcdb742a32f88a7.js",
-      "static/chunks/pages/truyen-d34491aa7039874d.js"
+      "static/chunks/pages/truyen-5a52e5672950414e.js"
     ],
     "/truyen/[slug]": [
       "static/chunks/webpack-8fa1640cc84ba8fe.js",
       "static/chunks/framework-5429a50ba5373c56.js",
       "static/chunks/main-930135e47dff83e9.js",
       "static/chunks/675-9fcdb742a32f88a7.js",
-      "static/chunks/330-e562c1eefa819367.js",
+      "static/chunks/330-97dd78950fd77f09.js",
       "static/chunks/pages/truyen/[slug]-4b08b6beee44cc92.js"
     ],
     "/truyen/[slug]/chapters/[id]": [
       "static/chunks/webpack-8fa1640cc84ba8fe.js",
       "static/chunks/framework-5429a50ba5373c56.js",
       "static/chunks/main-930135e47dff83e9.js",
-      "static/chunks/330-e562c1eefa819367.js",
+      "static/chunks/330-97dd78950fd77f09.js",
       "static/chunks/pages/truyen/[slug]/chapters/[id]-497ef18ab8257181.js"
     ],
     "/truyen/[slug]/toc": [
@@ -114,7 +110,7 @@
       "static/chunks/framework-5429a50ba5373c56.js",
       "static/chunks/main-930135e47dff83e9.js",
       "static/chunks/675-9fcdb742a32f88a7.js",
-      "static/chunks/330-e562c1eefa819367.js",
+      "static/chunks/330-97dd78950fd77f09.js",
       "static/chunks/pages/truyen/[slug]/toc-8bb3ac53c1a8054a.js"
     ]
   },
