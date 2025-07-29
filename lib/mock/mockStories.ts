@@ -1,24 +1,22 @@
-// ⭐ File: lib/mock/mockStories.ts – Danh sách truyện cho Truyendam (SEO optimized full)
-
+// ⭐ File: lib/mock/mockStories.js – Danh sách truyện flagship chuẩn SEO cho Truyendam.net
 import { generateFakeViews } from "../utils/generateFakeViews";
 
 export const mockStories = [
   //01. Đời sinh viên
   {
     slug: "doi-sinh-vien",
-    title: "Đời Sinh Viên",
+    title: "Đời Sinh Viên – Truyện Sex 18+ Xóm Trọ Ngoại Tình",
     description:
-      "Bộ truyện 18+ Đời Sinh Viên tái hiện cuộc sống xóm trọ sinh viên đầy khó khăn và khao khát tình yêu. Những câu chuyện vụng trộm, cảnh nóng gợi cảm và cảm xúc chân thật – flagship độc quyền trên Truyendam.net.",
+      "Đọc full truyện sex 18+ Đời Sinh Viên – bộ truyện ngoại tình, cảnh nóng xóm trọ sinh viên đầy khao khát và cảm xúc thật. Cảnh sex vụng trộm, chuyện chị em, trai trẻ, các mối quan hệ lén lút và những đêm không quên. Flagship độc quyền, cập nhật nhanh nhất tại Truyendam.net.",
     tags: [
-      "truyện 18+ sinh viên",
-      "truyện sex dài tập",
+      "truyện sex 18+ sinh viên",
+      "truyện sex flagship",
+      "truyện ngoại tình xóm trọ",
       "truyện sex Việt Nam",
-      "truyện khiêu dâm xóm trọ",
-      "ngoại tình",
+      "truyện khiêu dâm dài tập",
       "sex chị em",
-      "cảnh nóng hấp dẫn",
-      "truyện người lớn Việt Nam",
-      "flagship"
+      "truyện người lớn mới nhất",
+      "Đời Sinh Viên Truyendam.net"
     ],
     coverImage: "/images/doi-sinh-vien/cover.jpg",
     totalChapters: 8,
@@ -30,18 +28,17 @@ export const mockStories = [
   //02. Không thể quên
   {
     slug: "khong-the-quen",
-    title: "Không Thể Quên...",
+    title: "Không Thể Quên... – Truyện Sex 18+ Ngoại Tình",
     description:
-      "Truyện 18+ lãng mạn và đầy dục vọng về cô gái bị cuốn vào vòng xoáy tình yêu cũ. Những đêm ái ân bí mật, cảnh nóng mãnh liệt và ký ức khó phai – độc quyền trên Truyendam.net.",
+      "Full truyện sex ngoại tình, lãng mạn và giằng xé về cô gái bị cuốn vào vòng xoáy tình yêu cũ. Những đêm ân ái bí mật, cảnh nóng mãnh liệt và ký ức dục vọng khó phai. Đọc truyện độc quyền tại Truyendam.net.",
     tags: [
-      "truyện ngoại tình",
+      "truyện ngoại tình 18+",
       "truyện sex Việt",
-      "truyện 18+ dài tập",
-      "tình yêu cũ",
-      "lén lút",
-      "chuyện người lớn",
-      "truyện gợi cảm",
-      "ký ức khó quên"
+      "truyện sex dài tập",
+      "truyện sex lén lút",
+      "ký ức khó quên",
+      "truyện người lớn hay nhất",
+      "Truyendam.net flagship"
     ],
     coverImage: "/images/khong-the-quen/khong-the-quen.jpg",
     totalChapters: 13,
@@ -53,45 +50,41 @@ export const mockStories = [
   //03. Chồng sắp cưới bị cắm sừng
   {
     slug: "chong-sap-cuoi-cam-sung",
-    title: "Chồng Sắp Cưới Bị Cắm Sừng",
+    title: "Chồng Sắp Cưới Bị Cắm Sừng – Truyện Sex Gây Sốc",
     description:
-      "Truyện 18+ gây sốc về cô dâu tương lai sa ngã trước ngày cưới. Những tình huống oái oăm, cảnh nóng bất ngờ khiến người đọc vừa bối rối vừa kích thích.",
+      "Truyện sex gây sốc về cô dâu tương lai sa ngã trước ngày cưới. Những tình huống ngoại tình bất ngờ, cảnh nóng gợi cảm khiến người đọc vừa bối rối vừa kích thích. Đọc full tại Truyendam.net.",
     tags: [
-      "truyện 18+",
-      "ngoại tình",
+      "truyện sex 18+",
+      "ngoại tình trước đám cưới",
       "truyện sex ngắn",
       "cô dâu phản bội",
-      "truyện Việt",
-      "cảnh nóng",
-      "truyện khiêu dâm hay",
-      "sex trước đám cưới"
+      "truyện khiêu dâm Việt Nam",
+      "truyện flagship Truyendam.net"
     ],
-    coverImage: "/images/chong-sap-cuoi-cam-sung/chong-sap-cuoi-cam-sung.jpg",
+    coverImage: "/images/chong-sap-cuoi-cam-sung/cover.jpg",
     totalChapters: 3,
-    views: generateFakeViews(8000, 14000),
+    views: generateFakeViews(9000, 15000),
     status: "ongoing",
-    updatedAt: "2025-07-07",
+    updatedAt: "2025-07-07"
   },
 
   //04. Chị... Bí mật nhé
   {
     slug: "chi-bi-mat-nhe",
-    title: "Chị... Bí Mật Nhé",
+    title: "Chị... Bí Mật Nhé – Truyện Sex Chị Em Việt Nam",
     description:
-      "Câu chuyện tình vụng trộm đầy táo bạo giữa chị gái hàng xóm và chàng trai trẻ. Truyện 18+ với những cảnh nóng gợi cảm, đẩy cảm xúc người đọc lên cao trào.",
+      "Câu chuyện tình vụng trộm đầy táo bạo giữa chị gái họ và chàng trai trẻ. Cảnh nóng gợi cảm, escalation từ nhẹ đến mạnh, đẩy cảm xúc người đọc lên cao trào. Đọc truyện sex 18+ độc quyền tại Truyendam.net.",
     tags: [
-      "truyện 18+",
+      "truyện sex chị em",
       "truyện sex Việt",
-      "chị em",
-      "truyện sex dài tập",
-      "lén lút",
-      "sex vụng trộm",
+      "truyện khiêu dâm dài tập",
+      "lén lút vụng trộm",
       "truyện gợi cảm",
-      "truyện hay Việt Nam"
+      "truyện hay nhất Truyendam.net"
     ],
-    coverImage: "/images/chi-bi-mat-nhe/chi-bi-mat-nhe.jpg",
+    coverImage: "/images/chi-bi-mat-nhe/cover.jpg",
     totalChapters: 4,
-    views: generateFakeViews(7000, 12000),
+    views: generateFakeViews(6000, 10000),
     status: "ongoing",
     updatedAt: "2025-07-14",
   },
@@ -99,134 +92,133 @@ export const mockStories = [
   //05. Lạc lối ở Pickleball
   {
     slug: "lac-loi-o-pickleball",
-    title: "Lạc Lối Ở Pickleball",
+    title: "Lạc Lối Ở Pickleball – Truyện Sex Thể Thao Độc Lạ",
     description:
-      "Truyện 18+ độc đáo trong bối cảnh sân chơi Pickleball, nơi tình yêu, dục vọng và sự cám dỗ đan xen. Cảnh nóng gợi cảm và kịch tính bất ngờ.",
+      "Truyện sex 18+ độc đáo lấy bối cảnh sân chơi Pickleball. Tình yêu, dục vọng và sự cám dỗ đan xen; cảnh nóng gợi cảm, twist kịch tính. Đọc full tại Truyendam.net.",
     tags: [
-      "truyện 18+",
-      "truyện sex ngắn",
+      "truyện sex thể thao",
       "pickleball",
       "dục vọng",
-      "lạc lối",
       "cảnh nóng",
-      "truyện người lớn",
-      "truyện gợi cảm"
+      "truyện người lớn Việt",
+      "truyện sex mới nhất",
+      "Truyendam.net flagship"
     ],
-    coverImage: "/images/lac-loi-o-pickleball/lac-loi-o-pickleball.jpg",
+    coverImage: "/images/lac-loi-pickleball/cover.jpg",
     totalChapters: 5,
-    views: generateFakeViews(6000, 11000),
+    views: generateFakeViews(7000, 13000),
     status: "ongoing",
-    updatedAt: "2025-07-10",
+    updatedAt: "2025-07-09",
   },
 
   //06. Công Nhân Samsung
   {
     slug: "cong-nhan-samsung",
-    title: "Công Nhân Samsung",
+    title: "Công Nhân Samsung – Truyện Sex Công Nhân Nhà Máy",
     description:
-      "Bộ truyện 18+ về những công nhân trẻ trong môi trường nhà máy Samsung. Câu chuyện tình vụng trộm, cảnh nóng mãnh liệt và những bi kịch tình yêu.",
+      "Truyện sex 18+ về công nhân trẻ trong môi trường nhà máy Samsung: chuyện tình vụng trộm, cảnh nóng mãnh liệt, các mối quan hệ chị em – bạn công nhân, escalation mạnh và cảm xúc thật. Flagship độc quyền Truyendam.net.",
     tags: [
-      "truyện 18+",
-      "công nhân Samsung",
-      "truyện sex dài tập",
-      "vụng trộm",
-      "cảnh nóng",
+      "truyện sex công nhân Samsung",
+      "truyện sex nhà máy",
+      "truyện khiêu dâm dài tập",
+      "vụng trộm công sở",
       "ngoại tình",
-      "truyện Việt",
-      "truyện gợi cảm"
+      "truyện flagship Truyendam.net"
     ],
-    coverImage: "/images/cong-nhan-samsung/cong-nhan-samsung.jpg",
+    coverImage: "/images/cong-nhan-samsung/cover.jpg",
     totalChapters: 9,
-    views: generateFakeViews(10000, 18000),
+    views: generateFakeViews(5000, 20000),
     status: "ongoing",
-    updatedAt: "2025-07-21",
+    updatedAt: "2025-07-21"
   },
 
   //07. Người Yêu Thằng Bạn
   {
     slug: "nguoi-yeu-thang-ban",
-    title: "Người Yêu Thằng Bạn",
+    title: "Người Yêu Thằng Bạn – Truyện Sex Cấm Kỵ Bạn Thân",
     description:
-      "Câu chuyện tình cấm kỵ giữa chàng trai và người yêu của bạn thân. Truyện 18+ lén lút, căng thẳng và cảnh nóng không thể bỏ lỡ.",
+      "Câu chuyện tình cấm kỵ giữa chàng trai và người yêu của bạn thân. Truyện sex lén lút, cảnh nóng căng thẳng và bất ngờ không thể bỏ lỡ. Đọc tại Truyendam.net.",
     tags: [
-      "truyện 18+",
-      "truyện sex Việt",
-      "ngoại tình",
-      "bạn thân",
-      "cảnh nóng",
-      "truyện ngắn",
-      "truyện người lớn",
-      "truyện gợi cảm"
+      "truyện sex cấm kỵ",
+      "flagship",
+      "truyện sex thật",
+      "sex tư thế đứng",
+      "người yêu bạn thân",
+      "phòng trọ",
+      "truyện sex ngắn",
+      "truyện dâm Việt Nam",
+      "Truyendam.net"
     ],
-    coverImage: "/images/nguoi-yeu-thang-ban/nguoi-yeu-thang-ban.jpg",
+    coverImage: "/images/nguoi-yeu-thang-ban/cover.jpg",
     totalChapters: 3,
-    views: generateFakeViews(7000, 12000),
+    views: generateFakeViews(3000, 80000),
     status: "ongoing",
-    updatedAt: "2025-07-15",
+    updatedAt: "2025-07-15"
   },
 
   //08. Bạn! Tôi xin lỗi
   {
     slug: "ban-toi-xin-loi",
-    title: "Bạn! Tôi Xin Lỗi",
+    title: "Bạn! Tôi Xin Lỗi – Truyện Sex Ngoại Tình Bạn Thân",
     description:
-      "Một truyện 18+ đầy cảm xúc và kịch tính về tình bạn và những ham muốn không kìm nén được. Cảnh nóng chân thật và câu chuyện gợi cảm.",
+      "Giữa trưa hè oi ả, một người bạn thân ghé qua mượn hồ sơ và rồi mọi ranh giới đã bị xóa nhòa... Truyện sex phản bội, vợ ngoan bị bạn thân chén ngay tại nhà. Cảnh sex mạnh, drama cực phê. Đọc truyện ngắn flagship tại Truyendam.net.",
     tags: [
-      "truyện 18+",
-      "tình bạn",
-      "truyện sex Việt",
-      "truyện gợi cảm",
-      "cảnh nóng",
-      "truyện ngắn",
-      "truyện người lớn"
+      "truyện sex ngoại tình",
+      "truyện sex bạn thân",
+      "vợ bị chén",
+      "cắm sừng",
+      "truyện sex phản bội",
+      "truyện sex mạnh",
+      "flagship Truyendam.net"
     ],
-    coverImage: "/images/ban-toi-xin-loi/ban-toi-xin-loi.jpg",
+    coverImage: "/images/ban-toi-xin-loi/cover.jpg",
     totalChapters: 1,
-    views: generateFakeViews(5000, 9000),
-    status: "completed",
-    updatedAt: "2025-07-16",
+    views: generateFakeViews(3000, 15000),
+    status: "ongoing",
+    updatedAt: "2025-07-16"
   },
 
   //09. Giáo viên tiếng Nhật
   {
     slug: "giao-vien-tieng-nhat",
-    title: "Giáo Viên Tiếng Nhật",
+    title: "Giáo Viên Tiếng Nhật – Truyện Sex Cô Giáo",
     description:
-      "Bộ truyện 18+ về cô giáo tiếng Nhật quyến rũ và những bài học ngoài giờ nóng bỏng. Truyện gợi cảm, kịch tính và cảnh nóng cực hấp dẫn.",
+      "Một học sinh vừa trượt đại học, vô tình gặp cô giáo dạy thêm tiếng Nhật – xinh đẹp, cô đơn, khao khát được vuốt ve. Truyện sex ngắn, cảnh nóng cô giáo học trò, trải nghiệm khó quên. Đọc tại Truyendam.net.",
     tags: [
-      "truyện 18+",
-      "cô giáo tiếng Nhật",
-      "truyện sex dài tập",
-      "truyện gợi cảm",
-      "truyện người lớn",
-      "cảnh nóng",
-      "truyện Việt"
+      "truyện sex cô giáo",
+      "truyện sex học trò",
+      "flagship",
+      "truyện ngoại tình",
+      "truyện dâm",
+      "làm tình với cô giáo",
+      "Truyendam.net"
     ],
-    coverImage: "/images/giao-vien-tieng-nhat/giao-vien-tieng-nhat.jpg",
+    coverImage: "/images/giao-vien-tieng-nhat/cover.jpg",
     totalChapters: 6,
-    views: generateFakeViews(8000, 14000),
+    views: generateFakeViews(3000, 15000),
     status: "ongoing",
-    updatedAt: "2025-07-17",
+    updatedAt: "2025-07-17"
   },
 
   //10. Gặp lại người yêu cũ
   {
     slug: "gap-lai-nguoi-yeu-cu",
-    title: "Gặp Lại Người Yêu Cũ",
+    title: "Gặp Lại Người Yêu Cũ – Truyện Sex Ngoại Tình Vợ Chồng",
     description:
-      "Truyện 18+ lén lút với người yêu cũ, nơi những cảm xúc và kỷ niệm bùng nổ. Cảnh nóng đắm say và câu chuyện gợi cảm.",
+      "Chồng đi xuất khẩu lao động bên Nhật, Thúy ở nhà một mình chăm con. Nhưng ngày gặp lại người cũ đã khiến cô không thể kìm lòng. Truyện sex dài, đầy cảm xúc, giằng xé và khoái cảm bị dồn nén bấy lâu. Đọc flagship tại Truyendam.net.",
     tags: [
-      "truyện 18+",
-      "người yêu cũ",
+      "truyện sex ngoại tình",
+      "gặp lại người cũ",
+      "vợ cô đơn",
       "truyện sex Việt",
-      "truyện ngắn",
-      "lén lút",
-      "truyện gợi cảm",
-      "truyện người lớn"
+      "flagship",
+      "truyện sex công nhân",
+      "truyện sex hay",
+      "Truyendam.net"
     ],
-    coverImage: "/images/gap-lai-nguoi-yeu-cu/gap-lai-nguoi-yeu-cu.jpg",
+    coverImage: "/images/gap-lai-nguoi-yeu-cu/cover.jpg",
     totalChapters: 5,
-    views: generateFakeViews(7000, 12000),
+    views: generateFakeViews(3000, 15000),
     status: "ongoing",
     updatedAt: "2025-07-17",
   },
@@ -234,21 +226,21 @@ export const mockStories = [
   //11. Vợ làm sales BĐS
   {
     slug: "vo-lam-sales-bds",
-    title: "Vợ Làm Sales BĐS",
+    title: "Vợ Làm Sales BĐS – Truyện Sex Công Sở Ngoại Tình",
     description:
-      "Bộ truyện 18+ về cô vợ làm sales bất động sản, vô tình rơi vào vòng xoáy cám dỗ và những hợp đồng đổi tình. Cảnh nóng chân thật và câu chuyện đầy kịch tính.",
+      "Truyện sex công sở cực nóng về Hạnh – cô vợ trẻ làm sales bất động sản, nơi tiền bạc, quyền lực và dục vọng đan xen. Những hợp đồng đầy cám dỗ, escalation và cảnh nóng vụng trộm với khách hàng, cả sếp. Flagship truyện sex ngoại tình, cập nhật sớm nhất tại Truyendam.net.",
     tags: [
-      "truyện 18+",
+      "truyện sex công sở",
+      "truyện sex ngoại tình",
+      "truyện sex vợ chồng",
+      "bất động sản",
+      "dục vọng",
       "sales bất động sản",
-      "truyện sex Việt",
-      "truyện dài tập",
-      "truyện gợi cảm",
-      "ngoại tình",
-      "truyện người lớn"
+      "flagship Truyendam.net"
     ],
-    coverImage: "/images/vo-lam-sales-bds/vo-lam-sales-bds.jpg",
+    coverImage: "/images/sales-bds/cover.jpg",
     totalChapters: 5,
-    views: generateFakeViews(9000, 16000),
+    views: generateFakeViews(3000, 15000),
     status: "ongoing",
     updatedAt: "2025-07-22",
   },
@@ -256,21 +248,23 @@ export const mockStories = [
   //12. Trai miền núi
   {
     slug: "trai-mien-nui",
-    title: "Trai Miền Núi",
+    title: "Trai Miền Núi – Truyện Sex Chị Em Nhà Máy",
     description:
-      "Truyện 18+ về chàng trai miền núi chất phác nhưng đầy bản năng. Những cảnh nóng cuồng nhiệt và câu chuyện gợi cảm đầy hoang dại.",
+      "Chuyện nóng bỏng giữa Long – trai miền núi trẻ khoẻ và chị Trang, Phương. Những đêm vụng trộm bản năng, bí mật bị giấu kín ngay trong căn phòng nhỏ. Đọc flagship tại Truyendam.net.",
     tags: [
-      "truyện 18+",
+      "truyện sex dài tập",
+      "ngoại tình",
       "trai miền núi",
-      "truyện sex Việt",
-      "cảnh nóng",
-      "truyện người lớn",
-      "truyện ngắn",
-      "truyện gợi cảm"
+      "tam giác tình",
+      "truyện Việt",
+      "truyện sex công nhân Samsung",
+      "cắm sừng",
+      "bị dụ chén",
+      "flagship Truyendam.net"
     ],
-    coverImage: "/images/trai-mien-nui/trai-mien-nui.jpg",
+    coverImage: "/images/trai-mien-nui/cover.jpg",
     totalChapters: 5,
-    views: generateFakeViews(7000, 12000),
+    views: generateFakeViews(3000, 15000),
     status: "ongoing",
     updatedAt: "2025-07-23",
   },
@@ -278,21 +272,24 @@ export const mockStories = [
   //13. Sếp của chồng
   {
     slug: "sep-cua-chong",
-    title: "Sếp Của Chồng",
+    title: "Sếp Của Chồng – Truyện Sex One-shot Cực Mạnh",
     description:
-      "Bộ truyện 18+ về mối tình vụng trộm đầy cám dỗ giữa sếp và vợ của nhân viên. Những cảnh nóng kịch tính và câu chuyện gợi cảm khó quên.",
+      "Chuyến nghỉ mát cùng công ty chồng đã khiến Thu, người vợ ngoan nhưng dâm ngầm, lần đầu tiên được hai người đàn ông vầy vò tới bến – tận hưởng cảm giác ngoại tình, bị chiếm đoạt và bùng nổ dục vọng. One-shot mạnh, xóc cực, cảnh sex chi tiết, cảnh bắn tinh lên mặt, khẩu dâm, ngực rung, đọc là 'ra nước'! Đọc flagship tại Truyendam.net.",
     tags: [
-      "truyện 18+",
-      "sếp và vợ nhân viên",
-      "truyện sex Việt",
+      "one-shot ngoại tình",
       "ngoại tình",
-      "truyện dài tập",
-      "truyện gợi cảm",
-      "cảnh nóng","truyện sex mạnh","truyện sex some"
+      "truyện sex ngắn",
+      "sếp chồng",
+      "truyện dâm",
+      "chồng yếu sinh lý",
+      "flagship",
+      "đụ vợ nhân viên",
+      "làm tình tay ba",
+      "Truyendam.net"
     ],
-    coverImage: "/images/sep-cua-chong/sep-cua-chong.jpg",
+    coverImage: "/images/sep-cua-chong/cover.jpg",
     totalChapters: 1,
-    views: generateFakeViews(8000, 14000),
+    views: generateFakeViews(3000, 15000),
     status: "ongoing",
     updatedAt: "2025-07-24",
   },
@@ -300,49 +297,49 @@ export const mockStories = [
   //14. Chuyến công tác bất ổn
   {
     slug: "chuyen-cong-tac-bat-on",
-    title: "Chuyến Công Tác Bất Ổn",
+    title: "Chuyến Công Tác Bất Ổn – Truyện Sex Công Sở Cực Mạnh",
     description:
-      "Truyện 18+ về chuyến công tác đầy cám dỗ và những bí mật không ngờ tới. Cảnh nóng gợi cảm và kịch bản cuốn hút.",
+      "Chuyến công tác tưởng như bình thường lại trở thành ký ức nóng bỏng nhất đời Thủy: ngoại tình, dồn dập, chén liên tục tới kiệt sức. Truyện sex ngoại tình công sở cực mạnh, nhiều cảnh flagship, mô tả chân thực, escalation mạnh và khẩu dâm tinh tế. Đọc flagship tại Truyendam.net.",
     tags: [
-      "truyện 18+",
-      "công tác",
-      "truyện sex Việt",
-      "ngoại tình",
-      "truyện gợi cảm",
-      "truyện ngắn",
-      "cảnh nóng"
+      "truyện sex ngắn",
+      "ngoại tình công sở",
+      "sex đồng nghiệp",
+      "dâm mạnh",
+      "flagship",
+      "phòng khách sạn",
+      "chuyến công tác",
+      "vợ ngoại tình",
+      "Truyendam.net"
     ],
-    coverImage: "/images/chuyen-cong-tac-bat-on/chuyen-cong-tac-bat-on.jpg",
+    coverImage: "/images/chuyen-cong-tac-bat-on/cover.jpg",
     totalChapters: 2,
-    views: generateFakeViews(5000, 9000),
+    views: generateFakeViews(3000, 15000),
     status: "ongoing",
-    updatedAt: "2025-07-25",
+    updatedAt: "2025-07-25T08:00:00.000Z",
   },
 
-  //15. vợ chủ quán karaoke
-    {
+  //15. Vợ chủ quán karaoke
+  {
     slug: "vo-chu-quan-karaoke",
-  title: "Vợ Chủ Quán Karaoke",
-  description:
-    "Câu chuyện về Hạnh – cô vợ trẻ xinh đẹp của ông chủ quán karaoke. Tưởng như một cuộc sống an nhàn, nào ngờ phía sau là chuỗi ngày cô đơn, thiếu thốn rồi dần sa ngã vào vòng xoáy dục vọng: ngoại tình với nhân viên, bị khách VIP ép buộc. Mỗi chương là một lớp vụng trộm – escalation, cảm xúc vừa nhục vừa mê, càng lún càng không thoát.",
-  tags: [
-    "truyện dài",
-    "vụng trộm",
-    "vợ chủ karaoke",
-    "ngoại tình",
-    "bị ép",
-    "trai trẻ",
-    "sex công sở",
-    "drama",
-    "truyện Việt",
-    "gắn bi",
-    "truyện flagship",
-  ],
-  coverImage: "/images/vo-chu-quan-karaoke/cover.jpg",
-  totalChapters: 6,
-  views: generateFakeViews(9000, 17000),
-  status: "ongoing",
-    updatedAt: "2025-07-25",
+    title: "Vợ Chủ Quán Karaoke – Truyện Sex Vụng Trộm Khách VIP",
+    description:
+      "Câu chuyện về Hạnh – cô vợ trẻ xinh đẹp của ông chủ quán karaoke. Tưởng như cuộc sống an nhàn, nào ngờ phía sau là chuỗi ngày thiếu thốn rồi dần sa ngã vào vòng xoáy dục vọng: ngoại tình với nhân viên, bị khách VIP ép buộc. Mỗi chương là một escalation, cảm xúc vừa nhục vừa mê, càng lún càng không thoát. Đọc tại Truyendam.net.",
+    tags: [
+      "truyện sex dài tập",
+      "vụng trộm",
+      "vợ chủ karaoke",
+      "ngoại tình",
+      "bị ép",
+      "trai trẻ",
+      "drama",
+      "truyện flagship",
+      "Truyendam.net"
+    ],
+    coverImage: "/images/vo-chu-quan-karaoke/cover.jpg",
+    totalChapters: 6,
+    views: generateFakeViews(3000, 15000),
+    status: "ongoing",
+    updatedAt: "2025-07-29T08:00:00.000Z",
   },
-  
+
 ];
