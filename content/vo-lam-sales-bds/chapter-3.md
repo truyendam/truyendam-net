@@ -179,4 +179,14 @@ Cô lặng lẽ nhìn những vết hằn đỏ trên cổ, vết bầm nơi đ�
 
 
 Cô rảo bước ra bãi gửi xe, từng bước nặng trĩu. Trên đường về, Hạnh nhìn qua cửa kính, khung cảnh thành phố mờ ảo lướt qua mà tâm trí cô trôi nổi giữa hoang mang, day dứt và cả nỗi sợ hãi mơ hồ – vì từ bây giờ, mọi cảm xúc, mọi bí mật đều là của riêng cô, và cô biết mình sẽ không bao giờ còn là Hạnh như trước nữa.
-
+<br></br>
+<p>
+  📢 Gợi ý truyện hay : 
+  <a href="https://truyendam.net/truyen/lac-loi-o-pickleball" 
+     target="_blank" 
+     title="Truyện sex người lớn, truyện 18+ tại Truyendam.net"
+     style="text-decoration: underline; color: #0070f3;"
+  >
+    Lạc lối ở Pickleball
+  </a>
+</p>

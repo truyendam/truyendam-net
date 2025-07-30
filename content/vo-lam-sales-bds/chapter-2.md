@@ -105,3 +105,13 @@ Hạnh nắm chặt điện thoại, hít thật sâu như muốn đè nén mọ
 
 Hạnh loạng choạng bước ra khỏi khách sạn, đầu óc trống rỗng, không còn nhớ gì tới hợp đồng. Một lát sau, điện thoại rung lên với tin nhắn từ Thái: “Em quên hợp đồng rồi. Nếu em muốn, ngày mai quay lại bất cứ lúc nào, mình ký hợp đồng nhé.” Hạnh khẽ rùng mình.
 
+<p>
+  📢 Gợi ý truyện hay : 
+  <a href="https://truyendam.net/truyen/ban-toi-xin-loi" 
+     target="_blank" 
+     title="Truyện sex người lớn, truyện 18+ tại Truyendam.net"
+     style="text-decoration: underline; color: #0070f3;"
+  >
+    Bạn tôi xin lỗi
+  </a>
+</p>

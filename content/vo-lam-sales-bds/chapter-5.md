@@ -308,6 +308,16 @@ Kết thúc chuyến đi, Hạnh bất ngờ được cất nhắc lên vị tr�
 
 ----------------------Còn Tiếp----------------------
 <!-- truyện sex vợ nhân viên, vợ làm sales bds, hiếp dâm vợ nhân viên, vợ ngoại tình, truyện sex hay, truyện sex xếp và vợ,truyện sex hiếp dâm,truyện 18+,Truyện sex người lớn, Truyendam.net -->
+<p>
+  📢 Gợi ý truyện hay : 
+  <a href="https://truyendam.net/truyen/khong-the-quen" 
+     target="_blank" 
+     title="Truyện sex người lớn, truyện 18+ tại Truyendam.net"
+     style="text-decoration: underline; color: #0070f3;"
+  >
+    Không thể quên người yêu cũ
+  </a>
+</p>
 
 
 

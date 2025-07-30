@@ -91,4 +91,15 @@ Hạnh lên đỉnh trong tiếng nấc nghẹn, nước mắt rơi xuống bồ
 
 
 Tại công ty, Hạnh càng ngày càng cảm nhận được ánh mắt tò mò từ vài đồng nghiệp nữ. Có lần, chị Mai vừa nhìn chiếc dây chuyền mới trên cổ Hạnh vừa cười nửa miệng: “Quà của chồng hả em? Gần đây mặt mũi hồng hào xinh quá nha…” Hạnh chỉ biết cười gượng, vội vàng kéo cổ áo che đi món quà Thái vừa tặng, trong lòng thấp thỏm bất an.
+<br></br>
+<p>
+  📢 Gợi ý truyện hay : 
+  <a href="https://truyendam.net/truyen/chi-bi-mat-nhe" 
+     target="_blank" 
+     title="Truyện sex người lớn, truyện 18+ tại Truyendam.net"
+     style="text-decoration: underline; color: #0070f3;"
+  >
+    Chị bí mật nhé
+  </a>
+</p>
 

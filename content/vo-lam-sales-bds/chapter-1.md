@@ -70,3 +70,14 @@ Hạnh trong cơn say chỉ khẽ gật đầu, tim đập thình thịch. Trong
 Khi ra về, trái tim Hạnh vẫn đập nhanh, trong lòng dâng lên cảm giác mơ hồ vừa sợ hãi vừa hồi hộp. Ông Thái nhẹ nhàng nắm lấy tay cô, hơi kéo lại gần và thì thầm: “Trời vẫn còn sớm, em có muốn lên phòng cùng anh xem lại hợp đồng để mai ký cho nhanh không?”
 <br></br>
 Hạnh đầu óc ngà ngà, trong lòng vừa rối bời vừa dấy lên một chút tò mò khó tả, cảm giác như mình đang bước qua một ranh giới mơ hồ. Hình ảnh ánh mắt Thái càng lúc càng gần khiến cô khẽ nuốt khan, rồi chỉ gật đầu trong sự hồi hộp.
+<br></br>
+<p>
+  📢 Gợi ý truyện hay : 
+  <a href="https://truyendam.net/truyen/giao-vien-tieng-nhat" 
+     target="_blank" 
+     title="Truyện sex người lớn, truyện 18+ tại Truyendam.net"
+     style="text-decoration: underline; color: #0070f3;"
+  >
+    Giáo viện tiếng nhật
+  </a>
+</p>
