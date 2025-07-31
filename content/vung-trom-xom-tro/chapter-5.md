@@ -60,7 +60,8 @@ Thấy Hưng nhìn chằm chằm, Thảo xấu hổ đưa tay bụm lấy bờ m
 
 Hưng lại quay lên hôn cặp ngực căng mọng, tròn đầy của Thảo. Hai bầu vú nảy nở, trắng mịn, mềm như bông, vừa to vừa săn chắc dù đã có chồng nhưng vẫn giữ nét thanh xuân như thời con gái. 
 <br></br>
-<img src="/images/vung-trom-xom-tro/thao-cuoi-ngua.jpg" alt="Cô giáo thảo đụ hưng tại phòng trọ"/>
+<img src="/images/vung-trom-xom-tro/thao-cuoi-ngua.jpg" alt="ảnh sex vợ ngoại tình, gái Việt, phòng trọ, Truyendam.net" loading="lazy" style="max-width:100%;border-radius:10px;margin:10px auto;display:block;">
+<!-- ảnh sex vợ ngoại tình, truyện sex phòng trọ, gái Việt, sex nhẹ nhàng, Truyendam.net -->
 <br></br>  
 Đặc biệt, hai đầu ti đỏ hồng, nhỏ xinh, nhô lên như hạt ngọc, căng mọng và tươi mới chẳng khác gì gái 18. Hưng say sưa vùi mặt vào ngực chị, lưỡi mút nhẹ từng đầu ti khiến Thảo rùng mình, nổi hết gai ốc, khoái cảm dâng trào không thể kiềm chế.
 

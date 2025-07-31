@@ -144,7 +144,9 @@ Xấu hổ vì cảm xúc của mình, Thảo lấy tay bụm cửa mình lại 
 
 Hưng khéo léo ôm ghì lấy Thảo từ phía sau, hôn ngấu nghiến lên gáy rồi kéo chị ngồi xuống lòng mình. Không chờ chị chủ động, Hưng nắm chặt eo, nhấc bổng Thảo lên, đặt thẳng xuống cây gậy thịt đang cứng như sắt của mình.
 <br></br>
-<img src="/images/vung-trom-xom-tro/co-giao-thao.jpg" alt="Cô giáo thảo đụ hưng tại phòng trọ"/>
+<img src="/images/vung-trom-xom-tro/co-giao-thao.jpg" alt="ảnh sex vợ ngoại tình, gái Việt, phòng trọ, Truyendam.net" loading="lazy" style="max-width:100%;border-radius:10px;margin:10px auto;display:block;">
+<!-- ảnh sex vợ ngoại tình, truyện sex phòng trọ, gái Việt, sex nhẹ nhàng, Truyendam.net -->
+
 <br></br>
 Dương vật Hưng quá to và dài khiến mỗi lần Thảo ngồi xuống, chị phải hơi nhón mông, hai tay vịn chặt vai Hưng, khuôn mặt vừa đau vừa sướng, nước lồn chảy ướt đẫm thân cặc. Hưng chủ động giữ hông Thảo, kéo mạnh chị xuống tận gốc, rồi lại nhấc lên nửa chừng, khiến toàn bộ chiều dài cặc cứ thế ra vào hết cỡ trong lồn chị.
 
@@ -162,7 +164,6 @@ Hưng thốc thêm mấy cái thật mạnh, rồi bất ngờ rút cặc ra đ�
 <br></br>
 <!-- Truyện sex ngoại tình, vợ công ty bds, vợ bị xếp hiếp dâm, sex văn phòng, truyện sex lén lút, sex vợ nhân viên, truyện sex 18+, sex Việt Nam, Truyendam.net tổng hợp truyện sex hay -->
 <br></br>
-----------------------Còn Tiếp----------------------
 <p>
   📢 Gợi ý truyện hay : 
   <a href="https://truyendam.net/truyen/doi-sinh-vien" 

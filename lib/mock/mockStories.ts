@@ -16,7 +16,7 @@ export const mockStories = [
       "truyện khiêu dâm dài tập",
       "sex chị em",
       "truyện người lớn mới nhất",
-      "Đời Sinh Viên Truyendam.net"
+      "Đời Sinh Viên Truyendam"
     ],
     coverImage: "/images/doi-sinh-vien/cover.jpg",
     totalChapters: 8,
@@ -38,7 +38,7 @@ export const mockStories = [
       "truyện sex lén lút",
       "ký ức khó quên",
       "truyện người lớn hay nhất",
-      "Truyendam.net flagship"
+       "flagship","Truyendam"
     ],
     coverImage: "/images/khong-the-quen/khong-the-quen.jpg",
     totalChapters: 13,
@@ -59,7 +59,7 @@ export const mockStories = [
       "truyện sex ngắn",
       "cô dâu phản bội",
       "truyện khiêu dâm Việt Nam",
-      "truyện flagship Truyendam.net"
+       "flagship","Truyendam"
     ],
     coverImage: "/images/chong-sap-cuoi-cam-sung/cover.jpg",
     totalChapters: 3,
@@ -80,7 +80,7 @@ export const mockStories = [
       "truyện khiêu dâm dài tập",
       "lén lút vụng trộm",
       "truyện gợi cảm",
-      "truyện hay nhất Truyendam.net"
+      "truyện hay nhất Truyendam"
     ],
     coverImage: "/images/chi-bi-mat-nhe/cover.jpg",
     totalChapters: 4,
@@ -102,7 +102,7 @@ export const mockStories = [
       "cảnh nóng",
       "truyện người lớn Việt",
       "truyện sex mới nhất",
-      "Truyendam.net flagship"
+       "flagship","Truyendam"
     ],
     coverImage: "/images/lac-loi-pickleball/cover.jpg",
     totalChapters: 5,
@@ -123,7 +123,7 @@ export const mockStories = [
       "truyện khiêu dâm dài tập",
       "vụng trộm công sở",
       "ngoại tình",
-      "truyện flagship Truyendam.net"
+       "flagship","Truyendam"
     ],
     coverImage: "/images/cong-nhan-samsung/cover.jpg",
     totalChapters: 9,
@@ -147,7 +147,7 @@ export const mockStories = [
       "phòng trọ",
       "truyện sex ngắn",
       "truyện dâm Việt Nam",
-      "Truyendam.net"
+      "Truyendam"
     ],
     coverImage: "/images/nguoi-yeu-thang-ban/cover.jpg",
     totalChapters: 3,
@@ -169,7 +169,7 @@ export const mockStories = [
       "cắm sừng",
       "truyện sex phản bội",
       "truyện sex mạnh",
-      "flagship Truyendam.net"
+       "flagship","Truyendam"
     ],
     coverImage: "/images/ban-toi-xin-loi/cover.jpg",
     totalChapters: 1,
@@ -191,7 +191,7 @@ export const mockStories = [
       "truyện ngoại tình",
       "truyện dâm",
       "làm tình với cô giáo",
-      "Truyendam.net"
+      "Truyendam"
     ],
     coverImage: "/images/giao-vien-tieng-nhat/cover.jpg",
     totalChapters: 6,
@@ -214,7 +214,7 @@ export const mockStories = [
       "flagship",
       "truyện sex công nhân",
       "truyện sex hay",
-      "Truyendam.net"
+      "Truyendam"
     ],
     coverImage: "/images/gap-lai-nguoi-yeu-cu/cover.jpg",
     totalChapters: 5,
@@ -236,7 +236,7 @@ export const mockStories = [
       "bất động sản",
       "dục vọng",
       "sales bất động sản",
-      "flagship Truyendam.net"
+       "flagship","Truyendam"
     ],
     coverImage: "/images/sales-bds/cover.jpg",
     totalChapters: 5,
@@ -260,7 +260,7 @@ export const mockStories = [
       "truyện sex công nhân Samsung",
       "cắm sừng",
       "bị dụ chén",
-      "flagship Truyendam.net"
+      "flagship","Truyendam"
     ],
     coverImage: "/images/trai-mien-nui/cover.jpg",
     totalChapters: 5,
@@ -285,7 +285,7 @@ export const mockStories = [
       "flagship",
       "đụ vợ nhân viên",
       "làm tình tay ba",
-      "Truyendam.net"
+      "Truyendam"
     ],
     coverImage: "/images/sep-cua-chong/cover.jpg",
     totalChapters: 1,
@@ -309,7 +309,7 @@ export const mockStories = [
       "phòng khách sạn",
       "chuyến công tác",
       "vợ ngoại tình",
-      "Truyendam.net"
+      "Truyendam"
     ],
     coverImage: "/images/chuyen-cong-tac-bat-on/cover.jpg",
     totalChapters: 2,
@@ -333,7 +333,7 @@ export const mockStories = [
       "trai trẻ",
       "drama",
       "truyện flagship",
-      "Truyendam.net"
+      "Truyendam"
     ],
     coverImage: "/images/vo-chu-quan-karaoke/cover.jpg",
     totalChapters: 6,
@@ -341,11 +341,12 @@ export const mockStories = [
     status: "ongoing",
     updatedAt: "2025-07-29T08:00:00.000Z",
   },
-// vụng trộm xóm trọ
+//16. vụng trộm xóm trọ
 {
   slug: "vung-trom-xom-tro",
   title: "Vụng Trộm Xóm Trọ – Truyện Sex 18+ Flagship Lén Lút Và Gợi Cảm",
-  description: "Đọc full truyện Vụng Trộm Xóm Trọ – bộ truyện sex 18+ đầy cảm xúc thật, cảnh nóng đỉnh cao, câu chuyện ngoại tình lén lút giữa cô gái trẻ và chàng trai trong xóm trọ. Flagship độc quyền tại Truyendam.net, cập nhật nhanh nhất.",
+  description:
+    "Đọc full truyện Vụng Trộm Xóm Trọ – bộ truyện sex 18+ flagship siêu gợi cảm, cảnh nóng cực mạnh: ngoại tình xóm trọ, sex lén lút, thủ dâm cạnh chồng, confession sex, POV nữ chủ động và những màn tự sướng đầy ám ảnh. Truyện độc quyền Truyendam.net, cập nhật nhanh nhất.",
   tags: [
     "truyện sex 18+",
     "truyện flagship",
@@ -353,15 +354,47 @@ export const mockStories = [
     "truyện sex gợi cảm",
     "vụng trộm",
     "sex nữ chủ động",
+    "truyện tự sướng",
+    "thủ dâm lén lút",
+    "truyện confession",
     "truyện người lớn",
-    "Truyendam.net"
+    "Truyendam"
   ],
   coverImage: "/images/vung-trom-xom-tro/cover.jpg",
-  totalChapters: 6, // Ba có thể chỉnh theo số chương hiện tại
-  views: generateFakeViews(5000, 15000),
+  totalChapters: 7, // Cập nhật đúng số chương
+  views: generateFakeViews(7000, 17000), // tăng nhẹ khi thêm flagship
   status: "ongoing",
-  updatedAt: "2025-07-30" // ngày cập nhật cuối
+  updatedAt: "2025-07-30"
 },
+//17. vợ và hai thằng bạn thân
+{
+  slug: "vo-va-hai-nguoi-ban-than",
+  title: "Vợ Và Hai Người Bạn Thân – Truyện Sex 18+ Cắm Sừng Bạn Thân Cuckold Ngoại Tình Flagship",
+  description:
+    "Truyện sex flagship dài tập về vợ trẻ bị bạn thân chồng cắm sừng: ngoại tình, POV cuckold, cảnh quay lén camera, sex group và những trận chén nhau trên giường hôn nhân. Cảnh sex lén lút, escalation tâm lý cực mạnh, vợ bị địt tới bến, chồng vừa đau vừa nghiện. Đọc truyện sex cắm sừng bạn thân, truyện sex vợ bị địt flagship chỉ có tại Truyendam.net.",
+  tags: [
+    "truyện sex Việt Nam",
+    "truyện sex flagship",
+    "truyện sex vợ bị địt",
+    "truyện sex cuckold",
+    "cắm sừng bạn thân",
+    "truyện sex quay lén",
+    "sex group Việt Nam",
+    "flagship lén lút",
+    "truyện sex dài tập",
+    "POV cuckold",
+    "ngoại tình bạn thân",
+    "vợ bị bạn thân địt",
+    "Truyendam flagship",
+    "Truyendam"
+  ],
+  coverImage: "/images/vo-va-hai-nguoi-ban-than/cover.jpg",
+  totalChapters: 5,
+  views: generateFakeViews(6000, 17000),
+  status: "ongoing",
+  updatedAt: "2025-07-31"
+},
+
 
 
 ];

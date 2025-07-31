@@ -406,8 +406,59 @@ const mockChapters: Record<
       hasMarkdown: true,
       updatedAt: "2025-07-30T11:00:00+09:00"
     },
+      7: {
+      id: 7,
+      title: "Chương 7",
+      hasMarkdown: true,
+      updatedAt: "2025-07-31T11:00:00+09:00"
+    },
   },
   
+  //vợ và hai người bạn thân
+"vo-va-hai-nguoi-ban-than": {
+    1: {
+      id: 1,
+      title: "Chương 1",
+      hasMarkdown: true,
+      updatedAt: "2025-07-31T11:00:00+09:00"
+    },
+    2: {
+      id: 2,
+      title: "Chương 2",
+      hasMarkdown: true,
+     updatedAt: "2025-07-31T11:00:00+09:00"
+    },
+    3: {
+      id: 3,
+      title: "Chương 3",
+      hasMarkdown: true,
+     updatedAt: "2025-07-31T11:00:00+09:00"
+    },
+     4: {
+      id: 4,
+      title: "Chương 4",
+      hasMarkdown: true,
+      updatedAt: "2025-07-31T11:00:00+09:00"
+    },
+    5: {
+      id: 5,
+      title: "Chương 5",
+      hasMarkdown: true,
+     updatedAt: "2025-07-31T11:00:00+09:00"
+    },
+    // 6: {
+    //   id: 6,
+    //   title: "Chương 6",
+    //   hasMarkdown: true,
+    //  updatedAt: "2025-07-31T11:00:00+09:00"
+    // },
+    //   7: {
+    //   id: 7,
+    //   title: "Chương 7",
+    //   hasMarkdown: true,
+    //   updatedAt: "2025-07-31T11:00:00+09:00"
+    // },
+  },
 };
 
 export default mockChapters;

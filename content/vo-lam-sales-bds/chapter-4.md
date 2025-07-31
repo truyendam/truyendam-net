@@ -39,7 +39,8 @@ Hạnh nhắm nghiền mắt, toàn thân run rẩy, miệng vẫn rên rỉ kh�
 “Em muốn… muốn bị anh địt thật lâu… anh dập mạnh quá… a… em sắp ra rồi… bắn lên mặt em đi Thái… bắn hết lên người em…”
 
 <br></br>
-<img src="/images/sales-bds/hanh-sex-ban-cong.jpg" alt="Thái địt Hạnh tại cửa kính"/>
+<img src="/images/sales-bds/hanh-sex-ban-cong.jpg" alt="ảnh sex vợ ngoại tình, gái Việt, phòng trọ, Truyendam.net" loading="lazy" style="max-width:100%;border-radius:10px;margin:10px auto;display:block;">
+<!-- ảnh sex vợ ngoại tình, truyện sex phòng trọ, gái Việt, sex nhẹ nhàng, Truyendam.net -->
 <br></br>
 
 Hạnh bị dập tới tấp trên bàn kính, tiếng va thịt vang vọng trong không gian vắng, mỗi lần hắn thúc mạnh là cô lại bám chặt vào thành bàn, lưng cong lên, miệng bật ra những tiếng rên không kìm chế nổi.
