@@ -69,9 +69,9 @@ Có buổi tối, khi cả nhà quây quần ăn cơm, Nam nhìn Linh bằng án
 Đêm đó, Nam nằm cạnh Linh, nhưng tâm trí thì vẩn vơ không yên. Trong đầu, ý nghĩ lạ lùng dần lớn lên: "Nếu một ngày mình giả vờ ngủ trên sopha… để xem thực sự Linh và Hùng sẽ làm gì, sẽ đi đến đâu?"
 
 Ý nghĩ ấy bám riết lấy Nam cả ngày hôm sau. Chính Nam cũng không hiểu nổi mình: trong đầu vừa muốn bắt quả tang Linh và Hùng tại trận để làm rõ mọi chuyện, hay là thèm muốn được tận mắt nhìn thấy cảnh Hùng địt vợ mình thật sự như thế nào...
+<!-- truyện sex chồng xem vợ bị địt, cuckold Việt Nam, vợ lên đỉnh với bạn thân, sex group, vợ ngoại tình, sex flagship dài tập, truyện sex tâm lý mạnh, POV chồng bị cắm sừng, truyện sex Việt mới nhất, Truyendam.net -->
 
 <br></br>
-----------------------Còn Tiếp----------------------
 <p>
   📢 Gợi ý truyện hay : 
   <a href="https://truyendam.net/truyen/doi-sinh-vien" 

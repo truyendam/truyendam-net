@@ -402,7 +402,7 @@ const mockChapters = {
             updatedAt: "2025-07-31T11:00:00+09:00"
         },
     },
-    //// vụng trộm xóm trọ
+    //vợ và hai người bạn thân
     "vo-va-hai-nguoi-ban-than": {
         1: {
             id: 1,
@@ -434,18 +434,24 @@ const mockChapters = {
             hasMarkdown: true,
             updatedAt: "2025-07-31T11:00:00+09:00"
         },
-        // 6: {
-        //   id: 6,
-        //   title: "Chương 6",
-        //   hasMarkdown: true,
-        //  updatedAt: "2025-07-31T11:00:00+09:00"
-        // },
-        //   7: {
-        //   id: 7,
-        //   title: "Chương 7",
-        //   hasMarkdown: true,
-        //   updatedAt: "2025-07-31T11:00:00+09:00"
-        // },
+        6: {
+            id: 6,
+            title: "Chương 6",
+            hasMarkdown: true,
+            updatedAt: "2025-08-01T11:00:00+09:00"
+        },
+        7: {
+            id: 7,
+            title: "Chương 7",
+            hasMarkdown: true,
+            updatedAt: "2025-08-01T11:00:00+09:00"
+        },
+        8: {
+            id: 8,
+            title: "Chương 8",
+            hasMarkdown: true,
+            updatedAt: "2025-08-01T11:00:00+09:00"
+        },
     },
 };
 exports.default = mockChapters;

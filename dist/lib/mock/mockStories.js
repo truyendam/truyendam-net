@@ -17,7 +17,7 @@ exports.mockStories = [
             "truyện khiêu dâm dài tập",
             "sex chị em",
             "truyện người lớn mới nhất",
-            "Đời Sinh Viên Truyendam"
+            "Đời Sinh Viên Truyendam", "Truyện sex dài"
         ],
         coverImage: "/images/doi-sinh-vien/cover.jpg",
         totalChapters: 8,
@@ -37,7 +37,7 @@ exports.mockStories = [
             "truyện sex lén lút",
             "ký ức khó quên",
             "truyện người lớn hay nhất",
-            "flagship", "Truyendam"
+            "flagship", "Truyendam", "truyện sex dài", "truyện sex hay", "truyện sex vụng trộm"
         ],
         coverImage: "/images/khong-the-quen/khong-the-quen.jpg",
         totalChapters: 13,
@@ -56,7 +56,8 @@ exports.mockStories = [
             "truyện sex ngắn",
             "cô dâu phản bội",
             "truyện khiêu dâm Việt Nam",
-            "flagship", "Truyendam"
+            "flagship", "Truyendam", "truyện sex dài",
+            "truyện sex hay", "truyện sex vụng trộm"
         ],
         coverImage: "/images/chong-sap-cuoi-cam-sung/cover.jpg",
         totalChapters: 3,
@@ -75,7 +76,8 @@ exports.mockStories = [
             "truyện khiêu dâm dài tập",
             "lén lút vụng trộm",
             "truyện gợi cảm",
-            "truyện hay nhất Truyendam"
+            "Truyendam", "truyện sex dài",
+            "truyện sex hay", "truyện sex vụng trộm"
         ],
         coverImage: "/images/chi-bi-mat-nhe/cover.jpg",
         totalChapters: 4,
@@ -95,7 +97,8 @@ exports.mockStories = [
             "cảnh nóng",
             "truyện người lớn Việt",
             "truyện sex mới nhất",
-            "flagship", "Truyendam"
+            "flagship", "Truyendam", "truyện sex dài",
+            "truyện sex hay", "truyện sex vụng trộm"
         ],
         coverImage: "/images/lac-loi-pickleball/cover.jpg",
         totalChapters: 5,
@@ -114,7 +117,8 @@ exports.mockStories = [
             "truyện khiêu dâm dài tập",
             "vụng trộm công sở",
             "ngoại tình",
-            "flagship", "Truyendam"
+            "flagship", "Truyendam", "truyện sex dài",
+            "truyện sex hay", "truyện sex vụng trộm"
         ],
         coverImage: "/images/cong-nhan-samsung/cover.jpg",
         totalChapters: 9,
@@ -314,7 +318,7 @@ exports.mockStories = [
         status: "ongoing",
         updatedAt: "2025-07-29T08:00:00.000Z",
     },
-    // vụng trộm xóm trọ
+    //16. vụng trộm xóm trọ
     {
         slug: "vung-trom-xom-tro",
         title: "Vụng Trộm Xóm Trọ – Truyện Sex 18+ Flagship Lén Lút Và Gợi Cảm",
@@ -338,10 +342,11 @@ exports.mockStories = [
         status: "ongoing",
         updatedAt: "2025-07-30"
     },
+    //17. vợ và hai thằng bạn thân
     {
         slug: "vo-va-hai-nguoi-ban-than",
-        title: "Vợ Và Hai Người Bạn Thân – Truyện Sex 18+ Cắm Sừng Bạn Thân Cuckold Ngoại Tình Flagship",
-        description: "Truyện sex flagship dài tập về vợ trẻ bị bạn thân chồng cắm sừng: ngoại tình, POV cuckold, cảnh quay lén camera, sex group và những trận chén nhau trên giường hôn nhân. Cảnh sex lén lút, escalation tâm lý cực mạnh, vợ bị địt tới bến, chồng vừa đau vừa nghiện. Đọc truyện sex cắm sừng bạn thân, truyện sex vợ bị địt flagship chỉ có tại Truyendam.net.",
+        title: "Vợ Và Hai Người Bạn Thân – Truyện Sex 18+ Cắm Sừng, Sex Group, Cuckold POV, Ngoại Tình Flagship",
+        description: "Truyện sex flagship dài tập về vợ trẻ bị hai bạn thân của chồng cắm sừng: ngoại tình, POV cuckold, cảnh quay lén camera, sex group, vợ được hai người đàn ông thay nhau liếm mút, địt tới bến, bắn tinh khắp người. Chồng vừa đau vừa nghiện, lén thủ dâm xem vợ bị bạn thân chén. Escalation tâm lý cực mạnh, flagship sex Việt Nam không thể bỏ qua. Đọc truyện sex cắm sừng, cuckold, sex group flagship duy nhất tại Truyendam.net",
         tags: [
             "truyện sex Việt Nam",
             "truyện sex flagship",
@@ -350,18 +355,24 @@ exports.mockStories = [
             "cắm sừng bạn thân",
             "truyện sex quay lén",
             "sex group Việt Nam",
+            "sex group flagship",
             "flagship lén lút",
             "truyện sex dài tập",
             "POV cuckold",
             "ngoại tình bạn thân",
             "vợ bị bạn thân địt",
+            "vợ bị địt group",
+            "POV chồng xem vợ bị địt",
+            "truyện sex chồng xóc lọ",
+            "truyện sex tâm lý mạnh",
+            "truyện sex group 3P",
             "Truyendam flagship",
             "Truyendam"
         ],
         coverImage: "/images/vo-va-hai-nguoi-ban-than/cover.jpg",
-        totalChapters: 5,
+        totalChapters: 8,
         views: (0, generateFakeViews_1.generateFakeViews)(6000, 17000),
         status: "ongoing",
-        updatedAt: "2025-07-31"
+        updatedAt: "2025-08-01"
     },
 ];

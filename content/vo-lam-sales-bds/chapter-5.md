@@ -305,7 +305,7 @@ Có lúc họ đứng sát cửa kính, Tuấn ép Hạnh quay mặt ra ngoài, 
 
 
 Kết thúc chuyến đi, Hạnh bất ngờ được cất nhắc lên vị trí Trưởng phòng sales thị trường miền Bắc. Cường vỡ òa sung sướng, liên tục gọi điện khoe với họ hàng, bạn bè về thành tích của vợ, còn Hạnh thì vừa mỉm cười, vừa không biết mình giỏi công việc hay là giỏi....địt
-
+<br></br>
 ----------------------Còn Tiếp----------------------
 <!-- truyện sex vợ nhân viên, vợ làm sales bds, hiếp dâm vợ nhân viên, vợ ngoại tình, truyện sex hay, truyện sex xếp và vợ,truyện sex hiếp dâm,truyện 18+,Truyện sex người lớn, Truyendam.net -->
 <p>

@@ -232,14 +232,15 @@ Hùng hôn lên cổ, tay bóp mông, rồi kéo váy Linh lên tận hông. Mù
 
 Linh không trả lời. Cô thở dốc, mắt nhắm nghiền, cả người như bị đốt cháy từ trong. Ngón tay hắn vẫn miết đều, nước dâm tràn ra làm ướt cả tay.
 <!-- truyện sex cắm sừng, vợ bị bạn thân địt, ngoại tình bạn thân, truyện sex Việt Nam, truyện sex flagship, POV cuckold, vợ ngoại tình, truyện sex hay, truyện 18+, Truyendam.net -->
+<br></br>
 <p>
   📢 Gợi ý truyện hay : 
-  <a href="https://truyendam.net/truyen/doi-sinh-vien" 
+  <a href="https://truyendam.net/truyen/sep-cua-chong" 
      target="_blank" 
      title="Truyện sex người lớn, truyện 18+ tại Truyendam.net"
      style="text-decoration: underline; color: #0070f3;"
   >
-    Đời Sinh Viên
+    Sếp của chồng khỏe quá
   </a>
 </p>
 

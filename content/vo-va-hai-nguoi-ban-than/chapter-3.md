@@ -222,11 +222,11 @@ Trong đầu cô văng vẳng lại tiếng rên vừa rồi của chính mình,
 <!-- truyện sex tâm lý, vợ nghiện sex, địt mạnh, vợ chủ động, vợ ngoại tình bạn thân, truyện sex cấm kỵ, flagship sex Việt, truyện sex vợ bị địt, sex lén lút, Truyendam.net -->
 <p>
   📢 Gợi ý truyện hay : 
-  <a href="https://truyendam.net/truyen/doi-sinh-vien" 
+  <a href="https://truyendam.net/truyen/chong-sap-cuoi-cam-sung" 
      target="_blank" 
      title="Truyện sex người lớn, truyện 18+ tại Truyendam.net"
      style="text-decoration: underline; color: #0070f3;"
   >
-    Đời Sinh Viên
+    Cắm sừng chồng sắp cưới
   </a>
 </p>
