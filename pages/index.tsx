@@ -21,14 +21,17 @@ export default function HomePage() {
     (a, b) => new Date(b.updatedAt).getTime() - new Date(a.updatedAt).getTime()
   );
   const hotStories = stories.filter((s) => (s.views || 0) > 5000);
-  const shortStories = stories.filter((s) =>
-    s.tags.includes("truyện sex ngắn")
-  );
-  const longStories = stories.filter(
-    (s) =>
-      s.tags.includes("truyện dài") ||
-      (s.totalChapters && s.totalChapters > 3)
-  );
+  const shortStories = [...stories]
+    .filter((s) => s.tags.includes("truyện sex ngắn"))
+    .sort((a, b) => new Date(b.updatedAt).getTime() - new Date(a.updatedAt).getTime());
+
+  const longStories = [...stories]
+    .filter(
+      (s) =>
+        s.tags.includes("truyện dài") ||
+        (s.totalChapters && s.totalChapters > 3)
+    )
+    .sort((a, b) => new Date(b.updatedAt).getTime() - new Date(a.updatedAt).getTime());
 
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedTag, setSelectedTag] = useState<string>("all");
@@ -42,10 +45,6 @@ export default function HomePage() {
     const matchTag = selectedTag === "all" || story.tags.includes(selectedTag);
     return matchTitle && matchTag;
   });
-
-  // useEffect(() => {
-  //   inputRef.current?.focus();
-  // }, []);
 
   useEffect(() => {
     const timeout = setTimeout(() => {
@@ -77,7 +76,7 @@ export default function HomePage() {
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://truyendam.net/" />
         <meta name="twitter:card" content="summary_large_image" />
-<link rel="canonical" href="https://truyendam.net/" />
+        <link rel="canonical" href="https://truyendam.net/" />
       </Head>
 
       <div className="min-h-screen bg-black text-white px-4 py-6">
@@ -135,7 +134,7 @@ export default function HomePage() {
             </div>
           ) : (
             <>
-            {/* BLOCK 4: Truyện mới cập nhật */}
+              {/* BLOCK 4: Truyện mới cập nhật */}
               <div>
                 <Link href="/latest/page/1">
                   <h2 className="text-2xl font-bold mb-4 text-blue-400 hover:underline">
@@ -210,8 +209,6 @@ export default function HomePage() {
                   </Link>
                 </div>
               </div>
-
-              
             </>
           )}
         </div>

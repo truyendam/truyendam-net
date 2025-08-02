@@ -1,4 +1,4 @@
-// ✅ File: pages/truyen/[slug]/toc.tsx – TOC có tag gắn link giống homepage + label nhóm có link
+// ✅ File: pages/truyen/[slug]/toc.tsx – Updated TOC UI layout + fix image on desktop
 
 import Head from "next/head";
 import { useRouter } from "next/router";
@@ -7,7 +7,7 @@ import { mockStories } from "@/lib/mock/mockStories";
 import mockChapters from "@/lib/mock/mockChapters";
 import BottomSuggestBlock from "@/components/BottomSuggestBlock";
 import ContinueReading from "@/components/ContinueReading";
-import Script from "next/script"; // ✅ Breadcrumb SEO
+import Script from "next/script";
 import Image from "next/image";
 
 function slugify(str: string | undefined): string {
@@ -20,6 +20,7 @@ function slugify(str: string | undefined): string {
     .replace(/\s+/g, "-")
     .toLowerCase();
 }
+
 export default function ChapterTocPage() {
   const router = useRouter();
   const { slug } = router.query;
@@ -27,12 +28,7 @@ export default function ChapterTocPage() {
   const story = mockStories.find((s) => s.slug === slug);
   const chapterObj = mockChapters[slug as string] || {};
 
-  const chapters = Object.values(chapterObj).sort((a, b) => a.id - b.id) as {
-    id: number;
-    title: string;
-    hasMarkdown?: boolean;
-    updatedAt?: string;
-  }[];
+  const chapters = Object.values(chapterObj).sort((a, b) => a.id - b.id);
 
   if (!story) {
     return (
@@ -46,14 +42,6 @@ export default function ChapterTocPage() {
     story.tags?.join(", ") +
       ", truyện sex, truyện người lớn, danh sách chương, truyện 18+, truyện xxx" ||
     "truyện sex, truyện người lớn, danh sách chương, truyện 18+, truyện xxx";
-
-  const hotStories = mockStories.filter((s) => (s.views || 0) > 5000);
-  const shortStories = mockStories.filter((s) =>
-    s.tags.includes("truyện sex ngắn")
-  );
-  const longStories = mockStories.filter(
-    (s) => s.tags.includes("truyện dài") || (s.totalChapters || 0) > 3
-  );
 
   return (
     <>
@@ -91,30 +79,10 @@ export default function ChapterTocPage() {
             "@context": "https://schema.org",
             "@type": "BreadcrumbList",
             itemListElement: [
-              {
-                "@type": "ListItem",
-                position: 1,
-                name: "Trang chủ",
-                item: "https://truyendam.net",
-              },
-              {
-                "@type": "ListItem",
-                position: 2,
-                name: "Truyện",
-                item: "https://truyendam.net/truyen",
-              },
-              {
-                "@type": "ListItem",
-                position: 3,
-                name: story.title,
-                item: `https://truyendam.net/truyen/${story.slug}`,
-              },
-              {
-                "@type": "ListItem",
-                position: 4,
-                name: "Danh sách chương",
-                item: `https://truyendam.net/truyen/${story.slug}/toc`,
-              },
+              { "@type": "ListItem", position: 1, name: "Trang chủ", item: "https://truyendam.net" },
+              { "@type": "ListItem", position: 2, name: "Truyện", item: "https://truyendam.net/truyen" },
+              { "@type": "ListItem", position: 3, name: story.title, item: `https://truyendam.net/truyen/${story.slug}` },
+              { "@type": "ListItem", position: 4, name: "Danh sách chương", item: `https://truyendam.net/truyen/${story.slug}/toc` },
             ],
           }),
         }}
@@ -127,55 +95,40 @@ export default function ChapterTocPage() {
           </Link>
         </div>
 
-        <div className="max-w-3xl mx-auto flex flex-col sm:flex-row items-center sm:items-start gap-4 mb-6 px-2">
-<div className="w-28 h-40 sm:w-32 sm:h-44 relative rounded-md shadow overflow-hidden">
-  <Image
-    src={story.coverImage || "/default-cover.jpg"}
-    alt={story.title}
-    fill
-    className="object-cover rounded-md"
-    sizes="128px"
-  />
-</div>
-          <div className="text-center sm:text-left">
-            <h1 className="text-xl md:text-2xl font-bold text-pink-400 mb-1">
-              {story.title}
-            </h1>
+        <div className="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-[144px_1fr] gap-5 items-start mb-8 px-2">
+          <div className="w-36 h-52 relative rounded-md shadow overflow-hidden">
+            <Image
+              src={story.coverImage || "/default-cover.jpg"}
+              alt={story.title}
+              fill
+              className="object-cover rounded-md"
+              sizes="144px"
+            />
+          </div>
 
+          <div>
+            <h1 className="text-xl md:text-2xl font-bold text-pink-400 mb-1">{story.title}</h1>
             {story.status && (
               <p className="text-sm text-gray-400 mb-1">
                 <span className="text-white font-medium">Tình trạng:</span>{" "}
                 {story.status === "ongoing" ? "Đang ra" : "Đã hoàn thành"}
               </p>
             )}
-
             <p className="text-sm text-gray-400 mb-1">
               {chapters.length} chương · Chọn để đọc ngay bên dưới
             </p>
-
-            {story.description && (
-              <p className="text-sm text-zinc-300 max-w-md">{story.description}</p>
-            )}
-
+            {story.description && <p className="text-sm text-zinc-300 max-w-2xl leading-relaxed whitespace-pre-line">{story.description}</p>}
             {story.tags?.length > 0 && (
-              <div className="flex flex-wrap gap-2 mt-2">
-                {story.tags.map((tag, index) => {
-                  const slugTag = tag
-                    .toLowerCase()
-                    .replace(/ /g, "-")
-                    .normalize("NFD")
-                    .replace(/[\u0300-\u036f]/g, "");
-
-                  return (
-                    <Link
-                      key={index}
-                      href={`/tag/${slugify(tag)}/page/1`}
-                      className="text-xs sm:text-sm text-pink-400 bg-zinc-800 px-2 py-1 rounded hover:bg-pink-600 transition-all"
-                    >
-                      #{tag}
-                    </Link>
-                  );
-                })}
+              <div className="flex flex-wrap gap-2 mt-3">
+                {story.tags.map((tag, index) => (
+                  <Link
+                    key={index}
+                    href={`/tag/${slugify(tag)}/page/1`}
+                    className="text-xs sm:text-sm text-pink-400 bg-zinc-800 px-2 py-1 rounded hover:bg-pink-600 transition-all"
+                  >
+                    #{tag}
+                  </Link>
+                ))}
               </div>
             )}
           </div>
@@ -189,11 +142,7 @@ export default function ChapterTocPage() {
           <h2 className="text-lg font-semibold text-center text-white mb-4">Danh sách chương</h2>
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3 md:gap-4">
             {chapters.map((ch) => {
-              const isNew =
-                ch.updatedAt &&
-                new Date().getTime() - new Date(ch.updatedAt).getTime() <
-                  3 * 24 * 60 * 60 * 1000;
-
+              const isNew = ch.updatedAt && new Date().getTime() - new Date(ch.updatedAt).getTime() < 3 * 24 * 60 * 60 * 1000;
               return (
                 <Link
                   key={ch.id}
@@ -212,57 +161,8 @@ export default function ChapterTocPage() {
           </div>
         </div>
 
-        <div className="max-w-3xl mx-auto mt-12 px-2 space-y-12">
-          {/* 🔥 Truyện HOT */}
-          <div>
-            <Link href="/hot/page/1">
-              <h2 className="text-xl font-bold mb-1 text-red-400 hover:underline">🔥 Truyện HOT</h2>
-            </Link>
-            <p className="text-sm text-gray-400 mb-2">Những truyện người lớn được đọc nhiều nhất gần đây</p>
-            <ul className="list-disc list-inside text-sm text-white space-y-1">
-              {hotStories.slice(0, 3).map((s) => (
-                <li key={s.slug}>
-                  <Link href={`/truyen/${s.slug}`} className="hover:underline text-pink-400">
-                    {s.title}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          {/* ✍️ Truyện sex ngắn */}
-          <div>
-            <Link href="/short/page/1">
-              <h2 className="text-xl font-bold mb-1 text-pink-400 hover:underline">✍️ Truyện sex ngắn</h2>
-            </Link>
-            <p className="text-sm text-gray-400 mb-2">Truyện ngắn kích thích, đọc nhanh, lên nhanh</p>
-            <ul className="list-disc list-inside text-sm text-white space-y-1">
-              {shortStories.slice(0, 3).map((s) => (
-                <li key={s.slug}>
-                  <Link href={`/truyen/${s.slug}`} className="hover:underline text-pink-400">
-                    {s.title}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          {/* 📚 Truyện dài tập */}
-          <div>
-            <Link href="/long/page/1">
-              <h2 className="text-xl font-bold mb-1 text-purple-400 hover:underline">📚 Truyện dài tập</h2>
-            </Link>
-            <p className="text-sm text-gray-400 mb-2">Dành cho người mê cốt truyện sâu và nhiều chương</p>
-            <ul className="list-disc list-inside text-sm text-white space-y-1">
-              {longStories.slice(0, 3).map((s) => (
-                <li key={s.slug}>
-                  <Link href={`/truyen/${s.slug}`} className="hover:underline text-pink-400">
-                    {s.title}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
+        <div className="max-w-3xl mx-auto mt-12 px-2">
+          <BottomSuggestBlock theme="dark" />
         </div>
       </div>
     </>

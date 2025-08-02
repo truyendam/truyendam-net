@@ -14,10 +14,12 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.getStaticProps = exports.getStaticPaths = void 0;
 exports.default = ChapterPage;
+// ✅ File: pages/truyen/[slug]/chapters/[id].tsx 
 const head_1 = __importDefault(require("next/head"));
 const mockStories_1 = require("@/lib/mock/mockStories");
 const chapters_1 = require("@/lib/api/chapters");
 const mockChapters_1 = __importDefault(require("@/lib/mock/mockChapters"));
+const BottomSuggestBlock_1 = __importDefault(require("@/components/BottomSuggestBlock"));
 const link_1 = __importDefault(require("next/link"));
 const react_1 = require("react");
 const getStaticPaths = () => __awaiter(void 0, void 0, void 0, function* () {
@@ -185,11 +187,10 @@ function ChapterPage({ slug, chapterId, storyTitle, totalChapters, content, stat
             </link_1.default>
           </div>
 
-          <div className={`mt-12 space-y-8 ${theme === "dark" ? "text-white" : "text-black"}`}>
-            {renderStoryBlock("🔥 Truyện HOT", hotStories, "/hot/page/1")}
-            {renderStoryBlock("✍️ Truyện sex ngắn", shortStories, "/short/page/1")}
-            {renderStoryBlock("📚 Truyện dài tập", longStories, "/long/page/1")}
-          </div>
+    <div className="max-w-3xl mx-auto mt-12 px-2">
+  <BottomSuggestBlock_1.default theme={theme}/>
+    </div>
+
         </div>
       </div>
     </>);

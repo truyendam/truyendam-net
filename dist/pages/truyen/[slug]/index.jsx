@@ -11,7 +11,8 @@ const mockStories_1 = require("@/lib/mock/mockStories");
 const mockChapters_1 = __importDefault(require("@/lib/mock/mockChapters"));
 const image_1 = __importDefault(require("next/image"));
 const link_1 = __importDefault(require("next/link"));
-const ContinueReading_1 = __importDefault(require("@/components/ContinueReading")); // ✅ Đọc tiếp
+const ContinueReading_1 = __importDefault(require("@/components/ContinueReading"));
+const BottomSuggestBlock_1 = __importDefault(require("@/components/BottomSuggestBlock"));
 function slugify(str) {
     if (!str)
         return "";
@@ -30,10 +31,8 @@ function StoryDetailPage() {
     const story = mockStories_1.mockStories.find((s) => s.slug === slug);
     const chapterObj = mockChapters_1.default[slug] || {};
     const chapters = Object.values(chapterObj);
-    if (typeof slug !== "string") {
-        // Chưa có slug, chờ route, chưa render error
-        return null; // hoặc loading...
-    }
+    if (typeof slug !== "string")
+        return null;
     if (!story) {
         return (<div className="min-h-screen flex items-center justify-center bg-black text-white">
         <p>Không tìm thấy truyện.</p>
@@ -104,8 +103,7 @@ function StoryDetailPage() {
           <h2 className="text-xl font-bold text-white mb-4 text-center">Danh sách chương</h2>
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
             {chapters.map((ch) => {
-            const isNew = ch.updatedAt &&
-                new Date().getTime() - new Date(ch.updatedAt).getTime() < 3 * 24 * 60 * 60 * 1000;
+            const isNew = ch.updatedAt && new Date().getTime() - new Date(ch.updatedAt).getTime() < 3 * 24 * 60 * 60 * 1000;
             return (<link_1.default key={ch.id} href={`/truyen/${story.slug}/chapters/${ch.id}`} className="relative block bg-zinc-800 hover:bg-pink-600 hover:text-white transition-all px-4 py-3 rounded-xl shadow text-sm sm:text-base text-center">
                   <span className="block">Chương {ch.id}</span>
                   {isNew && (<span className="absolute bottom-1 right-1 text-[10px] bg-pink-500 text-white px-1.5 py-[1px] rounded-full font-medium shadow-md tracking-tight animate-pulse">
@@ -116,49 +114,9 @@ function StoryDetailPage() {
           </div>
         </div>
 
-        {/* ✅ Gợi ý truyện có label dạng link như TOC */}
-        <div className="max-w-3xl mx-auto mt-12 px-2 space-y-12">
-          {/* 🔥 Truyện HOT */}
-          <div>
-            <link_1.default href="/hot/page/1">
-              <h2 className="text-xl font-bold mb-1 text-red-400 hover:underline">🔥 Truyện HOT</h2>
-            </link_1.default>
-            <ul className="list-disc list-inside text-sm text-white space-y-1 mt-2">
-              {mockStories_1.mockStories.filter((s) => (s.views || 0) > 5000).slice(0, 3).map((s) => (<li key={s.slug}>
-                  <link_1.default href={`/truyen/${s.slug}`} className="hover:underline text-pink-400">
-                    {s.title}
-                  </link_1.default>
-                </li>))}
-            </ul>
-          </div>
-
-          {/* ✍️ Truyện sex ngắn */}
-          <div>
-            <link_1.default href="/short/page/1">
-              <h2 className="text-xl font-bold mb-1 text-pink-400 hover:underline">✍️ Truyện sex ngắn</h2>
-            </link_1.default>
-            <ul className="list-disc list-inside text-sm text-white space-y-1 mt-2">
-              {mockStories_1.mockStories.filter((s) => s.tags.includes("truyện sex ngắn")).slice(0, 3).map((s) => (<li key={s.slug}>
-                  <link_1.default href={`/truyen/${s.slug}`} className="hover:underline text-pink-400">
-                    {s.title}
-                  </link_1.default>
-                </li>))}
-            </ul>
-          </div>
-
-          {/* 📚 Truyện dài tập */}
-          <div>
-            <link_1.default href="/long/page/1">
-              <h2 className="text-xl font-bold mb-1 text-purple-400 hover:underline">📚 Truyện dài tập</h2>
-            </link_1.default>
-            <ul className="list-disc list-inside text-sm text-white space-y-1 mt-2">
-              {mockStories_1.mockStories.filter((s) => s.tags.includes("truyện dài") || (s.totalChapters || 0) > 3).slice(0, 3).map((s) => (<li key={s.slug}>
-                  <link_1.default href={`/truyen/${s.slug}`} className="hover:underline text-pink-400">
-                    {s.title}
-                  </link_1.default>
-                </li>))}
-            </ul>
-          </div>
+        {/* ✅ Gợi ý truyện - đồng bộ với trang tag */}
+        <div className="max-w-3xl mx-auto mt-12 px-2">
+          <BottomSuggestBlock_1.default theme="dark"/>
         </div>
       </div>
     </>);

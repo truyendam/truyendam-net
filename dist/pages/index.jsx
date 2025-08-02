@@ -25,9 +25,13 @@ function HomePage() {
     const stories = mockStories_1.mockStories || [];
     const newStories = [...stories].sort((a, b) => new Date(b.updatedAt).getTime() - new Date(a.updatedAt).getTime());
     const hotStories = stories.filter((s) => (s.views || 0) > 5000);
-    const shortStories = stories.filter((s) => s.tags.includes("truyện sex ngắn"));
-    const longStories = stories.filter((s) => s.tags.includes("truyện dài") ||
-        (s.totalChapters && s.totalChapters > 3));
+    const shortStories = [...stories]
+        .filter((s) => s.tags.includes("truyện sex ngắn"))
+        .sort((a, b) => new Date(b.updatedAt).getTime() - new Date(a.updatedAt).getTime());
+    const longStories = [...stories]
+        .filter((s) => s.tags.includes("truyện dài") ||
+        (s.totalChapters && s.totalChapters > 3))
+        .sort((a, b) => new Date(b.updatedAt).getTime() - new Date(a.updatedAt).getTime());
     const [searchTerm, setSearchTerm] = (0, react_1.useState)("");
     const [selectedTag, setSelectedTag] = (0, react_1.useState)("all");
     const inputRef = (0, react_1.useRef)(null);
@@ -38,9 +42,6 @@ function HomePage() {
         const matchTag = selectedTag === "all" || story.tags.includes(selectedTag);
         return matchTitle && matchTag;
     });
-    // useEffect(() => {
-    //   inputRef.current?.focus();
-    // }, []);
     (0, react_1.useEffect)(() => {
         const timeout = setTimeout(() => {
             if ((searchTerm || selectedTag !== "all") && resultsRef.current) {
@@ -63,7 +64,7 @@ function HomePage() {
         <meta property="og:type" content="website"/>
         <meta property="og:url" content="https://truyendam.net/"/>
         <meta name="twitter:card" content="summary_large_image"/>
-    <link rel="canonical" href="https://truyendam.net/"/>
+        <link rel="canonical" href="https://truyendam.net/"/>
       </head_1.default>
 
       <div className="min-h-screen bg-black text-white px-4 py-6">
@@ -99,7 +100,7 @@ function HomePage() {
                   </p>)}
               </div>
             </div>) : (<>
-            {/* BLOCK 4: Truyện mới cập nhật */}
+              {/* BLOCK 4: Truyện mới cập nhật */}
               <div>
                 <link_1.default href="/latest/page/1">
                   <h2 className="text-2xl font-bold mb-4 text-blue-400 hover:underline">
@@ -166,8 +167,6 @@ function HomePage() {
                   </link_1.default>
                 </div>
               </div>
-
-              
             </>)}
         </div>
       </div>

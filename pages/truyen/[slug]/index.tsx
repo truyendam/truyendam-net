@@ -6,7 +6,8 @@ import { mockStories } from "@/lib/mock/mockStories";
 import mockChapters from "@/lib/mock/mockChapters";
 import Image from "next/image";
 import Link from "next/link";
-import ContinueReading from "@/components/ContinueReading"; // ✅ Đọc tiếp
+import ContinueReading from "@/components/ContinueReading";
+import BottomSuggestBlock from "@/components/BottomSuggestBlock";
 
 function slugify(str: string | undefined): string {
   if (!str) return "";
@@ -23,13 +24,10 @@ export default function StoryDetailPage() {
   const router = useRouter();
   const { slug } = router.query;
   const story = mockStories.find((s) => s.slug === slug);
-
   const chapterObj = mockChapters[slug as string] || {};
   const chapters = Object.values(chapterObj);
-if (typeof slug !== "string") {
-  // Chưa có slug, chờ route, chưa render error
-  return null; // hoặc loading...
-}
+
+  if (typeof slug !== "string") return null;
   if (!story) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-black text-white">
@@ -46,19 +44,10 @@ if (typeof slug !== "string") {
     <>
       <Head>
         <title>{story.title} – Truyện sex cực phê, full cảnh nóng | Truyendam.net</title>
-        <meta
-          name="description"
-          content={`Đọc truyện "${story.title}" cực nóng, cực thấm – thuộc thể loại ${story.tags.join(", ")}. Nội dung gợi cảm, cập nhật miễn phí mỗi ngày.`}
-        />
-        <meta
-          name="keywords"
-          content={`truyện sex, truyện người lớn, truyện 18+, ${story.tags.join(", ")}, ${story.title}`}
-        />
+        <meta name="description" content={`Đọc truyện "${story.title}" cực nóng, cực thấm – thuộc thể loại ${story.tags.join(", " )}. Nội dung gợi cảm, cập nhật miễn phí mỗi ngày.`} />
+        <meta name="keywords" content={`truyện sex, truyện người lớn, truyện 18+, ${story.tags.join(", ")}, ${story.title}`} />
         <meta property="og:title" content={`${story.title} – Truyện sex cực phê`} />
-        <meta
-          property="og:description"
-          content={`${story.title} – truyện người lớn hấp dẫn, đầy cảnh nóng. Click để đọc miễn phí tại Truyendam.net.`}
-        />
+        <meta property="og:description" content={`${story.title} – truyện người lớn hấp dẫn, đầy cảnh nóng. Click để đọc miễn phí tại Truyendam.net.`} />
         <meta property="og:image" content={story.coverImage} />
         <meta property="og:type" content="article" />
         <meta property="og:url" content={`https://truyendam.net/truyen/${story.slug}`} />
@@ -77,13 +66,7 @@ if (typeof slug !== "string") {
 
         {story.coverImage && (
           <div className="w-full sm:w-[480px] h-64 sm:h-80 mx-auto mb-6 relative">
-            <Image
-              src={story.coverImage}
-              alt={story.title}
-              fill
-              className="object-cover rounded-xl shadow"
-              priority
-            />
+            <Image src={story.coverImage} alt={story.title} fill className="object-cover rounded-xl shadow" priority />
           </div>
         )}
 
@@ -132,10 +115,7 @@ if (typeof slug !== "string") {
           <h2 className="text-xl font-bold text-white mb-4 text-center">Danh sách chương</h2>
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
             {chapters.map((ch) => {
-              const isNew =
-                ch.updatedAt &&
-                new Date().getTime() - new Date(ch.updatedAt).getTime() < 3 * 24 * 60 * 60 * 1000;
-
+              const isNew = ch.updatedAt && new Date().getTime() - new Date(ch.updatedAt).getTime() < 3 * 24 * 60 * 60 * 1000;
               return (
                 <Link
                   key={ch.id}
@@ -154,57 +134,12 @@ if (typeof slug !== "string") {
           </div>
         </div>
 
-        {/* ✅ Gợi ý truyện có label dạng link như TOC */}
-        <div className="max-w-3xl mx-auto mt-12 px-2 space-y-12">
-          {/* 🔥 Truyện HOT */}
-          <div>
-            <Link href="/hot/page/1">
-              <h2 className="text-xl font-bold mb-1 text-red-400 hover:underline">🔥 Truyện HOT</h2>
-            </Link>
-            <ul className="list-disc list-inside text-sm text-white space-y-1 mt-2">
-              {mockStories.filter((s) => (s.views || 0) > 5000).slice(0, 3).map((s) => (
-                <li key={s.slug}>
-                  <Link href={`/truyen/${s.slug}`} className="hover:underline text-pink-400">
-                    {s.title}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          {/* ✍️ Truyện sex ngắn */}
-          <div>
-            <Link href="/short/page/1">
-              <h2 className="text-xl font-bold mb-1 text-pink-400 hover:underline">✍️ Truyện sex ngắn</h2>
-            </Link>
-            <ul className="list-disc list-inside text-sm text-white space-y-1 mt-2">
-              {mockStories.filter((s) => s.tags.includes("truyện sex ngắn")).slice(0, 3).map((s) => (
-                <li key={s.slug}>
-                  <Link href={`/truyen/${s.slug}`} className="hover:underline text-pink-400">
-                    {s.title}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          {/* 📚 Truyện dài tập */}
-          <div>
-            <Link href="/long/page/1">
-              <h2 className="text-xl font-bold mb-1 text-purple-400 hover:underline">📚 Truyện dài tập</h2>
-            </Link>
-            <ul className="list-disc list-inside text-sm text-white space-y-1 mt-2">
-              {mockStories.filter((s) => s.tags.includes("truyện dài") || (s.totalChapters || 0) > 3).slice(0, 3).map((s) => (
-                <li key={s.slug}>
-                  <Link href={`/truyen/${s.slug}`} className="hover:underline text-pink-400">
-                    {s.title}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
+        {/* ✅ Gợi ý truyện - đồng bộ với trang tag */}
+        <div className="max-w-3xl mx-auto mt-12 px-2">
+          <BottomSuggestBlock theme="dark" />
         </div>
       </div>
     </>
   );
 }
+
