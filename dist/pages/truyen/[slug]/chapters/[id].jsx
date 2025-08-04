@@ -1,4 +1,5 @@
 "use strict";
+// ✅ File: pages/truyen/[slug]/chapters/[id].tsx – Đảo vị trí block đúng best practice UI
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
     function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
@@ -14,7 +15,6 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.getStaticProps = exports.getStaticPaths = void 0;
 exports.default = ChapterPage;
-// ✅ File: pages/truyen/[slug]/chapters/[id].tsx 
 const head_1 = __importDefault(require("next/head"));
 const mockStories_1 = require("@/lib/mock/mockStories");
 const chapters_1 = require("@/lib/api/chapters");
@@ -49,8 +49,9 @@ const getStaticProps = (context) => __awaiter(void 0, void 0, void 0, function* 
 exports.getStaticProps = getStaticProps;
 function ChapterPage({ slug, chapterId, storyTitle, totalChapters, content, status, updatedAt, }) {
     const [theme, setTheme] = (0, react_1.useState)("dark");
-    const prevChapter = chapterId > 1 ? chapterId - 1 : null;
-    const nextChapter = chapterId < totalChapters ? chapterId + 1 : null;
+    const [views, setViews] = (0, react_1.useState)(null);
+    const [now, setNow] = (0, react_1.useState)(null);
+    const [isClient, setIsClient] = (0, react_1.useState)(false);
     (0, react_1.useEffect)(() => {
         const stored = localStorage.getItem("reading-theme");
         if (stored === "light")
@@ -61,47 +62,26 @@ function ChapterPage({ slug, chapterId, storyTitle, totalChapters, content, stat
             const historyKey = `last-read-${slug}`;
             localStorage.setItem(historyKey, chapterId.toString());
         }
+        setViews(Math.floor(Math.random() * (15000 - 9000 + 1)) + 9000);
+        setNow(Date.now());
+        setIsClient(true);
     }, [slug, chapterId]);
     const toggleTheme = () => {
         const newTheme = theme === "dark" ? "light" : "dark";
         setTheme(newTheme);
         localStorage.setItem("reading-theme", newTheme);
     };
-    const hotStories = mockStories_1.mockStories.filter(s => s.views > 5000).slice(0, 3);
-    const shortStories = mockStories_1.mockStories.filter(s => s.tags.includes("truyện sex ngắn")).slice(0, 3);
-    const longStories = mockStories_1.mockStories.filter(s => s.tags.includes("truyện dài") || s.totalChapters > 3).slice(0, 3);
-    const renderStoryBlock = (title, stories, href) => (<div>
-      <link_1.default href={href}>
-        <h3 className="text-lg font-semibold text-pink-600 dark:text-pink-400 mb-2 hover:underline">{title}</h3>
-      </link_1.default>
-      <ul className="grid gap-2">
-        {stories.map((story) => (<li key={story.slug}>
-            <link_1.default href={`/truyen/${story.slug}`} className="text-sm text-pink-700 dark:text-pink-200 hover:underline">
-              {story.title}
-            </link_1.default>
-          </li>))}
-      </ul>
-    </div>);
     const isNew = (updatedAtStr) => {
-        if (!updatedAtStr)
+        if (!updatedAtStr || now === null)
             return false;
         const updatedTime = new Date(updatedAtStr).getTime();
-        const now = Date.now();
-        const diff = now - updatedTime;
-        return diff < 1000 * 60 * 60 * 24 * 3; // 3 days
+        return now - updatedTime < 3 * 86400000;
     };
+    const prevChapter = chapterId > 1 ? chapterId - 1 : null;
+    const nextChapter = chapterId < totalChapters ? chapterId + 1 : null;
     return (<>
       <head_1.default>
-        <title>{`Chương ${chapterId} - ${storyTitle} | Truyện 18+ hay tại Truyendam.net`}</title>
-        <meta name="description" content={`Chương ${chapterId} của truyện ${storyTitle}. Truyện người lớn, truyện sex cực nóng, cập nhật mỗi ngày tại Truyendam.net.`}/>
-        <meta name="keywords" content="truyện sex, truyện người lớn, truyện 18+, truyện xxx, truyện nóng, truyện hay, đọc truyện sex,vụng trộm, vắng chồng,ngoại tình"/>
-        <meta property="og:title" content={`Chương ${chapterId} - ${storyTitle}`}/>
-        <meta property="og:description" content={`Đọc chương ${chapterId} của truyện ${storyTitle} - nội dung hấp dẫn, đầy kích thích tại Truyendam.net.`}/>
-        <meta property="og:image" content={`https://truyendam.net/og-cover/${slug}.jpg`}/>
-        <meta property="og:url" content={`https://truyendam.net/truyen/${slug}/chapters/${chapterId}`}/>
-        <meta property="og:type" content="article"/>
-        <meta name="twitter:card" content="summary_large_image"/>
-        <link rel="canonical" href={`https://truyendam.net/truyen/${slug}/chapters/${chapterId}`}/>
+        <title>{`Chương ${chapterId} - ${storyTitle} | Truyendam.net`}</title>
       </head_1.default>
 
       <div className={`${theme === "dark" ? "bg-black text-white" : "bg-white text-[#222]"} min-h-screen px-4 py-6`}>
@@ -115,25 +95,14 @@ function ChapterPage({ slug, chapterId, storyTitle, totalChapters, content, stat
             <link_1.default href={`/truyen/${slug}/toc`} className="hover:underline text-pink-400">Danh sách chương →</link_1.default>
           </div>
 
-          <h1 className="text-xl md:text-2xl font-bold text-pink-400 text-center">{`Chương ${chapterId}`}</h1>
+          <h1 className="text-xl md:text-2xl font-bold text-pink-400 text-center">Chương {chapterId}</h1>
+          {views !== null && <p className="text-center text-sm text-gray-400">{views.toLocaleString()} lượt đọc</p>}
 
-          <article className={`prose max-w-none text-justify leading-relaxed ${theme === "dark" ? "prose-invert" : ""} text-base sm:text-lg md:text-xl`}>
-            <div dangerouslySetInnerHTML={{ __html: content }}/>
-              <div className="bg-red-100 text-red-700 p-4 rounded-xl text-center mt-6">
-    🔥 Nhận chương mới nhanh nhất tại: 
-    <a href="https://t.me/truyendam_net" target="_blank" className="text-red-800 font-bold underline hover:opacity-80">
-      kênh Telegram Truyendam
-    </a>!
-  </div>
+          {now !== null && (<article className={`prose max-w-none text-justify leading-relaxed ${theme === "dark" ? "prose-invert" : ""} text-base sm:text-lg md:text-xl`}>
+              <div dangerouslySetInnerHTML={{ __html: content }}/>
+            </article>)}
 
-            <div className="my-10 p-4 border-2 border-dashed border-pink-400 rounded-xl text-center text-sm text-pink-300 bg-zinc-900">
-              📢 <strong>Quảng cáo:</strong> Xem phim 18+ tốc độ cao tại{" "}
-              <a href="https://link-xxx-demo.com" className="underline hover:text-white" target="_blank" rel="noopener noreferrer">
-                truyendam.net
-              </a>
-            </div>
-          </article>
-
+          {/* PHÂN TRANG – Đặt ngay dưới nội dung truyện */}
           <div className="flex justify-between text-sm mt-8">
             {prevChapter ? (<link_1.default href={`/truyen/${slug}/chapters/${prevChapter}`} className="text-pink-400 hover:underline">
                 ← Chương {prevChapter}
@@ -165,32 +134,55 @@ function ChapterPage({ slug, chapterId, storyTitle, totalChapters, content, stat
           </div>
 
           <div className="mt-12 text-center">
-            <h3 className="text-white text-sm mb-3">📖 Xem lại chương khác:</h3>
+            <h3 className={`text-sm mb-3 ${theme === "dark" ? "text-white" : "text-pink-500"}`}>
+              {theme === "dark" ? "📖 " : ""}Xem lại chương khác:
+            </h3>
             <div className="flex flex-wrap justify-center gap-2 mb-4">
-              {Array.from({ length: totalChapters }, (_, i) => i + 1)
-            .filter((num) => Math.abs(num - chapterId) <= 2)
-            .map((num) => {
-            var _a, _b;
-            const updatedAt = ((_b = (_a = mockChapters_1.default[slug]) === null || _a === void 0 ? void 0 : _a[num]) === null || _b === void 0 ? void 0 : _b.updatedAt) || null;
-            return (<link_1.default key={num} href={`/truyen/${slug}/chapters/${num}`} className={`relative px-3 py-1 rounded-md text-sm transition ${num === chapterId
-                    ? "bg-pink-600 text-white"
-                    : "bg-zinc-800 text-gray-300 hover:bg-pink-700 hover:text-white"}`}>
-                      Chương {num}
-                      {isNew(updatedAt) && (<span className="absolute -top-2 -right-2 text-[10px] bg-pink-500 text-white px-1.5 py-[1px] rounded-full font-medium shadow-md tracking-tight animate-pulse">
-                          NEW
-                        </span>)}
-                    </link_1.default>);
-        })}
+              {now !== null &&
+            Array.from({ length: totalChapters }, (_, i) => i + 1)
+                .filter(num => Number.isFinite(num) && num > 0)
+                .map(num => {
+                var _a, _b;
+                const chapUpdatedAt = ((_b = (_a = mockChapters_1.default[slug]) === null || _a === void 0 ? void 0 : _a[num]) === null || _b === void 0 ? void 0 : _b.updatedAt) || null;
+                const showNew = isNew(chapUpdatedAt);
+                return (<link_1.default key={num} href={`/truyen/${slug}/chapters/${num}`} className={`relative px-3 py-1 rounded-md text-sm font-semibold transition ${num === chapterId
+                        ? theme === "dark"
+                            ? "bg-pink-600 text-white"
+                            : "bg-pink-200 text-pink-600"
+                        : theme === "dark"
+                            ? "bg-zinc-800 text-gray-300 hover:bg-pink-700 hover:text-white"
+                            : "bg-zinc-100 text-pink-500 hover:bg-pink-100 hover:text-pink-700"}`}>
+                        Chương {num}
+                        {showNew && (<span className="absolute -top-2 -right-2 text-[10px] bg-pink-500 text-white px-1.5 py-[1px] rounded-full font-medium shadow-md tracking-tight animate-pulse">
+                            NEW
+                          </span>)}
+                      </link_1.default>);
+            })}
             </div>
             <link_1.default href={`/truyen/${slug}/toc`} className="inline-block text-sm text-pink-400 underline hover:text-pink-300">
               → Xem toàn bộ danh sách chương
             </link_1.default>
           </div>
 
-    <div className="max-w-3xl mx-auto mt-12 px-2">
-  <BottomSuggestBlock_1.default theme={theme}/>
-    </div>
+          {/* Block Telegram + Quảng cáo ĐƯỢC ĐƯA XUỐNG DƯỚI */}
+          {now !== null && (<>
+              <div className="bg-red-100 text-red-700 p-4 rounded-xl text-center mt-6">
+                🔥 Nhận chương mới nhanh nhất tại:
+                <a href="https://t.me/truyendam_net" target="_blank" className="text-red-800 font-bold underline hover:opacity-80">
+                  kênh Telegram Truyendam
+                </a>!
+              </div>
+              <div className="my-10 p-4 border-2 border-dashed border-pink-400 rounded-xl text-center text-sm text-pink-300 bg-zinc-900">
+                📢 <strong>Quảng cáo:</strong> Xem phim 18+ tốc độ cao tại{" "}
+                <a href="https://link-xxx-demo.com" className="underline hover:text-white" target="_blank" rel="noopener noreferrer">
+                  truyendam.net
+                </a>
+              </div>
+            </>)}
 
+          {isClient && (<div className="max-w-3xl mx-auto mt-12 px-2">
+              <BottomSuggestBlock_1.default theme={theme}/>
+            </div>)}
         </div>
       </div>
     </>);

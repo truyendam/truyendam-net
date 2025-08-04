@@ -465,6 +465,35 @@ const mockChapters: Record<
       updatedAt: "2025-08-01T11:00:00+09:00"
     },
   },
+
+   //trả nợ cho chồng
+"tra-no-cho-chong": {
+    1: {
+      id: 1,
+      title: "Chương 1",
+      hasMarkdown: true,
+      updatedAt: "2025-08-04T11:00:00+09:00"
+    },
+    2: {
+      id: 2,
+      title: "Chương 2",
+      hasMarkdown: true,
+     updatedAt: "2025-08-04T11:00:00+09:00"
+    },
+    3: {
+      id: 3,
+      title: "Chương 3",
+      hasMarkdown: true,
+     updatedAt: "2025-08-04T11:00:00+09:00"
+    },
+     4: {
+      id: 4,
+      title: "Chương 4",
+      hasMarkdown: true,
+      updatedAt: "2025-08-04T11:00:00+09:00"
+    },
+  },
+
 };
 
 export default mockChapters;

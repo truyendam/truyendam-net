@@ -1,4 +1,4 @@
-// ✅ File: pages/long/page/[page].tsx – Trang truyện dài có phân trang
+// ✅ File: pages/long/page/[page].tsx – fix hydration BottomSuggestBlock bằng client-only render
 import { GetStaticPaths, GetStaticProps } from "next";
 import Head from "next/head";
 import Link from "next/link";
@@ -6,6 +6,7 @@ import Image from "next/image";
 import { mockStories } from "@/lib/mock/mockStories";
 import BottomSuggestBlock from "@/components/BottomSuggestBlock";
 import Pagination from "@/components/Pagination";
+import { useEffect, useState } from "react";
 
 const ITEMS_PER_PAGE = 9;
 
@@ -19,27 +20,28 @@ export default function LongStoriesPage({
   totalPages: number;
 }) {
   const basePath = "/long/page";
+  const [isClient, setIsClient] = useState(false);
+  useEffect(() => setIsClient(true), []);
 
   return (
     <>
       <Head>
-  <title>{`Truyện dài tập – Trang ${page} | Truyendam.net`}</title>
-  <meta
-    name="description"
-    content={`Tổng hợp truyện dài tập gợi cảm, nhiều chương, hấp dẫn. Trang ${page}. Đọc miễn phí tại Truyendam.net`}
-  />
-  <meta name="keywords" content="truyện dài tập, truyện sex nhiều chương, truyện người lớn" />
-  <meta property="og:title" content={`Truyện dài tập – Trang ${page}`} />
-  <meta
-    property="og:description"
-    content={`Tổng hợp truyện dài hấp dẫn, nhiều chương. Trang ${page}. Đọc ngay trên Truyendam.net`}
-  />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content={`https://truyendam.net/long/page/${page}`} />
-  <meta name="twitter:card" content="summary_large_image" />
-  <link rel="canonical" href={`https://truyendam.net/long/page/${page}`} />
-</Head>
-
+        <title>{`Truyện dài tập – Trang ${page} | Truyendam.net`}</title>
+        <meta
+          name="description"
+          content={`Tổng hợp truyện dài tập gợi cảm, nhiều chương, hấp dẫn. Trang ${page}. Đọc miễn phí tại Truyendam.net`}
+        />
+        <meta name="keywords" content="truyện dài tập, truyện sex nhiều chương, truyện người lớn" />
+        <meta property="og:title" content={`Truyện dài tập – Trang ${page}`} />
+        <meta
+          property="og:description"
+          content={`Tổng hợp truyện dài hấp dẫn, nhiều chương. Trang ${page}. Đọc ngay trên Truyendam.net`}
+        />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content={`https://truyendam.net/long/page/${page}`} />
+        <meta name="twitter:card" content="summary_large_image" />
+        <link rel="canonical" href={`https://truyendam.net/long/page/${page}`} />
+      </Head>
 
       <div className="min-h-screen bg-black text-white px-4 py-6 max-w-6xl mx-auto">
         <h1 className="text-2xl md:text-3xl font-bold text-purple-400 mb-6">
@@ -77,10 +79,9 @@ export default function LongStoriesPage({
           <p className="text-zinc-300 italic mb-10">Không có truyện dài nào ở trang này.</p>
         )}
 
-        {/* ✅ PHÂN TRANG */}
         <Pagination currentPage={page} totalPages={totalPages} basePath={basePath} />
 
-        <BottomSuggestBlock theme="dark" />
+        {isClient && <BottomSuggestBlock theme="dark" />}
       </div>
     </>
   );

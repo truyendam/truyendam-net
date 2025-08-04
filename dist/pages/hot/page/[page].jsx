@@ -20,22 +20,24 @@ const image_1 = __importDefault(require("next/image"));
 const mockStories_1 = require("@/lib/mock/mockStories");
 const BottomSuggestBlock_1 = __importDefault(require("@/components/BottomSuggestBlock"));
 const Pagination_1 = __importDefault(require("@/components/Pagination"));
+const react_1 = require("react");
 const ITEMS_PER_PAGE = 9;
 function HotStoriesPage({ stories, page, totalPages }) {
     const basePath = "/hot/page";
+    const [isClient, setIsClient] = (0, react_1.useState)(false);
+    (0, react_1.useEffect)(() => setIsClient(true), []);
     return (<>
       <head_1.default>
-  <title>{`🔥 Truyện HOT – Page ${page} | Truyendam.net`}</title>
-  <meta name="description" content={`Tổng hợp truyện sex HOT nhất hôm nay. Trang ${page}. Nội dung gợi cảm, hấp dẫn, cập nhật liên tục.`}/>
-  <meta name="keywords" content="truyện sex hot, truyện người lớn hot, truyện 18+ hot"/>
-  <meta property="og:title" content={`🔥 Truyện HOT – Page ${page}`}/>
-  <meta property="og:description" content={`Tổng hợp truyện sex HOT hôm nay. Trang ${page}. Truy cập ngay Truyendam.net!`}/>
-  <meta property="og:type" content="website"/>
-  <meta property="og:url" content={`https://truyendam.net/hot/page/${page}`}/>
-  <meta name="twitter:card" content="summary_large_image"/>
-  <link rel="canonical" href={`https://truyendam.net/hot/page/${page}`}/>
-    </head_1.default>
-
+        <title>{`🔥 Truyện HOT – Page ${page} | Truyendam.net`}</title>
+        <meta name="description" content={`Tổng hợp truyện sex HOT nhất hôm nay. Trang ${page}. Nội dung gợi cảm, hấp dẫn, cập nhật liên tục.`}/>
+        <meta name="keywords" content="truyện sex hot, truyện người lớn hot, truyện 18+ hot"/>
+        <meta property="og:title" content={`🔥 Truyện HOT – Page ${page}`}/>
+        <meta property="og:description" content={`Tổng hợp truyện sex HOT hôm nay. Trang ${page}. Truy cập ngay Truyendam.net!`}/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:url" content={`https://truyendam.net/hot/page/${page}`}/>
+        <meta name="twitter:card" content="summary_large_image"/>
+        <link rel="canonical" href={`https://truyendam.net/hot/page/${page}`}/>
+      </head_1.default>
 
       <div className="min-h-screen bg-black text-white px-4 py-6 max-w-6xl mx-auto">
         <h1 className="text-2xl md:text-3xl font-bold text-red-400 mb-6">
@@ -57,10 +59,9 @@ function HotStoriesPage({ stories, page, totalPages }) {
               </link_1.default>))}
           </div>) : (<p className="text-zinc-300 italic mb-10">Không có truyện HOT nào tại thời điểm này.</p>)}
 
-        {/* ✅ PHÂN TRANG */}
         <Pagination_1.default currentPage={page} totalPages={totalPages} basePath={basePath}/>
 
-        <BottomSuggestBlock_1.default theme="dark"/>
+        {isClient && <BottomSuggestBlock_1.default theme="dark"/>}
       </div>
     </>);
 }

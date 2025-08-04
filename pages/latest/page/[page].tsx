@@ -1,4 +1,4 @@
-// ✅ File: pages/latest/page/[page].tsx – Hiển thị truyện mới cập nhật (phân trang)
+// ✅ File: pages/latest/page/[page].tsx – fix hydration BottomSuggestBlock bằng client-only render
 import { GetStaticPaths, GetStaticProps } from "next";
 import Head from "next/head";
 import Link from "next/link";
@@ -6,29 +6,31 @@ import Image from "next/image";
 import { mockStories } from "@/lib/mock/mockStories";
 import BottomSuggestBlock from "@/components/BottomSuggestBlock";
 import Pagination from "@/components/Pagination";
+import { useEffect, useState } from "react";
 
 const ITEMS_PER_PAGE = 9;
 
 export default function LatestPage({ stories, page, totalPages }: { stories: any[]; page: number; totalPages: number }) {
   const basePath = "/latest/page";
+  const [isClient, setIsClient] = useState(false);
+  useEffect(() => setIsClient(true), []);
 
   return (
     <>
       <Head>
-  <title>{`Truyện mới cập nhật – Page ${page} | Truyendam.net`}</title>
-  <meta
-    name="description"
-    content={`Tổng hợp truyện mới cập nhật – những truyện người lớn hấp dẫn, cập nhật thường xuyên. Trang ${page}.`}
-  />
-  <meta name="keywords" content={`truyện sex mới, truyện người lớn mới, truyện cập nhật`} />
-  <meta property="og:title" content={`Truyện mới cập nhật – Page ${page}`} />
-  <meta property="og:description" content={`Truyện mới nhất – trang ${page} – đọc ngay!`} />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content={`https://truyendam.net/latest/page/${page}`} />
-  <meta name="twitter:card" content="summary_large_image" />
-  <link rel="canonical" href={`https://truyendam.net/latest/page/${page}`} />
-</Head>
-
+        <title>{`Truyện mới cập nhật – Page ${page} | Truyendam.net`}</title>
+        <meta
+          name="description"
+          content={`Tổng hợp truyện mới cập nhật – những truyện người lớn hấp dẫn, cập nhật thường xuyên. Trang ${page}.`}
+        />
+        <meta name="keywords" content={`truyện sex mới, truyện người lớn mới, truyện cập nhật`} />
+        <meta property="og:title" content={`Truyện mới cập nhật – Page ${page}`} />
+        <meta property="og:description" content={`Truyện mới nhất – trang ${page} – đọc ngay!`} />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content={`https://truyendam.net/latest/page/${page}`} />
+        <meta name="twitter:card" content="summary_large_image" />
+        <link rel="canonical" href={`https://truyendam.net/latest/page/${page}`} />
+      </Head>
 
       <div className="min-h-screen bg-black text-white px-4 py-6 max-w-6xl mx-auto">
         <h1 className="text-2xl md:text-3xl font-bold text-blue-400 mb-6">🆕 Truyện mới cập nhật</h1>
@@ -64,10 +66,9 @@ export default function LatestPage({ stories, page, totalPages }: { stories: any
           <p className="text-zinc-300 italic mb-10">Không tìm thấy truyện mới nào.</p>
         )}
 
-        {/* ✅ PHÂN TRANG */}
         <Pagination currentPage={page} totalPages={totalPages} basePath={basePath} />
 
-        <BottomSuggestBlock theme="dark" />
+        {isClient && <BottomSuggestBlock theme="dark" />}
       </div>
     </>
   );

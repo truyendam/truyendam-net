@@ -1,21 +1,22 @@
-// ✅ File: pages/tag/[tag]/page/[page].tsx – Hiển thị truyện theo tag kèm phân trang chuẩn route
+// ✅ File: pages/tag/[tag]/page/[page].tsx – fix hydration BottomSuggestBlock bằng client-only render
 import { GetStaticPaths, GetStaticProps } from "next";
 import Head from "next/head";
 import Link from "next/link";
 import Image from "next/image";
 import { mockStories } from "@/lib/mock/mockStories";
 import BottomSuggestBlock from "@/components/BottomSuggestBlock";
+import { useEffect, useState } from "react";
 
 function slugify(text: string | undefined): string {
   if (!text) return "";
   return text
-    .normalize("NFD") // bóc tách dấu
-    .replace(/[̀-ͯ]/g, "") // xóa dấu tiếng Việt
-    .replace(/đ/g, "d") // riêng chữ đ
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .replace(/đ/g, "d")
     .replace(/Đ/g, "D")
     .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-") // thay khoảng trắng và ký tự lạ bằng "-"
-    .replace(/^-+|-+$/g, ""); // xóa đầu cuối "-"
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
 }
 
 function unslugify(slug: string, originalTags: string[]): string {
@@ -26,6 +27,8 @@ const ITEMS_PER_PAGE = 9;
 
 export default function TagPage({ tag, stories, page, totalPages }: { tag: string; stories: any[]; page: number; totalPages: number }) {
   const basePath = `/tag/${slugify(tag)}`;
+  const [isClient, setIsClient] = useState(false);
+  useEffect(() => setIsClient(true), []);
 
   return (
     <>
@@ -43,6 +46,7 @@ export default function TagPage({ tag, stories, page, totalPages }: { tag: strin
         <meta name="twitter:card" content="summary_large_image" />
         <link rel="canonical" href={`https://truyendam.net/tag/${slugify(tag)}/page/${page}`} />
       </Head>
+
       <div className="min-h-screen bg-black text-white px-4 py-6 max-w-6xl mx-auto">
         <h1 className="text-2xl md:text-3xl font-bold text-pink-400 mb-6">
           🏷️ Thể loại: <span className="italic">{tag || "Không xác định"}</span>
@@ -79,7 +83,6 @@ export default function TagPage({ tag, stories, page, totalPages }: { tag: strin
           <p className="text-zinc-300 italic mb-10">Không tìm thấy truyện nào với tag này.</p>
         )}
 
-        {/* ✅ PHÂN TRANG */}
         <div className="flex justify-center space-x-2 mb-10">
           {Array.from({ length: totalPages }, (_, i) => i + 1).map((num) => (
             <Link
@@ -94,7 +97,7 @@ export default function TagPage({ tag, stories, page, totalPages }: { tag: strin
           ))}
         </div>
 
-        <BottomSuggestBlock theme="dark" />
+        {isClient && <BottomSuggestBlock theme="dark" />}
       </div>
     </>
   );
@@ -120,7 +123,6 @@ export const getStaticProps: GetStaticProps = async (context) => {
   const allTags = Array.from(new Set(mockStories.flatMap((s) => s.tags)));
   const tag = unslugify(tagSlug, allTags);
 
-  // Nếu không tìm thấy tag phù hợp thì trả về notFound
   if (!tag || !mockStories.some((s) => s.tags.includes(tag))) {
     return { notFound: true };
   }

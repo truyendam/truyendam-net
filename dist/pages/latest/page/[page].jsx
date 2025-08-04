@@ -20,22 +20,24 @@ const image_1 = __importDefault(require("next/image"));
 const mockStories_1 = require("@/lib/mock/mockStories");
 const BottomSuggestBlock_1 = __importDefault(require("@/components/BottomSuggestBlock"));
 const Pagination_1 = __importDefault(require("@/components/Pagination"));
+const react_1 = require("react");
 const ITEMS_PER_PAGE = 9;
 function LatestPage({ stories, page, totalPages }) {
     const basePath = "/latest/page";
+    const [isClient, setIsClient] = (0, react_1.useState)(false);
+    (0, react_1.useEffect)(() => setIsClient(true), []);
     return (<>
       <head_1.default>
-  <title>{`Truyện mới cập nhật – Page ${page} | Truyendam.net`}</title>
-  <meta name="description" content={`Tổng hợp truyện mới cập nhật – những truyện người lớn hấp dẫn, cập nhật thường xuyên. Trang ${page}.`}/>
-  <meta name="keywords" content={`truyện sex mới, truyện người lớn mới, truyện cập nhật`}/>
-  <meta property="og:title" content={`Truyện mới cập nhật – Page ${page}`}/>
-  <meta property="og:description" content={`Truyện mới nhất – trang ${page} – đọc ngay!`}/>
-  <meta property="og:type" content="website"/>
-  <meta property="og:url" content={`https://truyendam.net/latest/page/${page}`}/>
-  <meta name="twitter:card" content="summary_large_image"/>
-  <link rel="canonical" href={`https://truyendam.net/latest/page/${page}`}/>
-    </head_1.default>
-
+        <title>{`Truyện mới cập nhật – Page ${page} | Truyendam.net`}</title>
+        <meta name="description" content={`Tổng hợp truyện mới cập nhật – những truyện người lớn hấp dẫn, cập nhật thường xuyên. Trang ${page}.`}/>
+        <meta name="keywords" content={`truyện sex mới, truyện người lớn mới, truyện cập nhật`}/>
+        <meta property="og:title" content={`Truyện mới cập nhật – Page ${page}`}/>
+        <meta property="og:description" content={`Truyện mới nhất – trang ${page} – đọc ngay!`}/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:url" content={`https://truyendam.net/latest/page/${page}`}/>
+        <meta name="twitter:card" content="summary_large_image"/>
+        <link rel="canonical" href={`https://truyendam.net/latest/page/${page}`}/>
+      </head_1.default>
 
       <div className="min-h-screen bg-black text-white px-4 py-6 max-w-6xl mx-auto">
         <h1 className="text-2xl md:text-3xl font-bold text-blue-400 mb-6">🆕 Truyện mới cập nhật</h1>
@@ -55,10 +57,9 @@ function LatestPage({ stories, page, totalPages }) {
               </link_1.default>))}
           </div>) : (<p className="text-zinc-300 italic mb-10">Không tìm thấy truyện mới nào.</p>)}
 
-        {/* ✅ PHÂN TRANG */}
         <Pagination_1.default currentPage={page} totalPages={totalPages} basePath={basePath}/>
 
-        <BottomSuggestBlock_1.default theme="dark"/>
+        {isClient && <BottomSuggestBlock_1.default theme="dark"/>}
       </div>
     </>);
 }

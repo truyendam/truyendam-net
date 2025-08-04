@@ -20,22 +20,24 @@ const image_1 = __importDefault(require("next/image"));
 const mockStories_1 = require("@/lib/mock/mockStories");
 const BottomSuggestBlock_1 = __importDefault(require("@/components/BottomSuggestBlock"));
 const Pagination_1 = __importDefault(require("@/components/Pagination"));
+const react_1 = require("react");
 const ITEMS_PER_PAGE = 9;
 function LongStoriesPage({ stories, page, totalPages, }) {
     const basePath = "/long/page";
+    const [isClient, setIsClient] = (0, react_1.useState)(false);
+    (0, react_1.useEffect)(() => setIsClient(true), []);
     return (<>
       <head_1.default>
-  <title>{`Truyện dài tập – Trang ${page} | Truyendam.net`}</title>
-  <meta name="description" content={`Tổng hợp truyện dài tập gợi cảm, nhiều chương, hấp dẫn. Trang ${page}. Đọc miễn phí tại Truyendam.net`}/>
-  <meta name="keywords" content="truyện dài tập, truyện sex nhiều chương, truyện người lớn"/>
-  <meta property="og:title" content={`Truyện dài tập – Trang ${page}`}/>
-  <meta property="og:description" content={`Tổng hợp truyện dài hấp dẫn, nhiều chương. Trang ${page}. Đọc ngay trên Truyendam.net`}/>
-  <meta property="og:type" content="website"/>
-  <meta property="og:url" content={`https://truyendam.net/long/page/${page}`}/>
-  <meta name="twitter:card" content="summary_large_image"/>
-  <link rel="canonical" href={`https://truyendam.net/long/page/${page}`}/>
-    </head_1.default>
-
+        <title>{`Truyện dài tập – Trang ${page} | Truyendam.net`}</title>
+        <meta name="description" content={`Tổng hợp truyện dài tập gợi cảm, nhiều chương, hấp dẫn. Trang ${page}. Đọc miễn phí tại Truyendam.net`}/>
+        <meta name="keywords" content="truyện dài tập, truyện sex nhiều chương, truyện người lớn"/>
+        <meta property="og:title" content={`Truyện dài tập – Trang ${page}`}/>
+        <meta property="og:description" content={`Tổng hợp truyện dài hấp dẫn, nhiều chương. Trang ${page}. Đọc ngay trên Truyendam.net`}/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:url" content={`https://truyendam.net/long/page/${page}`}/>
+        <meta name="twitter:card" content="summary_large_image"/>
+        <link rel="canonical" href={`https://truyendam.net/long/page/${page}`}/>
+      </head_1.default>
 
       <div className="min-h-screen bg-black text-white px-4 py-6 max-w-6xl mx-auto">
         <h1 className="text-2xl md:text-3xl font-bold text-purple-400 mb-6">
@@ -57,10 +59,9 @@ function LongStoriesPage({ stories, page, totalPages, }) {
               </link_1.default>))}
           </div>) : (<p className="text-zinc-300 italic mb-10">Không có truyện dài nào ở trang này.</p>)}
 
-        {/* ✅ PHÂN TRANG */}
         <Pagination_1.default currentPage={page} totalPages={totalPages} basePath={basePath}/>
 
-        <BottomSuggestBlock_1.default theme="dark"/>
+        {isClient && <BottomSuggestBlock_1.default theme="dark"/>}
       </div>
     </>);
 }

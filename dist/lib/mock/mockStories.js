@@ -1,8 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.mockStories = void 0;
-// ⭐ File: lib/mock/mockStories.js – Danh sách truyện flagship chuẩn SEO cho Truyendam.net
-const generateFakeViews_1 = require("../utils/generateFakeViews");
 exports.mockStories = [
     //01. Đời sinh viên
     {
@@ -21,7 +19,8 @@ exports.mockStories = [
         ],
         coverImage: "/images/doi-sinh-vien/cover.jpg",
         totalChapters: 8,
-        views: (0, generateFakeViews_1.generateFakeViews)(9000, 15000),
+        //views: generateFakeViews(9000, 15000),
+        views: 13488,
         status: "ongoing",
         updatedAt: "2025-07-25",
     },
@@ -41,7 +40,8 @@ exports.mockStories = [
         ],
         coverImage: "/images/khong-the-quen/khong-the-quen.jpg",
         totalChapters: 13,
-        views: (0, generateFakeViews_1.generateFakeViews)(9000, 15000),
+        //views: generateFakeViews(9000, 15000),
+        views: 33484,
         status: "ongoing",
         updatedAt: "2025-07-04",
     },
@@ -61,7 +61,8 @@ exports.mockStories = [
         ],
         coverImage: "/images/chong-sap-cuoi-cam-sung/cover.jpg",
         totalChapters: 3,
-        views: (0, generateFakeViews_1.generateFakeViews)(9000, 15000),
+        //views: generateFakeViews(9000, 15000),
+        views: 34521,
         status: "ongoing",
         updatedAt: "2025-07-07"
     },
@@ -81,7 +82,8 @@ exports.mockStories = [
         ],
         coverImage: "/images/chi-bi-mat-nhe/cover.jpg",
         totalChapters: 4,
-        views: (0, generateFakeViews_1.generateFakeViews)(6000, 10000),
+        //views: generateFakeViews(6000, 10000),
+        views: 18790,
         status: "ongoing",
         updatedAt: "2025-07-14",
     },
@@ -102,7 +104,8 @@ exports.mockStories = [
         ],
         coverImage: "/images/lac-loi-pickleball/cover.jpg",
         totalChapters: 5,
-        views: (0, generateFakeViews_1.generateFakeViews)(7000, 13000),
+        //views: generateFakeViews(7000, 13000),
+        views: 54678,
         status: "ongoing",
         updatedAt: "2025-07-09",
     },
@@ -122,7 +125,8 @@ exports.mockStories = [
         ],
         coverImage: "/images/cong-nhan-samsung/cover.jpg",
         totalChapters: 9,
-        views: (0, generateFakeViews_1.generateFakeViews)(5000, 20000),
+        //views: generateFakeViews(5000, 20000),
+        views: 98870,
         status: "ongoing",
         updatedAt: "2025-07-21"
     },
@@ -144,7 +148,8 @@ exports.mockStories = [
         ],
         coverImage: "/images/nguoi-yeu-thang-ban/cover.jpg",
         totalChapters: 3,
-        views: (0, generateFakeViews_1.generateFakeViews)(3000, 80000),
+        //views: generateFakeViews(3000, 80000),
+        views: 23145,
         status: "ongoing",
         updatedAt: "2025-07-15"
     },
@@ -164,7 +169,8 @@ exports.mockStories = [
         ],
         coverImage: "/images/ban-toi-xin-loi/cover.jpg",
         totalChapters: 1,
-        views: (0, generateFakeViews_1.generateFakeViews)(3000, 15000),
+        //views: generateFakeViews(3000, 15000),
+        views: 45312,
         status: "ongoing",
         updatedAt: "2025-07-16"
     },
@@ -184,7 +190,8 @@ exports.mockStories = [
         ],
         coverImage: "/images/giao-vien-tieng-nhat/cover.jpg",
         totalChapters: 6,
-        views: (0, generateFakeViews_1.generateFakeViews)(3000, 15000),
+        // views: generateFakeViews(3000, 15000),
+        views: 67321,
         status: "ongoing",
         updatedAt: "2025-07-17"
     },
@@ -205,7 +212,8 @@ exports.mockStories = [
         ],
         coverImage: "/images/gap-lai-nguoi-yeu-cu/cover.jpg",
         totalChapters: 5,
-        views: (0, generateFakeViews_1.generateFakeViews)(3000, 15000),
+        //views: generateFakeViews(3000, 15000),
+        views: 54367,
         status: "ongoing",
         updatedAt: "2025-07-17",
     },
@@ -225,7 +233,8 @@ exports.mockStories = [
         ],
         coverImage: "/images/sales-bds/cover.jpg",
         totalChapters: 5,
-        views: (0, generateFakeViews_1.generateFakeViews)(3000, 15000),
+        //views: generateFakeViews(3000, 15000),
+        views: 67543,
         status: "ongoing",
         updatedAt: "2025-07-22",
     },
@@ -247,7 +256,8 @@ exports.mockStories = [
         ],
         coverImage: "/images/trai-mien-nui/cover.jpg",
         totalChapters: 5,
-        views: (0, generateFakeViews_1.generateFakeViews)(3000, 15000),
+        //views: generateFakeViews(3000, 15000),
+        views: 87890,
         status: "ongoing",
         updatedAt: "2025-07-23",
     },
@@ -270,7 +280,8 @@ exports.mockStories = [
         ],
         coverImage: "/images/sep-cua-chong/cover.jpg",
         totalChapters: 1,
-        views: (0, generateFakeViews_1.generateFakeViews)(3000, 15000),
+        // views: generateFakeViews(3000, 15000),
+        views: 45672,
         status: "ongoing",
         updatedAt: "2025-07-24",
     },
@@ -292,7 +303,8 @@ exports.mockStories = [
         ],
         coverImage: "/images/chuyen-cong-tac-bat-on/cover.jpg",
         totalChapters: 2,
-        views: (0, generateFakeViews_1.generateFakeViews)(3000, 15000),
+        //views: generateFakeViews(3000, 15000),
+        views: 34562,
         status: "ongoing",
         updatedAt: "2025-07-25T08:00:00.000Z",
     },
@@ -314,7 +326,8 @@ exports.mockStories = [
         ],
         coverImage: "/images/vo-chu-quan-karaoke/cover.jpg",
         totalChapters: 6,
-        views: (0, generateFakeViews_1.generateFakeViews)(3000, 15000),
+        //views: generateFakeViews(3000, 15000),
+        views: 34599,
         status: "ongoing",
         updatedAt: "2025-07-29T08:00:00.000Z",
     },
@@ -338,7 +351,8 @@ exports.mockStories = [
         ],
         coverImage: "/images/vung-trom-xom-tro/cover.jpg",
         totalChapters: 7, // Cập nhật đúng số chương
-        views: (0, generateFakeViews_1.generateFakeViews)(7000, 17000), // tăng nhẹ khi thêm flagship
+        //views: generateFakeViews(7000, 17000), // tăng nhẹ khi thêm flagship
+        views: 76890,
         status: "ongoing",
         updatedAt: "2025-07-30"
     },
@@ -371,8 +385,42 @@ exports.mockStories = [
         ],
         coverImage: "/images/vo-va-hai-nguoi-ban-than/cover.jpg",
         totalChapters: 8,
-        views: (0, generateFakeViews_1.generateFakeViews)(6000, 17000),
+        //views: generateFakeViews(6000, 17000),
+        views: 45189,
         status: "ongoing",
         updatedAt: "2025-08-01"
+    },
+    //trả nợ cho chồng
+    {
+        slug: "tra-no-cho-chong",
+        title: "Trả Nợ Cho Chồng – Truyện Sex 18+ Bán Vợ Cắm Sừng, Chủ Nợ Địt Vợ con nợ, Cuckold POV Flagship",
+        description: "Flagship sex dài tập, tâm lý cực mạnh về một cô vợ trẻ bị chồng dồn vào đường cùng, phải bán thân cho chủ nợ xã hội đen để cứu gia đình. Toàn bộ cảnh sex cắm sừng, POV chồng mọc sừng, cảnh địt ban ngày, bị phá trinh miệng, địt tới bến, vợ bị cưỡng hiếp dần chuyển sang nghiện, chồng vừa đau vừa nghiện lén xem vợ bị người khác chén. Tất cả escalation cảm xúc – thể xác đều lên đến cực điểm. Đọc truyện sex bán vợ, cắm sừng, cuckold POV flagship chỉ có tại Truyendam.net",
+        tags: [
+            "truyện sex flagship",
+            "bán vợ trả nợ",
+            "cắm sừng chồng",
+            "truyện sex xã hội đen",
+            "vợ bị bạn thân chồng địt",
+            "truyện sex cuckold",
+            "truyện sex POV",
+            "truyện sex tâm lý mạnh",
+            "vợ mọc sừng",
+            "sex cưỡng hiếp",
+            "vợ bị bán",
+            "sex group Việt Nam",
+            "flagship cắm sừng",
+            "truyện sex dài tập",
+            "POV chồng xem vợ bị địt",
+            "truyện sex Việt Nam",
+            "sex group flagship",
+            "Truyendam flagship",
+            "Truyendam"
+        ],
+        coverImage: "/images/tra-no-cho-chong/cover.jpg",
+        totalChapters: 4,
+        //views: generateFakeViews(6000, 19000),
+        views: 87890,
+        status: "ongoing",
+        updatedAt: "2025-08-04"
     },
 ];

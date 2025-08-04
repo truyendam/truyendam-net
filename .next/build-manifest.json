@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/Fo0Y70_XcNvy46Cbihu8F/_buildManifest.js",
-    "static/Fo0Y70_XcNvy46Cbihu8F/_ssgManifest.js"
+    "static/NjMx-LxV0McUWBuCbW0Sx/_buildManifest.js",
+    "static/NjMx-LxV0McUWBuCbW0Sx/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
@@ -15,14 +15,14 @@
       "static/chunks/framework-5429a50ba5373c56.js",
       "static/chunks/main-930135e47dff83e9.js",
       "static/chunks/675-9fcdb742a32f88a7.js",
-      "static/chunks/182-729d25c2b0458d83.js",
+      "static/chunks/182-6097741995eb2ba3.js",
       "static/chunks/pages/index-d94477e364143c36.js"
     ],
     "/_app": [
       "static/chunks/webpack-8fa1640cc84ba8fe.js",
       "static/chunks/framework-5429a50ba5373c56.js",
       "static/chunks/main-930135e47dff83e9.js",
-      "static/css/b79204a226cc7ff9.css",
+      "static/css/a55b7b8b8941b540.css",
       "static/chunks/pages/_app-968e6027912b418c.js"
     ],
     "/_error": [
@@ -42,16 +42,16 @@
       "static/chunks/framework-5429a50ba5373c56.js",
       "static/chunks/main-930135e47dff83e9.js",
       "static/chunks/675-9fcdb742a32f88a7.js",
-      "static/chunks/182-729d25c2b0458d83.js",
-      "static/chunks/pages/hot/page/[page]-d8849b858952588e.js"
+      "static/chunks/182-6097741995eb2ba3.js",
+      "static/chunks/pages/hot/page/[page]-763907e07be1482a.js"
     ],
     "/latest/page/[page]": [
       "static/chunks/webpack-8fa1640cc84ba8fe.js",
       "static/chunks/framework-5429a50ba5373c56.js",
       "static/chunks/main-930135e47dff83e9.js",
       "static/chunks/675-9fcdb742a32f88a7.js",
-      "static/chunks/182-729d25c2b0458d83.js",
-      "static/chunks/pages/latest/page/[page]-d918e3be715c2bc7.js"
+      "static/chunks/182-6097741995eb2ba3.js",
+      "static/chunks/pages/latest/page/[page]-90b3317ce6943ede.js"
     ],
     "/lien-he": [
       "static/chunks/webpack-8fa1640cc84ba8fe.js",
@@ -64,16 +64,16 @@
       "static/chunks/framework-5429a50ba5373c56.js",
       "static/chunks/main-930135e47dff83e9.js",
       "static/chunks/675-9fcdb742a32f88a7.js",
-      "static/chunks/182-729d25c2b0458d83.js",
-      "static/chunks/pages/long/page/[page]-84460451e04b0813.js"
+      "static/chunks/182-6097741995eb2ba3.js",
+      "static/chunks/pages/long/page/[page]-e54a72024fe9bc31.js"
     ],
     "/short/page/[page]": [
       "static/chunks/webpack-8fa1640cc84ba8fe.js",
       "static/chunks/framework-5429a50ba5373c56.js",
       "static/chunks/main-930135e47dff83e9.js",
       "static/chunks/675-9fcdb742a32f88a7.js",
-      "static/chunks/182-729d25c2b0458d83.js",
-      "static/chunks/pages/short/page/[page]-60a8ec1b56e6f800.js"
+      "static/chunks/182-6097741995eb2ba3.js",
+      "static/chunks/pages/short/page/[page]-6f6171e0a927cbcf.js"
     ],
     "/tag/[tag]": [
       "static/chunks/webpack-8fa1640cc84ba8fe.js",
@@ -86,15 +86,15 @@
       "static/chunks/framework-5429a50ba5373c56.js",
       "static/chunks/main-930135e47dff83e9.js",
       "static/chunks/675-9fcdb742a32f88a7.js",
-      "static/chunks/182-729d25c2b0458d83.js",
-      "static/chunks/pages/tag/[tag]/page/[page]-b6f7d039bd9512ea.js"
+      "static/chunks/182-6097741995eb2ba3.js",
+      "static/chunks/pages/tag/[tag]/page/[page]-aa8607c30725c92c.js"
     ],
     "/truyen": [
       "static/chunks/webpack-8fa1640cc84ba8fe.js",
       "static/chunks/framework-5429a50ba5373c56.js",
       "static/chunks/main-930135e47dff83e9.js",
       "static/chunks/675-9fcdb742a32f88a7.js",
-      "static/chunks/182-729d25c2b0458d83.js",
+      "static/chunks/182-6097741995eb2ba3.js",
       "static/chunks/pages/truyen-0a486e1b328d1916.js"
     ],
     "/truyen/[slug]": [
@@ -102,23 +102,25 @@
       "static/chunks/framework-5429a50ba5373c56.js",
       "static/chunks/main-930135e47dff83e9.js",
       "static/chunks/675-9fcdb742a32f88a7.js",
-      "static/chunks/182-729d25c2b0458d83.js",
-      "static/chunks/pages/truyen/[slug]-c0cbaf5acd3946fd.js"
+      "static/chunks/182-6097741995eb2ba3.js",
+      "static/chunks/876-b246843e0584cf88.js",
+      "static/chunks/pages/truyen/[slug]-36f14a595631e0c3.js"
     ],
     "/truyen/[slug]/chapters/[id]": [
       "static/chunks/webpack-8fa1640cc84ba8fe.js",
       "static/chunks/framework-5429a50ba5373c56.js",
       "static/chunks/main-930135e47dff83e9.js",
-      "static/chunks/182-729d25c2b0458d83.js",
-      "static/chunks/pages/truyen/[slug]/chapters/[id]-68ef6cc429b4b848.js"
+      "static/chunks/182-6097741995eb2ba3.js",
+      "static/chunks/pages/truyen/[slug]/chapters/[id]-2634dbe0e0016ed6.js"
     ],
     "/truyen/[slug]/toc": [
       "static/chunks/webpack-8fa1640cc84ba8fe.js",
       "static/chunks/framework-5429a50ba5373c56.js",
       "static/chunks/main-930135e47dff83e9.js",
       "static/chunks/675-9fcdb742a32f88a7.js",
-      "static/chunks/182-729d25c2b0458d83.js",
-      "static/chunks/pages/truyen/[slug]/toc-a9be3fc5cc13536d.js"
+      "static/chunks/182-6097741995eb2ba3.js",
+      "static/chunks/876-b246843e0584cf88.js",
+      "static/chunks/pages/truyen/[slug]/toc-71f9262d3895e60c.js"
     ]
   },
   "ampFirstPages": []

@@ -1,4 +1,4 @@
-// ✅ File: pages/hot/page/[page].tsx – Hiển thị truyện HOT có views > 5000 kèm phân trang
+// ✅ File: pages/hot/page/[page].tsx – fix hydration BottomSuggestBlock bằng client-only render
 import { GetStaticPaths, GetStaticProps } from "next";
 import Head from "next/head";
 import Link from "next/link";
@@ -6,29 +6,31 @@ import Image from "next/image";
 import { mockStories } from "@/lib/mock/mockStories";
 import BottomSuggestBlock from "@/components/BottomSuggestBlock";
 import Pagination from "@/components/Pagination";
+import { useEffect, useState } from "react";
 
 const ITEMS_PER_PAGE = 9;
 
 export default function HotStoriesPage({ stories, page, totalPages }: { stories: any[]; page: number; totalPages: number }) {
   const basePath = "/hot/page";
+  const [isClient, setIsClient] = useState(false);
+  useEffect(() => setIsClient(true), []);
 
   return (
     <>
       <Head>
-  <title>{`🔥 Truyện HOT – Page ${page} | Truyendam.net`}</title>
-  <meta
-    name="description"
-    content={`Tổng hợp truyện sex HOT nhất hôm nay. Trang ${page}. Nội dung gợi cảm, hấp dẫn, cập nhật liên tục.`}
-  />
-  <meta name="keywords" content="truyện sex hot, truyện người lớn hot, truyện 18+ hot" />
-  <meta property="og:title" content={`🔥 Truyện HOT – Page ${page}`} />
-  <meta property="og:description" content={`Tổng hợp truyện sex HOT hôm nay. Trang ${page}. Truy cập ngay Truyendam.net!`} />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content={`https://truyendam.net/hot/page/${page}`} />
-  <meta name="twitter:card" content="summary_large_image" />
-  <link rel="canonical" href={`https://truyendam.net/hot/page/${page}`} />
-</Head>
-
+        <title>{`🔥 Truyện HOT – Page ${page} | Truyendam.net`}</title>
+        <meta
+          name="description"
+          content={`Tổng hợp truyện sex HOT nhất hôm nay. Trang ${page}. Nội dung gợi cảm, hấp dẫn, cập nhật liên tục.`}
+        />
+        <meta name="keywords" content="truyện sex hot, truyện người lớn hot, truyện 18+ hot" />
+        <meta property="og:title" content={`🔥 Truyện HOT – Page ${page}`} />
+        <meta property="og:description" content={`Tổng hợp truyện sex HOT hôm nay. Trang ${page}. Truy cập ngay Truyendam.net!`} />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content={`https://truyendam.net/hot/page/${page}`} />
+        <meta name="twitter:card" content="summary_large_image" />
+        <link rel="canonical" href={`https://truyendam.net/hot/page/${page}`} />
+      </Head>
 
       <div className="min-h-screen bg-black text-white px-4 py-6 max-w-6xl mx-auto">
         <h1 className="text-2xl md:text-3xl font-bold text-red-400 mb-6">
@@ -66,10 +68,9 @@ export default function HotStoriesPage({ stories, page, totalPages }: { stories:
           <p className="text-zinc-300 italic mb-10">Không có truyện HOT nào tại thời điểm này.</p>
         )}
 
-        {/* ✅ PHÂN TRANG */}
         <Pagination currentPage={page} totalPages={totalPages} basePath={basePath} />
 
-        <BottomSuggestBlock theme="dark" />
+        {isClient && <BottomSuggestBlock theme="dark" />}
       </div>
     </>
   );

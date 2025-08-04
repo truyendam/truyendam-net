@@ -19,17 +19,18 @@ const link_1 = __importDefault(require("next/link"));
 const image_1 = __importDefault(require("next/image"));
 const mockStories_1 = require("@/lib/mock/mockStories");
 const BottomSuggestBlock_1 = __importDefault(require("@/components/BottomSuggestBlock"));
+const react_1 = require("react");
 function slugify(text) {
     if (!text)
         return "";
     return text
-        .normalize("NFD") // bóc tách dấu
-        .replace(/[̀-ͯ]/g, "") // xóa dấu tiếng Việt
-        .replace(/đ/g, "d") // riêng chữ đ
+        .normalize("NFD")
+        .replace(/[̀-ͯ]/g, "")
+        .replace(/đ/g, "d")
         .replace(/Đ/g, "D")
         .toLowerCase()
-        .replace(/[^a-z0-9]+/g, "-") // thay khoảng trắng và ký tự lạ bằng "-"
-        .replace(/^-+|-+$/g, ""); // xóa đầu cuối "-"
+        .replace(/[^a-z0-9]+/g, "-")
+        .replace(/^-+|-+$/g, "");
 }
 function unslugify(slug, originalTags) {
     return originalTags.find((tag) => slugify(tag) === slug) || "";
@@ -37,6 +38,8 @@ function unslugify(slug, originalTags) {
 const ITEMS_PER_PAGE = 9;
 function TagPage({ tag, stories, page, totalPages }) {
     const basePath = `/tag/${slugify(tag)}`;
+    const [isClient, setIsClient] = (0, react_1.useState)(false);
+    (0, react_1.useEffect)(() => setIsClient(true), []);
     return (<>
       <head_1.default>
         <title>{`Truyện ${tag || "undefined"} – Page ${page} | Truyendam.net`}</title>
@@ -49,6 +52,7 @@ function TagPage({ tag, stories, page, totalPages }) {
         <meta name="twitter:card" content="summary_large_image"/>
         <link rel="canonical" href={`https://truyendam.net/tag/${slugify(tag)}/page/${page}`}/>
       </head_1.default>
+
       <div className="min-h-screen bg-black text-white px-4 py-6 max-w-6xl mx-auto">
         <h1 className="text-2xl md:text-3xl font-bold text-pink-400 mb-6">
           🏷️ Thể loại: <span className="italic">{tag || "Không xác định"}</span>
@@ -69,14 +73,13 @@ function TagPage({ tag, stories, page, totalPages }) {
               </link_1.default>))}
           </div>) : (<p className="text-zinc-300 italic mb-10">Không tìm thấy truyện nào với tag này.</p>)}
 
-        {/* ✅ PHÂN TRANG */}
         <div className="flex justify-center space-x-2 mb-10">
           {Array.from({ length: totalPages }, (_, i) => i + 1).map((num) => (<link_1.default key={num} href={`${basePath}/page/${num}`} className={`px-3 py-1 rounded border text-sm ${num === page ? "bg-pink-500 text-white" : "bg-zinc-800 text-zinc-300 hover:bg-zinc-700"}`}>
               {num}
             </link_1.default>))}
         </div>
 
-        <BottomSuggestBlock_1.default theme="dark"/>
+        {isClient && <BottomSuggestBlock_1.default theme="dark"/>}
       </div>
     </>);
 }
@@ -99,7 +102,6 @@ const getStaticProps = (context) => __awaiter(void 0, void 0, void 0, function* 
     const pageStr = (_b = context.params) === null || _b === void 0 ? void 0 : _b.page;
     const allTags = Array.from(new Set(mockStories_1.mockStories.flatMap((s) => s.tags)));
     const tag = unslugify(tagSlug, allTags);
-    // Nếu không tìm thấy tag phù hợp thì trả về notFound
     if (!tag || !mockStories_1.mockStories.some((s) => s.tags.includes(tag))) {
         return { notFound: true };
     }
