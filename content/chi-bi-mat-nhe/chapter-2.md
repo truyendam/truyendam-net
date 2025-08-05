@@ -10,7 +10,8 @@ Dương quay người, áp sát hơn, mũi chạm nhẹ vào gáy Linh. Chị kh
 <br></br>
 Dương dán mặt vào gáy chị. Tóc Linh thơm mùi dầu gội, còn da thì nóng ran như đang sốt. Cậu khẽ rướn lên, áp môi vào gáy – chạm nhẹ – như sợ đánh thức một cơn mê. Linh khẽ rùng mình, bắp đùi co lại một chút, nhưng không rút ra. Ngược lại… chị còn cong người hơn, như vô thức dâng mông về phía cậu. Nhưng hơi thở của chị bắt đầu dài hơn, nặng nề và không đều – không còn giống một người đang ngủ.
 <br></br>
-<img src="/images/chong-sap-cuoi-cam-sung/trang.jpg" alt="Linh"/>
+<img src="/images/chong-sap-cuoi-cam-sung/trang.jpg" alt="ảnh sex vợ ngoại tình, gái Việt, phòng trọ, Truyendam.net" loading="lazy" style="max-width:100%;border-radius:10px;margin:10px auto;display:block;">
+<!-- ảnh sex vợ ngoại tình, truyện sex phòng trọ, gái Việt, sex nhẹ nhàng, Truyendam.net -->
 <br></br>
 Tay Dương dừng lại ở hông, do dự. Nhưng sự im lặng của Linh – hay đúng hơn là sự không phản đối – khiến cậu thêm can đảm. Cậu lùa tay qua lớp khăn, chạm thẳng vào da thịt nóng rẫy phía dưới. Chưa lần nào Dương dám tưởng tượng về cơ thể thật của chị. Nhưng bây giờ… cVừa sợ vừa hứng, nó đua tay xoa nhẹ lên khe đít chị qua lớp quần lót và nghe ngóng. Không thấy phản ứng gì. Nó một tay sục chim một tay nhẹ nhàng sờ lồn chị.
 <br></br>
