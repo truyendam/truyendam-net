@@ -115,3 +115,15 @@ Chị đứng dậy vào nhà vệ sinh mấy phúc sau chị ra chẳng nề h�
 <br></br>
 Nó ngồi xuống góc giường co ro, quần vẫn quên chưa mặc vì sợ, bây giờ nó thấy lạnh rồi.
 
+<!-- truyện sex vợ bạn, vợ bạn ngon quá, hiếp dâm vợ bạn tại nhà, bạn chồng đụ vợ, truyện sex sinh viên, truyện sex xóm trọ,truyện sex hiếp dâm,truyện 18+,Truyện sex người lớn, Truyendam.net -->
+<br></br><br></br>
+<p>
+  📢 Gợi ý truyện hay : 
+  <a href="https://truyendam.net/truyen/chi-bi-mat-nhe" 
+     target="_blank" 
+     title="Truyện sex người lớn, truyện 18+ tại Truyendam.net"
+     style="text-decoration: underline; color: #0070f3;"
+  >
+    Chị...Bí mật nhé
+  </a>
+</p>

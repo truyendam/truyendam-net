@@ -56,5 +56,17 @@ Tối đó, vừa thủ dâm xong mà chưa hết bứt rứt, Hoàn liều mìn
 Gửi tin xong, tim Hoàn đập thình thịch, hồi hộp chờ phản ứng.<br></br>
 
 Bên kia, Phương vừa lên đỉnh, màn hình điện thoại vẫn là cảnh đôi JAV Nhật đang chén nhau thì bất ngờ nhận được tin nhắn zalo của Hoàn. Đọc xong mà cô như bừng tỉnh, luống cuống, đỏ bừng cả mặt, chẳng kịp nghĩ gì chỉ vội để lại một icon xấu hổ🙈 rồi ném điện thoại sang một bên, tim vẫn đập thình thịch không dứt.
-<!-- truyện sex ngoại tình, truyện sex flagship, vợ bị trai trẻ chén, vợ ngoại tình với hàng xóm, truyện sex Việt Nam, sex cắm sừng, chồng đi vắng vợ bị hiếp, sex mưa bão, chồng bị cắm sừng, flagship sex Việt, web truyện sex 2025 -->
+<!-- truyện sex vợ bạn, vợ bạn ngon quá, hiếp dâm vợ bạn tại nhà, bạn chồng đụ vợ, truyện sex sinh viên, truyện sex xóm trọ,truyện sex hiếp dâm,truyện 18+,Truyện sex người lớn, Truyendam.net -->
+<br></br><br></br>
+<p>
+  📢 Gợi ý truyện hay : 
+  <a href="https://truyendam.net/truyen/chi-bi-mat-nhe" 
+     target="_blank" 
+     title="Truyện sex người lớn, truyện 18+ tại Truyendam.net"
+     style="text-decoration: underline; color: #0070f3;"
+  >
+    Chị...Bí mật nhé
+  </a>
+</p>
+
 

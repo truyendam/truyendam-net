@@ -145,3 +145,16 @@ Sau khi lau xong, Dương kéo chăn lên đắp cho cả hai, rồi vòng tay �
 Linh không trả lời. Nhưng bàn tay chị chạm nhẹ lên tay cậu, siết một cái thật khẽ. Như một lời hứa. Như một bí mật.
 <br></br>
 Ngoài kia, mưa phùn vẫn rơi lặng lẽ. Trong này, hai thân thể quyện chặt, rã rời – nhưng tim thì vừa mới bắt đầu khẽ đập vì nhau...
+
+<!-- bạn chồng đụ vợ, truyện sex sinh viên, truyện sex xóm trọ,truyện sex hiếp dâm,truyện 18+,Truyện sex người lớn, Truyendam.net -->
+<br></br><br></br>
+<p>
+  📢 Gợi ý truyện hay : 
+  <a href="https://truyendam.net/truyen/chi-bi-mat-nhe" 
+     target="_blank" 
+     title="Truyện sex người lớn, truyện 18+ tại Truyendam.net"
+     style="text-decoration: underline; color: #0070f3;"
+  >
+    Chị...Bí mật nhé
+  </a>
+</p>

@@ -448,5 +448,38 @@ exports.mockStories = [
         views: 34890,
         status: "ongoing",
         updatedAt: "2025-08-05"
+    },
+    // anh trai vắng nhà
+    {
+        slug: "anh-trai-vang-nha",
+        title: "Anh Trai Vắng Nhà – Truyện Sex Gia Đình Cấm Kỵ, Escalation Flagship Max Level",
+        description: "Đọc full bộ truyện sex cấm kỵ: chị dâu – em chồng, bạn thân chồng – cảnh some 3 người cực mạnh, flagship escalation từng chương. Cảnh sex flagship 18+: doggy, cưỡng hiếp, mút liếm, chén tập thể, khẩu dâm, tâm lý forbidden, aftersex day dứt – tất cả chỉ có tại Truyendam.net! Truyện nổi bật với cốt truyện forbidden, escalation tâm lý thật, nhiều cảnh sex cực chi tiết, ngôn từ nóng bỏng, đọc tới đâu thèm tới đó.",
+        tags: [
+            "truyện sex gia đình",
+            "chị dâu em chồng",
+            "chồng đi công tác",
+            "cảnh sex flagship",
+            "forbidden",
+            "truyện sex 3p",
+            "some tập thể",
+            "em chồng chén chị dâu",
+            "bạn thân chồng",
+            "truyện sex hay",
+            "flagship sex",
+            "trai trẻ",
+            "truyện sex dài tập",
+            "drama sex",
+            "truyện sex việt",
+            "truyện 18+ mới nhất",
+            "khẩu dâm",
+            "chén tập thể",
+            "aftersex",
+            "Truyendam"
+        ],
+        coverImage: "/images/anh-trai-vang-nha/cover.jpg",
+        totalChapters: 8,
+        views: 58240,
+        status: "completed",
+        updatedAt: "2025-08-06"
     }
 ];

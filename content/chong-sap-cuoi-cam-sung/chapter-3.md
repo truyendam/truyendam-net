@@ -124,7 +124,18 @@ Cánh cửa khép lại. Không một lời chào. Không một cái ngoái đ�
 
 Cô bước ra ánh nắng, tô lại son môi, chỉnh lại mái tóc. Như thể chưa từng có gì xảy ra. Như thể cô vẫn là cô – người vợ sắp cưới hoàn hảo.<br></br>
 
-----------------------Còn Tiếp----------------------<br></br>
+----------------------Còn Tiếp----------------------
 
 <!-- truyện sex vợ bạn, vợ bạn ngon quá, hiếp dâm vợ bạn tại nhà, bạn chồng đụ vợ, truyện sex sinh viên, truyện sex xóm trọ,truyện sex hiếp dâm,truyện 18+,Truyện sex người lớn, Truyendam.net -->
+<br></br>
+<p>
+  📢 Gợi ý truyện hay : 
+  <a href="https://truyendam.net/truyen/doi-sinh-vien" 
+     target="_blank" 
+     title="Truyện sex người lớn, truyện 18+ tại Truyendam.net"
+     style="text-decoration: underline; color: #0070f3;"
+  >
+    Đời Sinh Viên
+  </a>
+</p>
 

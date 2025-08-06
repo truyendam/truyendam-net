@@ -3,7 +3,8 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/": "pages/index.js",
-  "/truyen/[slug]/chapters/[id]": "pages/truyen/[slug]/chapters/[id].js",
-  "/long/page/[page]": "pages/long/page/[page].js",
-  "/truyen/[slug]/toc": "pages/truyen/[slug]/toc.js"
+  "/truyen/[slug]": "pages/truyen/[slug].js",
+  "/truyen/[slug]/toc": "pages/truyen/[slug]/toc.js",
+  "/tag/[tag]/page/[page]": "pages/tag/[tag]/page/[page].js",
+  "/truyen/[slug]/chapters/[id]": "pages/truyen/[slug]/chapters/[id].js"
 }

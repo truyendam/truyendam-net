@@ -79,3 +79,16 @@ Cậu cố gắng nghĩ đến điều gì khác… nhưng mùi da ấm của Li
 Linh không quay lại. Nhưng chị biết rõ hơi ấm phía sau mình, và một thứ đang cộm lên dần dần. Bất giác… chị siết đùi lại, như để giữ cảm giác đó lâu hơn.
 <br></br>
 Qua lại mấy câu chị đã chìm vào giấc ngủ với tiếng thở đều đều sau một ngày mệt mỏi. Mắt nó cũng đổ sập xuống rồi chìm vào giấc ngủ ham muốn…
+
+<!-- truyện sex vợ bạn, vợ bạn ngon quá, hiếp dâm vợ bạn tại nhà, bạn chồng đụ vợ, truyện sex sinh viên, truyện sex xóm trọ,truyện sex hiếp dâm,truyện 18+,Truyện sex người lớn, Truyendam.net -->
+<br></br><br></br>
+<p>
+  📢 Gợi ý truyện hay : 
+  <a href="https://truyendam.net/truyen/chi-bi-mat-nhe" 
+     target="_blank" 
+     title="Truyện sex người lớn, truyện 18+ tại Truyendam.net"
+     style="text-decoration: underline; color: #0070f3;"
+  >
+    Chị...Bí mật nhé
+  </a>
+</p>
