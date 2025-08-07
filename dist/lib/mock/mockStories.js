@@ -481,5 +481,38 @@ exports.mockStories = [
         views: 58240,
         status: "completed",
         updatedAt: "2025-08-06"
+    },
+    //Vợ vào khách sạn với nam sinh viên sau khi chơi pickleball
+    {
+        slug: "Vo-vao-khach-san-voi-nam-sinh-vien-sau-khi-choi-Pickleball",
+        title: "Vợ Chơi Pickleball – Ngoại Tình Với Trai Trẻ Sau Buổi Thể Thao",
+        description: "Bộ truyện sex 18+ flagship: vợ nhân viên đi chơi thể thao, mồ hôi nhễ nhại, rồi lén hẹn gặp trai trẻ vào nhà nghỉ. Cảnh sex chi tiết: bú mút, liếm lồn, chén tư thế doggy – vợ vừa sợ bị phát hiện, vừa nghiện cảm giác bị chén trong nhà vệ sinh và khách sạn. Đỉnh cao tâm lý ngoại tình: camera quay lại, chồng phát hiện, dẫn tới cảnh đối chất – sex trong ghen, bắt vợ kể lại từng cảnh bị trai trẻ địt. Truyện escalation flagship cực mạnh, nhiều cảnh ướt át và tâm lý đau đáu cấm kỵ – chỉ có tại Truyendam.net!",
+        tags: [
+            "truyện sex vợ nhân viên",
+            "trai trẻ",
+            "ngoại tình",
+            "pickleball",
+            "truyện sex có camera",
+            "truyện sex 18+",
+            "truyện sex người lớn",
+            "truyện sex nhà nghỉ",
+            "vợ ngoại tình",
+            "sex trong nhà vệ sinh",
+            "truyện sex flagship",
+            "truyện sex tâm lý",
+            "cuckold ngầm",
+            "sex ghen tuông",
+            "truyện sex có thật",
+            "truyện sex vợ bị phát hiện",
+            "địt vợ người khác",
+            "truyện sex việt",
+            "drama sex",
+            "Truyendam"
+        ],
+        coverImage: "/images/Vo-vao-khach-san-voi-nam-sinh-vien-sau-khi-choi-Pickleball/cover.jpg",
+        totalChapters: 6,
+        views: 68450,
+        status: "ongoing",
+        updatedAt: "2025-08-07"
     }
 ];
