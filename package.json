@@ -2,13 +2,13 @@
   "name": "truyendam-net",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "gen-sitemap": "ts-node scripts/generateSitemap.ts",
-    "gen:sitemap": "npx rimraf dist && npx tsc && node dist/scripts/generateSitemap.js"
-  },
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start -p 3000 -H 0.0.0.0",
+  "gen-sitemap": "ts-node scripts/generateSitemap.ts",
+  "gen:sitemap": "npx rimraf dist && npx tsc && node dist/scripts/generateSitemap.js"
+},
   "dependencies": {
     "marked": "^16.0.0",
     "next": "14.1.0",
