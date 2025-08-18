@@ -99,6 +99,13 @@ Thúy chỉ khẽ rên lên, cơ thể cong nhẹ về phía trước, đón l�
 "Ah... Công ơi... chậm thôi... em... em nhớ cảm giác này..."
 <br>
 Tiếng da thịt va chạm nhè nhẹ vang lên giữa ban công, xen lẫn trong tiếng gió luồn qua những tán lá, ánh nắng sớm rọi xuống làm cơ thể họ như ánh lên sắc vàng ấm. Trên cao, vài chú chim nhỏ lích chích gọi nhau, còn dưới chân họ, sàn gạch mát lạnh như đối lập hoàn toàn với hơi nóng đang bốc lên giữa hai thân thể quấn chặt.<br>
+<br>👉 Xem ảnh liên quan: <a href="https://anhsexviet.info" 
+     target="_blank" 
+     title="ảnh sex người lớn, ảnh sex 18+ tại anhsexviet.info"
+     style="text-decoration: underline; color: #0070f3;">
+    anhsexviet.info
+  </a>
+  </br>
 Hòa cùng nhạc nền du dương, khiến cảnh tượng như một bản hoà tấu cấm kỵ. Cô siết lấy hai thanh lan can, thân mình nhấp theo từng cú dập, bộ ngực trần lắc lư nhịp nhàng theo từng cú thúc sâu. Tay Công trượt lên, bóp lấy bầu ngực mềm mại, ngón tay mân mê đầu nhũ căng cứng. Anh túm nhẹ một mớ tóc cô, kéo ngửa đầu về sau để dập được sâu hơn. Thúy rên rỉ thành tiếng, hơi thở vỡ vụn trong khoái cảm mãnh liệt:
 <br>
 "Ư... sâu quá... Công... mạnh lên chút nữa..."

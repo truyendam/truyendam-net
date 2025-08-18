@@ -473,7 +473,6 @@ exports.mockStories = [
             "truyện 18+ mới nhất",
             "khẩu dâm",
             "chén tập thể",
-            "aftersex",
             "Truyendam"
         ],
         coverImage: "/images/anh-trai-vang-nha/cover.jpg",
@@ -485,7 +484,7 @@ exports.mockStories = [
     //Vợ vào khách sạn với nam sinh viên sau khi chơi pickleball
     {
         slug: "Vo-vao-khach-san-voi-nam-sinh-vien-sau-khi-choi-Pickleball",
-        title: "Vợ Chơi Pickleball – Ngoại Tình Với Trai Trẻ Sau Buổi Thể Thao",
+        title: "Vợ vào khách sạn với nam sinh viên sau khi chơi pickleball",
         description: "Bộ truyện sex 18+ flagship: vợ nhân viên đi chơi thể thao, mồ hôi nhễ nhại, rồi lén hẹn gặp trai trẻ vào nhà nghỉ. Cảnh sex chi tiết: bú mút, liếm lồn, chén tư thế doggy – vợ vừa sợ bị phát hiện, vừa nghiện cảm giác bị chén trong nhà vệ sinh và khách sạn. Đỉnh cao tâm lý ngoại tình: camera quay lại, chồng phát hiện, dẫn tới cảnh đối chất – sex trong ghen, bắt vợ kể lại từng cảnh bị trai trẻ địt. Truyện escalation flagship cực mạnh, nhiều cảnh ướt át và tâm lý đau đáu cấm kỵ – chỉ có tại Truyendam.net!",
         tags: [
             "truyện sex vợ nhân viên",
@@ -514,5 +513,38 @@ exports.mockStories = [
         views: 68450,
         status: "ongoing",
         updatedAt: "2025-08-07"
+    },
+    // Bố chồng nàng dâu
+    {
+        slug: "bo-chong-nang-dau",
+        title: "Bố Chồng Nàng Dâu – Đỉnh Cao sex Loạn Luân Cấm Kỵ",
+        description: "Bộ truyện sex loạn luân 18+ truyên sex hot nhất 2025: Nàng dâu trẻ xinh đẹp, bị chồng yếu sinh lý bỏ bê, khát khao được yêu thương và lấp đầy. Bố chồng góa vợ lâu năm, bản năng đàn ông bị bỏ đói trỗi dậy từng ngày. Hàng loạt cảnh sex cực mạnh: liếm lồn, bú ti, mút cặc, cưỡng hiếp nhẹ, chén flagship nhiều tư thế – mút lồn, cưỡi ngựa, bắn tinh tràn lồn, nuốt tinh, after-sex tội lỗi. Cảm xúc escalation, nội tâm giằng xé – nghiện sex cấm kỵ đến mức không quay đầu. Twist cuối: nàng dâu mang thai, chỉ hai người biết đứa con thực sự là của ai… Truyện sex tâm lý loạn luân – flagship cực mạnh, ướt át nhất năm – chỉ có tại Truyendam.net!",
+        tags: [
+            "truyện sex loạn luân",
+            "bố chồng nàng dâu",
+            "truyện sex flagship",
+            "cấm kỵ", "truyện sex dài",
+            "truyện sex việt",
+            "truyện sex gia đình",
+            "sex chồng yếu sinh lý",
+            "bố chồng chén con dâu",
+            "liếm lồn",
+            "mút cặc",
+            "nuốt tinh",
+            "sex cưỡng nhẹ",
+            "chén vụng trộm",
+            "truyện sex có thật",
+            "sex tội lỗi",
+            "truyện sex tâm lý",
+            "truyện sex hot 2025",
+            "sex nghiện",
+            "đẻ con với bố chồng",
+            "truyendam", "truyện sex hay", "truyện loạn luân",
+        ],
+        coverImage: "/images/bo-chong-nang-dau/cover.jpg",
+        totalChapters: 5,
+        views: 92130,
+        status: "ongoing",
+        updatedAt: "2025-08-18"
     }
 ];

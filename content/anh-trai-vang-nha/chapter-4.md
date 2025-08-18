@@ -83,7 +83,13 @@ Dũng lại dựng cặc lên, lật ngửa Hà ra, lần này để Hà cưỡi
 Hà vừa ngại ngùng vừa phấn khích, tay vịn ngực Dũng, tay còn lại vịn vào thành giường, từ từ ngồi xuống nuốt trọn cặc em chồng.Cảm giác cặc to nóng hổi nhồi sâu vào tận trong khiến Hà không giữ nổi tiếng rên. Cô bắt đầu nhún chậm, rồi nhanh dần, cả thân thể rung lên, hai vú đong đưa trước mặt Dũng.<br></br>
 
 Dũng bóp lấy mông chị dâu, vừa vỗ vừa kéo sát xuống, ngửa cổ liếm vú, cắn nhẹ đầu ti. Hà rên rỉ, đầu lắc lư, mồ hôi nhỏ giọt xuống ngực, nước nhờn từ lồn trào ra hòa lẫn tinh trùng của hai người.<br></br>
-
+<br>👉 Xem ảnh liên quan: <a href="https://anhsexviet.info" 
+     target="_blank" 
+     title="ảnh sex người lớn, ảnh sex 18+ tại anhsexviet.info"
+     style="text-decoration: underline; color: #0070f3;">
+    anhsexviet.info
+  </a>
+  </br>
 “Chị tuyệt quá… nhún mạnh nữa đi… cho em xuất hết lần nữa nào…”Dũng thúc hông lên, phối hợp cùng nhịp nhún của Hà, hai tay vừa bóp vú vừa kéo mông, động tác cuồng loạn.<br></br>
 
 Cuối cùng, cả hai cùng gồng mình lên đỉnh, Dũng siết chặt eo Hà, phóng một dòng tinh nóng nữa thật sâu vào bên trong. Hà rên thất thanh, người co giật từng hồi, nước nhờn và tinh trùng trào ra thành dòng dài nhỏ xuống đùi.<br></br>

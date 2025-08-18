@@ -107,8 +107,14 @@ Nó đưa tay xuống cạp quần chị, đặt tay vào mu lồn chị. Như b
 
 Nó vẫn gim chặt tay ở đấy, tiện đà nó hôn luôn môi chị, chị vội né nhưng không kịp. Dứt nụ hôn, nó khẽ thì thào: Em chỉ ở bên ngoài thôi.<br></br>
 
-Chị đành nằm yên cho nó sờ. Bên ngoài thôi mà – Chị nghĩ thầm.<br></br>
-
+Chị đành nằm yên cho nó sờ. Bên ngoài thôi mà – Chị nghĩ thầm.
+<br>👉 Xem ảnh liên quan: <a href="https://anhsexviet.info" 
+     target="_blank" 
+     title="ảnh sex người lớn, ảnh sex 18+ tại anhsexviet.info"
+     style="text-decoration: underline; color: #0070f3;">
+    anhsexviet.info
+  </a>
+  </br>
 Tay chị dần lỏng, nó xoa lên mu lồn chị, cảm giác êm êm, gồ gề chỗ lõm, chỗ nhô thật tuyệt vời.Nó cảm nhận rõ từng sợ lông của chị bên trong và hơn hết là nó thấy rõ chị đang rất ướt <br></br>
 
 Nó đưa tay xuống sâu hơn, miết mạnh từ dưới lỗ hậm môn chị ngược lên bướm mấy lần, mu chị như ưỡn lên một chút đồng tình.<br></br>

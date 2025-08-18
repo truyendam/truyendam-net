@@ -37,8 +37,13 @@ Nó lim dim mắt, tận hưởng cảm giác quyền lực tuyệt đối, tay 
 Chị bò lên người nó, đặt lồn vào cạ lên thân cặc, day day tận hưởng, nước lồn chảy tràn.<br></br>
 
 
-Nó vít cổ chị, kéo vào một nụ hôn sâu dài bất tận, lưỡi quấn lấy lưỡi, nước bọt hòa quyện.Chị run rẩy, vừa xấu hổ vừa cuồng si, tay vẫn không ngừng bóp cặc nó.<br></br>
-
+Nó vít cổ chị, kéo vào một nụ hôn sâu dài bất tận, lưỡi quấn lấy lưỡi, nước bọt hòa quyện.Chị run rẩy, vừa xấu hổ vừa cuồng si, tay vẫn không ngừng bóp cặc nó.<br>👉 Xem ảnh liên quan: <a href="https://anhsexviet.info" 
+     target="_blank" 
+     title="ảnh sex người lớn, ảnh sex 18+ tại anhsexviet.info"
+     style="text-decoration: underline; color: #0070f3;">
+    anhsexviet.info
+  </a>
+  </br>
 
 Chị cầm chim nó, kê vào cửa mình, mắt hơi lưỡng lự:<br></br>
 
