@@ -71,8 +71,14 @@ Dũng lại dựng cặc lên, lần này Hà chủ động quay lưng lại, ch
 
 “Em địt đi… địt mạnh vào… chị chết mất… sướng quá…”<br></br>
 
-Lần này, Dũng thúc liên hồi, hai tay bóp vú, vừa vỗ mông vừa kéo sát vào, Hà co giật, lên đỉnh liên tiếp, nước lồn và tinh trùng hòa quyện nhỏ xuống sàn thành dòng.<br></br>
-
+Lần này, Dũng thúc liên hồi, hai tay bóp vú, vừa vỗ mông vừa kéo sát vào, Hà co giật, lên đỉnh liên tiếp, nước lồn và tinh trùng hòa quyện nhỏ xuống sàn thành dòng.
+<br>👉 <a href="https://anhsexviet.info" 
+     target="_blank" 
+     title="ảnh sex người lớn, ảnh sex 18+ tại anhsexviet.info"
+     style="text-decoration: underline; color: #0070f3;">
+    chi tiết ảnh sex
+  </a>
+  </br>
 Cả hai kiệt sức, Dũng bế Hà ra khỏi phòng tắm, đặt lên giường.Hà gục xuống, toàn thân run rẩy, ngực phập phồng, hơi thở gấp gáp, mắt nhắm nghiền, thân thể nóng rực, cảm giác lâng lâng khoái cảm vẫn còn lan tỏa trong từng thớ thịt.<br></br>
 
 Dũng nằm cạnh, vòng tay ôm siết lấy Hà, cả hai còn chưa kịp hoàn hồn thì bỗng điện thoại của Dũng rung lên báo tin nhắn mới.<br></br>

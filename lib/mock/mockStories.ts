@@ -292,23 +292,33 @@ export const mockStories = [
     description:
       "Chuyến nghỉ mát cùng công ty chồng đã khiến Thu, người vợ ngoan nhưng dâm ngầm, lần đầu tiên được hai người đàn ông vầy vò tới bến – tận hưởng cảm giác ngoại tình, bị chiếm đoạt và bùng nổ dục vọng. One-shot mạnh, xóc cực, cảnh sex chi tiết, cảnh bắn tinh lên mặt, khẩu dâm, ngực rung, đọc là 'ra nước'! Đọc flagship tại Truyendam.net.",
     tags: [
-      "one-shot ngoại tình",
-      "ngoại tình",
-      "truyện sex ngắn",
-      "sếp chồng",
-      "truyện dâm",
-      "chồng yếu sinh lý",
-      "flagship",
-      "đụ vợ nhân viên",
-      "làm tình tay ba",
-      "Truyendam"
+     "truyện sex ngoại tình",
+    "bí mật của vợ",
+    "truyện sex flagship",
+    "nhật ký sex",
+    "truyện sex dài tập",
+    "vợ từng bị địt",
+    "mút cặc",
+    "sex phòng trọ",
+    "mất trinh",
+    "bạn trai cũ",
+    "nuốt tinh",
+    "sex hiếp nhẹ",
+    "truyện sex tâm lý",
+    "sex ngoại hạng",
+    "sex với sếp",
+    "truyện sex có thật",
+    "sex cấm kỵ",
+    "sex người lớn 18+",
+    "truyendam",
+    "sex cực mạnh",
+    "truyện sex hot 2025"
     ],
     coverImage: "/images/sep-cua-chong/cover.jpg",
-    totalChapters: 1,
-   // views: generateFakeViews(3000, 15000),
+    totalChapters: 3,
     views: 45672, 
    status: "ongoing",
-    updatedAt: "2025-07-24",
+    updatedAt: "2025-08-20",
   },
 
   //14. Chuyến công tác bất ổn
@@ -585,7 +595,43 @@ tags: [
   views: 92130,
   status: "ongoing",
   updatedAt: "2025-08-18"
+},
+// Bí mật của vợ
+{
+  slug: "bi-mat-cua-vo",
+  title: "Bí Mật Của Vợ – Nhật Ký Ngoại Tình",
+  description:
+    "Truyện sex 18+ flagship viral nhất 2025: Hôn nhân tưởng như hoàn hảo, người chồng trẻ bất ngờ phát hiện cuốn nhật ký cũ của vợ – hé lộ quá khứ bùng nổ dục vọng, sex tới bến với bạn trai cũ và cả những lần vụng trộm khó tin trong phòng trọ sinh viên. Cảnh sex escalation cực mạnh: mút cặc, mất trinh, nuốt tinh, chén trong nhà nghỉ, bị bạn cùng phòng hiếp nhẹ – chi tiết như phim, ngôn từ cực nóng. Tâm lý đàn ông đọc nhật ký vợ – vừa ghen vừa nứng vừa phải nuốt nhục làm như không biết gì. Twist flagship: Nhật ký chưa hết, còn hàng loạt bí mật về các lần sex với sếp, đồng nghiệp khi yêu xa! Bộ truyện sex tâm lý – ngoại tình – flagship dài tập, hot nhất năm – chỉ có tại Truyendam.net!",
+  tags: [
+    "truyện sex ngoại tình",
+    "bí mật của vợ",
+    "truyện sex flagship",
+    "nhật ký sex",
+    "truyện sex dài tập",
+    "vợ từng bị địt",
+    "mút cặc",
+    "sex phòng trọ",
+    "mất trinh",
+    "bạn trai cũ",
+    "nuốt tinh",
+    "sex hiếp dâm",
+    "truyện sex tâm lý",
+    "sex ngoại hạng",
+    "sex với sếp",
+    "truyện sex có thật",
+    "sex cấm kỵ",
+    "sex người lớn 18+",
+    "truyendam",
+    "sex cực mạnh",
+    "truyện sex hot 2025"
+  ],
+  coverImage: "/images/bi-mat-cua-vo/cover.jpg",
+  totalChapters: 9,
+  views: 81740,
+  status: "ongoing",
+  updatedAt: "2025-08-21"
 }
+
 
 
 

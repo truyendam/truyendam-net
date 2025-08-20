@@ -68,7 +68,13 @@ Hùng chưa chịu buông, nhanh chóng xoay Linh lại, ôm ghì sát vào lòn
 Hùng vùi mặt vào ngực Linh, vừa mút vừa cắn, hai tay xoa bóp không ngừng, miệng thì thầm bên tai:
 
 "Cặp vú này tối qua nhìn em cưỡi trên thằng Nam mà anh chỉ muốn chồm lên bóp nát... Bây giờ mới được bóp cho đã tay."
-
+<br>👉 <a href="https://anhsexviet.info" 
+     target="_blank" 
+     title="ảnh sex người lớn, ảnh sex 18+ tại anhsexviet.info"
+     style="text-decoration: underline; color: #0070f3;">
+    chi tiết ảnh sex
+  </a>
+  </br>
 Linh vừa được hôn vừa được massage vú, người lại nóng rực, bụng dưới giật từng đợt khoái cảm. Đây là lần đầu tiên cô xuất xong mà vẫn còn thèm đến thế, vừa rên vừa bấu lấy lưng Hùng, cảm giác cả ngực lẫn lồn đều run lên vì sung sướng tột cùng.
 
 Cả hai vẫn đứng dính sát vào nhau, tinh dịch từ lồn Linh tràn ra dọc đùi, nhỏ thành vệt trên sàn bếp.  

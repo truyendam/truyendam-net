@@ -46,7 +46,13 @@ Nam nghe vợ mình rên loạn, mắt long lanh, miệng gào xin địt mạnh
 Mỗi nhịp dập, mỗi tiếng rên, tiếng thịt vỗ vang trong loa đều khiến Nam run lên vì phê, bàn tay không dừng lại nổi. Đỉnh điểm là khi Hùng kéo Linh quỳ giữa hai thằng bạn, thay nhau nhét cặc vào miệng, tiếng "chụt chụt" dâm loạn vọng ra rõ mồn một, Nam vừa xóc vừa tưởng tượng chính mình đang đứng đó, chứng kiến vợ mình bị hai thằng bạn địt tới bến, nước dâm nước dãi bắn tung tóe khắp mặt.
 
 Khi cả hai cùng bắn tinh lên mặt  Linh liếm sạch từng giọt, Nam không chịu nổi nữa, co giật bắn tinh trong quần, người run bần bật, vừa nhục vừa sướng, vừa thấy mình biến thái, vừa mê đắm không dứt.
-
+<br>👉 <a href="https://anhsexviet.info" 
+     target="_blank" 
+     title="ảnh sex người lớn, ảnh sex 18+ tại anhsexviet.info"
+     style="text-decoration: underline; color: #0070f3;">
+    chi tiết ảnh sex
+  </a>
+  </br>
 Cảm giác vừa nhục vừa nghiện ấy cứ dâng lên không có lối thoát...
 <!-- full cảnh sex group flagship, truyện sex chồng xem vợ bị địt bạn thân, sex drama tâm lý dài tập, flagship Truyendam.net, truyện sex Việt cực mạnh, cuckold POV, vợ ngoại tình group sex -->
 

@@ -64,7 +64,13 @@ Hùng gầm lên, cắm sâu hết cỡ, dòng tinh nóng hổi phun trào vào 
 Cả hai ôm nhau vật vã trên giường, hơi thở dồn dập, tay Hùng vuốt nhẹ lên má Linh, thì thầm:
 
 — "Anh sẽ bên cạnh em khi em cần… chỉ cần nhắn cho anh thôi…"
-
+<br>👉 <a href="https://anhsexviet.info" 
+     target="_blank" 
+     title="ảnh sex người lớn, ảnh sex 18+ tại anhsexviet.info"
+     style="text-decoration: underline; color: #0070f3;">
+    chi tiết ảnh sex
+  </a>
+  </br>
 Linh nhắm mắt, nước mắt lăn xuống má – vừa sướng, vừa tủi, vừa thỏa mãn đến mức không còn biết đúng sai là gì nữa. Toàn bộ căn phòng vẫn phảng phất mùi dâm thủy, mồ hôi, tinh dịch và bí mật…
 
 Cả hai nằm ôm nhau thêm một lúc, hơi thở vẫn còn phập phồng, thân thể dính nhớp, mùi dâm thủy và tinh dịch vấn vít khắp da thịt. Hùng mặc lại quần áo, quay sang vuốt má Linh, ánh mắt đầy thỏa mãn. Linh chỉ mặc độc chiếc áo thun dài, bên dưới trần trụi, khẽ kéo vạt áo che phần đùi ướt, rồi rón rén mở cửa tiễn Hùng ra về. Nam vẫn nằm trên sopha, miệng khò khè ngủ say, không biết gì.

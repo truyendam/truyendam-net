@@ -36,9 +36,13 @@ Hùng bế bổng Linh lên, để cô ngồi hẳn lên người, hai tay giữ
 — “Sướng… sướng hơn nhiều… anh cứ địt em thế này nữa đi…”
 
 Tiếng rên, tiếng dập vang vọng ra tận sopha. Nam ngoài này càng nghe càng cứng, tay tự trườn xuống dưới, nắm lấy cặc xóc theo nhịp.Anh hình dung rõ mồn một cảnh Hùng địt Linh phành phạch, con cặc lớn trượt ra vào lồn vợ mình, nước dâm dính đầy mép, Linh uốn éo rên rỉ xin thêm.
-<br></br>
-👉 Xem ảnh sex: anhsexviet.info (https://anhsexviet.info)
-<br></br>
+<br>👉 <a href="https://anhsexviet.info" 
+     target="_blank" 
+     title="ảnh sex người lớn, ảnh sex 18+ tại anhsexviet.info"
+     style="text-decoration: underline; color: #0070f3;">
+    chi tiết ảnh sex
+  </a>
+  </br>
 Đến lúc trong phòng, Hùng thúc mạnh, gầm lên xuất tinh vào sâu bên trong lồn Linh, thì ngoài này Nam cũng xóc mạnh, bắn tinh đầy trong quần, người run lên từng đợt.Tim đập điên loạn, mồ hôi vã ra, nhưng cảm giác khoái lạc xen lẫn nhục nhã cuốn anh không dứt ra được.
 
 Những ngày sau, Nam không dừng lại được nữa.

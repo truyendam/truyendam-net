@@ -22,7 +22,13 @@ Cơ thể Hà lúc nào cũng nhừ ra, hai chân mềm nhũn, cái lồn sưng 
 
  Có hôm từ sáng tới tối Hà chẳng mặc nổi lấy một mảnh quần áo nào cho ra hồn, hoặc có chăng chỉ là cái áo thun mỏng dính, không mặc áo ngực, bên dưới thì chẳng buồn mặc quần sịp. <br></br>
 
-Đầu vú lộ rõ sau lớp vải, thỉnh thoảng đi qua là Tuấn hay Dũng lại bóp, lại véo, lại cúi xuống ngậm vào mút lấy mút để, nước nhờn giữa hai đùi Hà đã ướt sẵn cả ngày chỉ chờ có người vồ lấy địt tiếp. <br></br>
+Đầu vú lộ rõ sau lớp vải, thỉnh thoảng đi qua là Tuấn hay Dũng lại bóp, lại véo, lại cúi xuống ngậm vào mút lấy mút để, nước nhờn giữa hai đùi Hà đã ướt sẵn cả ngày chỉ chờ có người vồ lấy địt tiếp. <br>👉 <a href="https://anhsexviet.info" 
+     target="_blank" 
+     title="ảnh sex người lớn, ảnh sex 18+ tại anhsexviet.info"
+     style="text-decoration: underline; color: #0070f3;">
+    chi tiết ảnh sex
+  </a>
+  </br>
 
 Đến lúc này, bản thân Hà còn chẳng biết mình là ai nữa, chỉ biết mỗi khi nghe tiếng thở gấp, tiếng kéo khóa quần là giữa hai đùi lại ướt dầm, bản năng dâm loạn trỗi dậy, khát được cả hai thằng dập cùng một lúc.<br></br>
 

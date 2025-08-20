@@ -80,31 +80,34 @@ Anh ta thì thầm vào tai Trang, cô không nói gì chỉ  lắc nhẹ đầu
 
 Trên giường massage, Trang cong lưng, đôi chân run rẩy.Ngực ưỡng cao như mời gọi. miệng thì rên thành tiếng ư...mút mạnh nữa vào đi anh.... em sướng....<br></br>
 
-"Giờ em muốn anh làm gì nào..." hắn tinh nghịch nói.<br><br></br>
+"Giờ em muốn anh làm gì nào..." hắn tinh nghịch nói.<br></br>
 
 "Cho vào em đi....Vào đi....ự ự ự"<br></br>
 
 Hắn dùng 2 tay cầm 2 chân cô banh nhẹ ra lựa lựa đầu khấc ấn nhẹ vào rồi rút ra mỗi lần như vậy Trang lại rên những tiếng rên cự dâm đãng.<br></br>
 
-Mỗi cú nhấn đều mạnh hơn đêm đầu. Anh ta thì thầm lời tục tĩu vào tai cô, và cô… cũng không còn ngượng ngùng.<br><br></br>
+Mỗi cú nhấn đều mạnh hơn đêm đầu. Anh ta thì thầm lời tục tĩu vào tai cô, và cô… cũng không còn ngượng ngùng.<br></br>
 
-"Em xuống đây để cho anh dập như này đúng không?Em nghiện con cu của anh rồi đúng không???"<br><br></br>
+"Em xuống đây để cho anh dập như này đúng không?Em nghiện con cu của anh rồi đúng không???"<br></br>
 
 Trang cũng thi thào đáp lại:"Dập mạnh vào anh ơi, dập lát lồn em đi..." Những câu nói khẩu dâm chẳng còn ngại ngùng gì nữa. họ sex đủ các tư thế trên giường massa, khi thì Trang đứng chân xuống dưới đất để cho hắn đứng sau mà dập, mỗi cú dập sâu tận tử cung đều khiến cho Trang như mê muội miệng chỉ còn phát ra những tiếng rên rỉ dâm đãng<br></br>
 
 Những cú dập phía sau càng nhanh càng mạnh hắn chưa kịp hỏi thì Trang đã chủ động nói:"Bắn tinh vào lồn em đi... cho em đi..."<br></br>
 
 <br>Nghe câu nói đó hắn gồng mình dập mạnh bạo mấy cái rồi bắn thẳng vào bên trong tận sau cổ tử cung của Trang. Trang như lịm đi nằm gục trên giường massa miệng thì thở gấp, lôn cô co bóp như siết chăt hết những gì còn lại của hăn.Cố thầm nghĩ hắn ra 1 lần nhiều bằng cả tuần Phong bắn vào công lại mất.
-
 <br></br> Sau khi cả hai nằm thở gấp, Trang nhìn lên trần, đồng hồ vẫn còn gần 2 tiếng trước khi phải rời khỏi khách sạn. Cô khẽ xoay người, thì thầm vào tai anh ta:
-
-<br></br><br></br>
-
+<br></br>
 “Ở đây có phòng tắm phải không...Anh...?”<br></br>
 
 Anh ta mỉm cười, nhấc bổng cô lên như hiểu ý. <br></br> <img src="/images/chong-sap-cuoi-cam-sung/trang.jpg" alt="chồng sắp cưới bị cắm sừng"/>
-
-<br></br> Dòng nước ấm xối lên da thịt, tiếng rên bị dội lại bởi vách đá lạnh. Trang siết chặt bờ vai anh ta, hai chân quấn lấy eo.<br></br>
+<br>👉 <a href="https://anhsexviet.info" 
+     target="_blank" 
+     title="ảnh sex người lớn, ảnh sex 18+ tại anhsexviet.info"
+     style="text-decoration: underline; color: #0070f3;">
+    chi tiết ảnh sex
+  </a>
+  </br>
+ Dòng nước ấm xối lên da thịt, tiếng rên bị dội lại bởi vách đá lạnh. Trang siết chặt bờ vai anh ta, hai chân quấn lấy eo.<br></br>
 
 Họ trộn lẫn vào nhau — như thể tất cả những giới hạn đạo đức đã bị hòa tan. Trong phòng tắm hơi nước mờ ảo, Trang và hắn lại sex thêm 1 lần nữa,Trang thích cái cảm giác đừng úp mặt vào bước tường bằng kính của phòng tắm để cho hắn đứng đằng sau đưa đẩy, mỗi cú đẩy mạnh lại khiến bầu ngực của cô áp mạnh vào tường kính cảm giác kích thích tột độ.<br></br>
 

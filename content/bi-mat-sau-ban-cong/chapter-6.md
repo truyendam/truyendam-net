@@ -102,8 +102,14 @@ Mỗi lần nhún mạnh, nước lồn Phương bắn ra dầm dề, ướt sũ
 
 Đúng lúc Phương sắp lên đỉnh, Hoàn nằm dưới, thì thào thở dốc bên tai chị: – Chị… em sắp ra… cho em bắn trong nữa nhé… Phương lắc đầu, thở gấp thì thầm nói đừng.....rồi vội rút con cặc ra khỏi lồn mình rồi bất ngờ cúi xuống ngậm trọn lấy dương vật đang giật mạnh.<br></br>
 
-Hoàn choáng váng vì sướng, không kịp nói gì, toàn bộ tinh trùng phóng thẳng vào miệng Phương, từng đợt nóng hổi bắn sâu tận cuống họng.<br></br>
-
+Hoàn choáng váng vì sướng, không kịp nói gì, toàn bộ tinh trùng phóng thẳng vào miệng Phương, từng đợt nóng hổi bắn sâu tận cuống họng.
+<br>👉 <a href="https://anhsexviet.info" 
+     target="_blank" 
+     title="ảnh sex người lớn, ảnh sex 18+ tại anhsexviet.info"
+     style="text-decoration: underline; color: #0070f3;">
+    chi tiết ảnh sex
+  </a>
+  </br>
 Phương ngậm chặt, hai tay giữ cặc cho khỏi tuột, mút thật sâu, nuốt trọn từng dòng tinh trùng nóng bỏng. Hoàn rên bật thành tiếng, người giật liên hồi, mãi đến khi con cặc nằm im hẳn trong miệng Phương, cả hai mới cùng rã rời ngã xuống, hoà quyện trong đê mê và khoái cảm tội lỗi.
 <br></br>
 ----------------------Còn Tiếp----------------------

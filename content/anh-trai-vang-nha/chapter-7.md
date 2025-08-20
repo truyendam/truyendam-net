@@ -103,12 +103,12 @@ Hà như phát điên, thân thể cong lên từng hồi, vừa khóc vừa rê
 
 Từng đợt sóng khoái cảm cứ dồn lên, Hà lúc này không còn biết mình đang khóc hay đang rên, nước mắt lăn dài trên má hòa lẫn dòng nước nhờn nóng hổi chảy tràn giữa hai đùi. Hà rướn người, cơ thể run rẩy, miệng vừa rên vừa ngậm chặt lấy cặc Dũng, đầu óc như mờ đi giữa cơn mê sex cấm kỵ. Dũng đan tay vào tóc Hà, thì thầm khản đặc trong hơi thở:<br></br>
 
-— "Nuốt hết cho em đi…a....ự…"<br></br>
-<br>👉 Xem ảnh liên quan: <a href="https://anhsexviet.info" 
+— "Nuốt hết cho em đi…a....ự…"
+<br>👉 <a href="https://anhsexviet.info" 
      target="_blank" 
      title="ảnh sex người lớn, ảnh sex 18+ tại anhsexviet.info"
      style="text-decoration: underline; color: #0070f3;">
-    anhsexviet.info
+    chi tiết ảnh sex
   </a>
   </br>
 Hà chỉ còn biết gật đầu, nước mắt và nước miếng rỉ ra cùng lúc, bàn tay bấu chặt lấy thành giường, mông vẫn dồn sức đẩy ngược lại nhịp dập điên cuồng của Tuấn phía sau. Cơ thể bị kẹp giữa hai người đàn ông, Hà cảm giác mình như tan ra thành nước, mọi cảm xúc chỉ còn lại sự buông xuôi đầy khoái cảm...<br></br>
