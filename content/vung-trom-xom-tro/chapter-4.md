@@ -107,7 +107,6 @@ Thảo nhìn Hưng sững sờ, chưa kịp phản ứng gì thì Hưng đã cú
 Chị Thảo bối rối, mặt đỏ bừng, lắp bắp:
 
 – Em… em nói gì vậy? Như thế này… chị thấy có lỗi với anh Công lắm… chị… không được đâu…
-<br></br>
 <!-- Từ khóa: truyện sex vợ nhân viên, vợ làm sales bất động sản, truyện ngoại tình lén lút, truyện sex hay nhất, sex xếp chén vợ nhân viên, truyện sex ép buộc, truyện 18+, truyện người lớn đặc sắc, đọc truyện sex miễn phí tại Truyendam.net -->
 <br></br>
 <p>
