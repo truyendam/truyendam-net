@@ -133,7 +133,13 @@ Sự ngạc nhiên, tò mò pha lẫn sợ hãi càng khiến Phương tê dại
 — Ư… ah…
 <br></br>
 <img src="/images/trai-mien-nui/phuong-bi-chen.jpg" alt="Phương bị ngươi yêu bạn địt khi đang ngủ"/>
-<br></br>
+<br>👉 <a href="https://anhsexviet.info" 
+     target="_blank" 
+     title="ảnh sex người lớn, ảnh sex 18+ tại anhsexviet.info"
+     style="text-decoration: underline; color: #0070f3;">
+    chi tiết ảnh sex
+  </a>
+  </br>
 Cảm giác mới lạ, vừa tội lỗi vừa khoái cảm khiến Phương phải cắn môi giữ tiếng. Long dập chậm, từng nhịp thật sâu, mùi nước dâm và mồ hôi hòa lẫn, tiếng nhóp nhép vang lên rõ trong đêm vắng. Phương co chân, hai tay bấu chặt ga giường, mắt nhắm nghiền, từng nhịp Long đẩy vào càng làm nước trào ra nhiều hơn, cảm giác choáng ngợp chưa từng có.
 
 

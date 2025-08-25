@@ -99,7 +99,13 @@ Hưng ngập ngừng, mắt vẫn không dám nhìn thẳng vào chị, giọng 
 Cậu lấy hết can đảm, quyết định đánh liều, vì trong lòng nghĩ: đã một lần “ăn” rồi thì bây giờ được ăn cả, ngã về không.
 
 – Em xin… trước khi chị uống thuốc… cho em một lần cuối được không ạ?
-
+<br>👉 <a href="https://anhsexviet.info" 
+     target="_blank" 
+     title="ảnh sex người lớn, ảnh sex 18+ tại anhsexviet.info"
+     style="text-decoration: underline; color: #0070f3;">
+    chi tiết ảnh sex
+  </a>
+  </br>
 Thảo nhìn Hưng sững sờ, chưa kịp phản ứng gì thì Hưng đã cúi gằm mặt xuống, bộ dạng vừa tội nghiệp vừa thật thà:
 
 – Thì… đằng nào chị cũng uống thuốc rồi… chị cho em được một lần nữa không? Em thề không bao giờ nói với ai đâu…

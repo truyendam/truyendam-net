@@ -126,7 +126,13 @@ Nó sắp quá giới hạn. Những cú thúc của nó đóng làm Nàng tê r
 – Ôi… ui… nhẹ… thôi… chị… ra…
 
 Hưng gồng người, dập những cú cuối cùng thật sâu, đầu khấc nén chặt vào miệng tử cung. Cơn sướng kéo tới như bão tố, từng dòng tinh dịch nóng hổi bắn xối xả vào sâu bên trong lồn Thảo. Chị bấu chặt lấy Hưng, run rẩy co giật trong khoái cảm cực điểm…
-
+<br>👉 <a href="https://anhsexviet.info" 
+     target="_blank" 
+     title="ảnh sex người lớn, ảnh sex 18+ tại anhsexviet.info"
+     style="text-decoration: underline; color: #0070f3;">
+    chi tiết ảnh sex
+  </a>
+  </br>
 Cả người Thảo bồng bềnh, mê man trong khoái cảm cực hạn, như bị cuốn trôi giữa cơn sóng thần đê mê. Hưng ôm ghì lấy chị, hai cơ thể dính chặt vào nhau. Chưa kịp hoàn hồn, Thảo đã bị Hưng hôn ngấu nghiến, lưỡi hai người quấn lấy nhau, ướt át, tham lam, tiếng thở hòa quyện giữa những cái hôn sâu dài bất tận.
 <!-- Đọc truyện sex vợ ngoại tình, vợ nhân viên bị hiếp dâm, vợ làm sales BĐS, sex công ty, truyện sex người lớn, sex bạo lực, truyện 18+, Truyendam.net kho truyện sex cập nhật nhanh nhất -->
 <br></br>

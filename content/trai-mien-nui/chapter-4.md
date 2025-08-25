@@ -111,11 +111,11 @@ Rồi chị lại cúi xuống, lần này ngậm thật sâu, tới tận gốc
 
 
  Mỗi lần Trang mút sâu, nước miệng và dãi dâm tràn ra, chảy dọc thân cu, tạo thành tiếng nhóp nhép ướt át vang vọng khắp căn phòng nhỏ. Long rên rỉ, chân run lên vì sung sướng, chưa bao giờ cảm giác bị đàn bà nuốt trọn vừa mút vừa vuốt lại làm cậu mất kiểm soát như vậy.
-<br>👉 Xem ảnh liên quan: <a href="https://anhsexviet.info" 
+<br>👉 <a href="https://anhsexviet.info" 
      target="_blank" 
      title="ảnh sex người lớn, ảnh sex 18+ tại anhsexviet.info"
      style="text-decoration: underline; color: #0070f3;">
-    anhsexviet.info
+    chi tiết ảnh sex
   </a>
   </br>
 Không chịu nổi, Long kéo chị lên, đè ngửa ra giường, cậu nhỏ vẫn cứng như đá, dính đầy nước miệng của Trang, đầu khấc đỏ ửng như chờ được thưởng nữa. Long không nói một lời, chỉ nhìn vào mắt chị, rồi dí sát con cu nóng hổi vào mép bướm, tay mở rộng hai đùi Trang ra.

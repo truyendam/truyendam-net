@@ -23,11 +23,11 @@ Một lúc sau, ông Quang rên dài, siết chặt đầu Lan, dòng tinh đặ
 Ông Quang kéo Lan lên, đặt cô nằm ngửa, hai chân dạng rộng. Không chút vội vàng, ông dí đầu khấc nóng hổi cạ sát mép lồn, vừa miết vừa day quanh khe bướm đã rịn nước, khiến Lan rùng mình bật lên tiếng rên thèm khát: “Cho vào đi...”<br></br>
 
 Ông Quang chậm rãi lấn sâu, đầu khấc to cứng tách từng phân mép lồn, nóng rực trượt sâu vào trong, nhấp nhô chậm rãi rồi dồn lực thúc mạnh. “A... aa... to quá... sâu quá... bố ơi...” – Lan cắn môi, mắt nhòe nước, hai chân kẹp chặt hông ông. Tiếng da thịt va chạm, tiếng nước lồn nhóp nhép vang dội trong căn phòng kín mít. Cứ mỗi cú nhấp mạnh là một đợt khoái cảm cuộn lên, Lan bật rên nghẹn ngào, cơ thể run lên bần bật, nước lồn trào ra dầm dề.
-<br>👉 Xem ảnh liên quan: <a href="https://anhsexviet.info" 
+<br>👉 <a href="https://anhsexviet.info" 
      target="_blank" 
      title="ảnh sex người lớn, ảnh sex 18+ tại anhsexviet.info"
      style="text-decoration: underline; color: #0070f3;">
-    anhsexviet.info
+    chi tiết ảnh sex
   </a>
   </br>
 Ông Quang đổi tư thế, kéo Lan ngồi hẳn lên bụng mình, hai tay ghì chặt eo cô, để cô cưỡi ngựa chủ động. Lan nhấc hông, chủ động dập mông từng nhịp, con cặc to dài trượt sâu tận cùng trong lồn, mỗi lần nhấp là một lần bắn nước lồn ra khắp thân cặc. “Bố... sâu quá... aa... con muốn nhiều nữa... cho con lên nữa đi…” – Lan rên rỉ, hai tay bám chặt vai ông, mồ hôi ướt đẫm lưng, đầu tóc rối bù, hai bầu vú phập phồng sát mặt ông Quang.<br></br>

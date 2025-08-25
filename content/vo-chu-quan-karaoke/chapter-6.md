@@ -73,7 +73,13 @@ Sau một lúc, Sơn kéo Hạnh đứng dậy, xoay người cô lại, ghì s�
  Ban đầu, Hạnh rên khẽ vì thấy đau rát, từng viên bi cọ sát vào thành lồn làm cô giật mình, hai chân run bần bật. Nhưng cảm giác đó chỉ thoáng qua, rất nhanh sau đó là một thứ khoái lạ dâng lên, mỗi lần Sơn thúc sâu, những viên bi lăn miết quanh thành lồn khiến Hạnh vừa tê vừa buốt, càng bị địt càng ngấm. 
 
 Mỗi cú dập, Hạnh lại bật rên "a... a..." từng nhịp, nước nhờn trào ra như suối, chảy ướt cả đùi và ghế sofa. Chưa bao giờ cô thấy mình bị làm cho phát điên kiểu này, vừa nhục vừa mê, càng bị cạ càng không muốn dừng.
-
+<br>👉 <a href="https://anhsexviet.info" 
+     target="_blank" 
+     title="ảnh sex người lớn, ảnh sex 18+ tại anhsexviet.info"
+     style="text-decoration: underline; color: #0070f3;">
+    chi tiết ảnh sex
+  </a>
+  </br>
 Sơn bắt đầu dập mạnh từ phía sau, mỗi cú thúc là từng vòng bi cạ sát, nước nhờn của Hạnh trào ra nhiều đến mức vừa đau vừa sướng, từng đợt co giật liên tục không kiểm soát nổi. Hạnh càng bị dập càng rên to, hai chân bất giác vòng chặt lấy lưng Sơn, tay ghì cổ kéo anh lại, môi vừa rên vừa cố gắng hôn ngấu nghiến. 
 
 Sơn nghĩ thầm trong bụng: "Vợ thằng Phong vừa xinh vừa dâm,vụng trộm địt nhân viên cũng nhiều mà lồn vẫn còn khít thật." Miệng vừa gằn từng câu khẩu dâm, hai tay vẫn giữ chặt eo Hạnh, mông dập không ngừng, nước nhờn văng ra dính cả lên tay và thành ghế sofa.

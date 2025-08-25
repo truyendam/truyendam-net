@@ -762,17 +762,38 @@ const mockChapters = {
             hasMarkdown: true,
             updatedAt: "2025-08-21T11:00:00+09:00"
         },
-        8: {
-            id: 8,
-            title: "Chương 8",
+    },
+    // chị yến
+    "chi-yen": {
+        1: {
+            id: 1,
+            title: "Chương 1",
             hasMarkdown: true,
-            updatedAt: "2025-08-21T11:00:00+09:00"
+            updatedAt: "2025-08-25T11:00:00+09:00"
         },
-        9: {
-            id: 9,
-            title: "Chương 9",
+        2: {
+            id: 2,
+            title: "Chương 2",
             hasMarkdown: true,
-            updatedAt: "2025-08-21T11:00:00+09:00"
+            updatedAt: "2025-08-25T11:00:00+09:00"
+        },
+        3: {
+            id: 3,
+            title: "Chương 3",
+            hasMarkdown: true,
+            updatedAt: "2025-08-25T11:00:00+09:00"
+        },
+        4: {
+            id: 4,
+            title: "Chương 4",
+            hasMarkdown: true,
+            updatedAt: "2025-08-25T11:00:00+09:00"
+        },
+        5: {
+            id: 5,
+            title: "Chương 5",
+            hasMarkdown: true,
+            updatedAt: "2025-08-25T11:00:00+09:00"
         },
     },
 };

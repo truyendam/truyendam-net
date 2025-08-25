@@ -127,7 +127,13 @@ Bất ngờ Hạnh há miệng mút lấy những giọt tinh còn sót lại tr
 — Chị…tuyệt quá...
 
 Hạnh vừa mút vừa liếm, trong đầu thì lộn xộn đủ kiểu cảm giác. Đã làm chuyện này rồi mà vẫn vừa ngại vừa sướng. Càng cấm càng thèm, càng nghĩ là sai lại càng muốn dính vào, cứ như càng bị dụ dỗ lại càng khó dứt ra. Thậm chí trong đầu còn thấy thích cái cảm giác lén lút thế này – hồi hộp, run mà cứ muốn làm tiếp, không muốn dừng lại nữa.
-
+<br>👉 <a href="https://anhsexviet.info" 
+     target="_blank" 
+     title="ảnh sex người lớn, ảnh sex 18+ tại anhsexviet.info"
+     style="text-decoration: underline; color: #0070f3;">
+    chi tiết ảnh sex
+  </a>
+  </br>
 Tuấn lấy khăn ấm lau mặt lau cổ cho Hạnh, tay chạm vào da mà cô thấy tim mình như đập loạn lên, kiểu vừa được chiều, vừa được yêu. Cả hai nhìn nhau cười, chẳng ai nói gì, chỉ biết dọn dẹp cho xong rồi ra ngoài như chưa hề có gì xảy ra, nhưng trong bụng thì cứ lâng lâng, phê mãi không thôi.
 <br></br>
 <!-- truyện sex karaoke, vợ ông chủ, sex vợ sếp, tình chị em, truyện sex xóm trọ, truyện sex vụng trộm, truyện 18+, truyện sex người lớn, Truyendam.net -->
