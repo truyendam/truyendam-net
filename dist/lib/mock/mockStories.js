@@ -64,7 +64,7 @@ exports.mockStories = [
         //views: generateFakeViews(9000, 15000),
         views: 34521,
         status: "ongoing",
-        updatedAt: "2025-07-07"
+        updatedAt: "2026-01-07"
     },
     //04. Chị... Bí mật nhé
     {
@@ -85,7 +85,7 @@ exports.mockStories = [
         //views: generateFakeViews(6000, 10000),
         views: 18790,
         status: "ongoing",
-        updatedAt: "2025-07-14",
+        updatedAt: "2026-01-07",
     },
     //05. Lạc lối ở Pickleball
     {

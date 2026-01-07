@@ -27,15 +27,15 @@ const mockChapters = {
         13: { id: 13, title: "Chương 13", hasMarkdown: true, updatedAt: "2025-07-03T11:00:00+09:00" }
     },
     "chong-sap-cuoi-cam-sung": {
-        1: { id: 1, title: "Chương 1", hasMarkdown: true, updatedAt: "2025-07-07T08:00:00+09:00" },
-        2: { id: 2, title: "Chương 2", hasMarkdown: true, updatedAt: "2025-07-07T10:00:00+09:00" },
-        3: { id: 3, title: "Chương 3", hasMarkdown: true, updatedAt: "2025-07-08T08:00:00+09:00" }
+        1: { id: 1, title: "Chương 1", hasMarkdown: true, updatedAt: "2026-01-07T08:00:00+09:00" },
+        2: { id: 2, title: "Chương 2", hasMarkdown: true, updatedAt: "2026-01-07T08:00:00+09:00" },
+        3: { id: 3, title: "Chương 3", hasMarkdown: true, updatedAt: "2026-01-07T08:00:00+09:00" }
     },
     "chi-bi-mat-nhe": {
-        1: { id: 1, title: "Chương 1", hasMarkdown: true, updatedAt: "2025-07-08T15:00:00+09:00" },
-        2: { id: 2, title: "Chương 2", hasMarkdown: true, updatedAt: "2025-07-09T08:00:00+09:00" },
-        3: { id: 3, title: "Chương 3", hasMarkdown: true, updatedAt: "2025-07-10T08:00:00+09:00" },
-        4: { id: 4, title: "Chương 4", hasMarkdown: true, updatedAt: "2025-07-14T08:00:00+09:00" }
+        1: { id: 1, title: "Chương 1", hasMarkdown: true, updatedAt: "2026-01-07T08:00:00+09:00" },
+        2: { id: 2, title: "Chương 2", hasMarkdown: true, updatedAt: "2026-01-07T08:00:00+09:00" },
+        3: { id: 3, title: "Chương 3", hasMarkdown: true, updatedAt: "2026-01-07T08:00:00+09:00" },
+        4: { id: 4, title: "Chương 4", hasMarkdown: true, updatedAt: "2026-01-07T08:00:00+09:00" }
     },
     "lac-loi-o-pickleball": {
         1: {
